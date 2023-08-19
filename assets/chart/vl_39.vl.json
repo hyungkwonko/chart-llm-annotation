@@ -1,0 +1,259 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/infrahumano/elecciones2018/master/segunda_vuelta_presidencial/segunda_vuelta_presidencial.csv",
+    "format": {
+      "parse": {
+        "total_votantes": "number",
+        "votantes": "number"
+      }
+    }
+  },
+  "title": "Distribution of total voters",
+  "hconcat": [
+    {
+      "vconcat": [
+        {
+          "mark": "tick",
+          "transform": [
+            {
+              "aggregate": [
+                {
+                  "op": "sum",
+                  "field": "total_votantes",
+                  "as": "votantesPorDepartamento"
+                }
+              ],
+              "groupby": [
+                "departamento"
+              ]
+            }
+          ],
+          "encoding": {
+            "x": {
+              "type": "quantitative",
+              "field": "votantesPorDepartamento",
+              "axis": {
+                "title": "By department"
+              }
+            },
+            "color": {
+              "condition": {
+                "selection": "deptosi",
+                "value": "purple"
+              },
+              "value": "grey"
+            },
+            "tooltip": [
+              {
+                "field": "departamento",
+                "type": "nominal",
+                "title": "Department"
+              },
+              {
+                "field": "votantesPorDepartamento",
+                "type": "quantitative",
+                "title": "Total voters",
+                "format": ","
+              }
+            ]
+          }
+        },
+        {
+          "transform": [
+            {
+              "filter": {
+                "selection": "deptosi"
+              }
+            }
+          ],
+          "mark": "tick",
+          "encoding": {
+            "x": {
+              "type": "quantitative",
+              "field": "total_votantes",
+              "axis": {
+                "title": "By municipality"
+              }
+            },
+            "tooltip": [
+              {
+                "field": "municipio",
+                "type": "nominal",
+                "title": "Municipality"
+              },
+              {
+                "field": "total_votantes",
+                "type": "quantitative",
+                "title": "Total voters",
+                "format": ","
+              }
+            ],
+            "color": {
+              "value": "purple"
+            }
+          }
+        },
+        {
+          "transform": [
+            {
+              "calculate": "(datum.total_votantes - datum.votantes)/datum.total_votantes",
+              "as": "abstencion"
+            },
+            {
+              "aggregate": [
+                {
+                  "op": "sum",
+                  "field": "votantes",
+                  "as": "votantesPorDepartamento"
+                },
+                {
+                  "op": "sum",
+                  "field": "total_votantes",
+                  "as": "totalVotantesPorDepartamento"
+                },
+                {
+                  "op": "mean",
+                  "field": "abstencion",
+                  "as": "abstencion2"
+                }
+              ],
+              "groupby": [
+                "departamento"
+              ]
+            }
+          ],
+          "mark": "bar",
+          "encoding": {
+            "x": {
+              "type": "quantitative",
+              "field": "totalVotantesPorDepartamento",
+              "bin": {
+                "step": 500000
+              },
+              "axis": {
+                "title": "Total voters by department"
+              }
+            },
+            "y": {
+              "field": "*",
+              "type": "quantitative",
+              "aggregate": "count",
+              "axis": {
+                "title": "Department count"
+              }
+            },
+            "fill": {
+              "bin": true,
+              "field": "abstencion2",
+              "type": "quantitative",
+              "title": "Abstention %"
+            },
+            "stroke": {
+              "condition": {
+                "selection": "deptosi",
+                "value": "purple"
+              },
+              "value": "white"
+            },
+            "tooltip": [
+              {
+                "field": "departamento",
+                "type": "nominal",
+                "title": "Department"
+              },
+              {
+                "field": "totalVotantesPorDepartamento",
+                "type": "quantitative",
+                "title": "Total voters",
+                "format": ","
+              },
+              {
+                "field": "votantesPorDepartamento",
+                "type": "quantitative",
+                "title": "Voters",
+                "format": ","
+              },
+              {
+                "field": "abstencion2",
+                "type": "quantitative",
+                "title": "Abstention",
+                "format": ".1%"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Voters by department",
+      "layer": [
+        {
+          "mark": "bar",
+          "encoding": {
+            "x": {
+              "aggregate": "sum",
+              "type": "quantitative",
+              "field": "total_votantes",
+              "axis": {
+                "title": "Total number of voters"
+              }
+            },
+            "color": {
+              "condition": {
+                "selection": "deptosi",
+                "value": "red"
+              },
+              "value": "pink"
+            },
+            "opacity": {
+              "value": 0.8
+            }
+          },
+          "selection": {
+            "deptosi": {
+              "type": "interval",
+              "empty": "none",
+              "encodings": [
+                "y"
+              ]
+            }
+          }
+        },
+        {
+          "mark": "bar",
+          "encoding": {
+            "x": {
+              "aggregate": "sum",
+              "type": "quantitative",
+              "field": "votantes",
+              "axis": {
+                "title": "Number of voters"
+              }
+            },
+            "color": {
+              "value": "blue"
+            },
+            "opacity": {
+              "value": 1
+            }
+          }
+        }
+      ],
+      "encoding": {
+        "y": {
+          "field": "departamento",
+          "type": "nominal",
+          "sort": {
+            "op": "sum",
+            "field": "votantes",
+            "order": "descending"
+          },
+          "axis": {
+            "title": "Departments of Colombia"
+          }
+        }
+      }
+    }
+  ]
+}

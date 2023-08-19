@@ -1,0 +1,2619 @@
+year,region,gdpPercap,country,country,gdpPercap
+1952,Asia,1070,Afghanistan,Afghanistan,1070
+1952,Europe,2010,Albania,Albania,2010
+1952,Africa,4100,Algeria,Algeria,4100
+1952,Europe,8160,Andorra,Andorra,8160
+1952,Africa,3340,Angola,Angola,3340
+1952,Americas,3640,Antigua and Barbuda,Antigua and Barbuda,3640
+1952,Americas,7800,Argentina,Argentina,7800
+1952,Europe,1920,Armenia,Armenia,1920
+1952,Asia,12100,Australia,Australia,12100
+1952,Europe,7410,Austria,Austria,7410
+1952,Europe,3760,Azerbaijan,Azerbaijan,3760
+1952,Americas,11100,Bahamas,Bahamas,11100
+1952,Asia,17400,Bahrain,Bahrain,17400
+1952,Asia,1050,Bangladesh,Bangladesh,1050
+1952,Americas,3350,Barbados,Barbados,3350
+1952,Europe,2950,Belarus,Belarus,2950
+1952,Europe,10700,Belgium,Belgium,10700
+1952,Americas,1890,Belize,Belize,1890
+1952,Africa,1240,Benin,Benin,1240
+1952,Asia,868,Bhutan,Bhutan,868
+1952,Americas,3390,Bolivia,Bolivia,3390
+1952,Europe,1150,Bosnia and Herzegovina,Bosnia and Herzegovina,1150
+1952,Africa,864,Botswana,Botswana,864
+1952,Americas,3190,Brazil,Brazil,3190
+1952,Asia,58500,Brunei,Brunei,58500
+1952,Europe,3160,Bulgaria,Bulgaria,3160
+1952,Africa,550,Burkina Faso,Burkina Faso,550
+1952,Africa,542,Burundi,Burundi,542
+1952,Asia,1160,Cambodia,Cambodia,1160
+1952,Africa,1540,Cameroon,Cameroon,1540
+1952,Americas,12900,Canada,Canada,12900
+1952,Africa,798,Cape Verde,Cape Verde,798
+1952,Africa,1270,Central African Republic,Central African Republic,1270
+1952,Africa,1280,Chad,Chad,1280
+1952,Americas,5450,Chile,Chile,5450
+1952,Asia,632,China,China,632
+1952,Americas,3200,Colombia,Colombia,3200
+1952,Africa,848,Comoros,Comoros,848
+1952,Africa,1850,"Congo, Dem. Rep.","Congo, Dem. Rep.",1850
+1952,Africa,1900,"Congo, Rep.","Congo, Rep.",1900
+1952,Americas,3270,Costa Rica,Costa Rica,3270
+1952,Africa,2120,Cote d'Ivoire,Cote d'Ivoire,2120
+1952,Europe,4560,Croatia,Croatia,4560
+1952,Americas,9620,Cuba,Cuba,9620
+1952,Europe,4020,Cyprus,Cyprus,4020
+1952,Europe,8360,Czech Republic,Czech Republic,8360
+1952,Europe,12100,Denmark,Denmark,12100
+1952,Africa,3290,Djibouti,Djibouti,3290
+1952,Americas,2210,Dominica,Dominica,2210
+1952,Americas,2360,Dominican Republic,Dominican Republic,2360
+1952,Americas,3730,Ecuador,Ecuador,3730
+1952,Africa,1800,Egypt,Egypt,1800
+1952,Americas,3560,El Salvador,El Salvador,3560
+1952,Africa,506,Equatorial Guinea,Equatorial Guinea,506
+1952,Africa,831,Eritrea,Eritrea,831
+1952,Europe,5300,Estonia,Estonia,5300
+1952,Africa,593,Ethiopia,Ethiopia,593
+1952,Asia,2920,Fiji,Fiji,2920
+1952,Europe,7950,Finland,Finland,7950
+1952,Europe,8450,France,France,8450
+1952,Africa,773,Gabon,Gabon,773
+1952,Africa,1030,Gambia,Gambia,1030
+1952,Europe,2430,Georgia,Georgia,2430
+1952,Europe,8540,Germany,Germany,8540
+1952,Africa,1630,Ghana,Ghana,1630
+1952,Europe,4040,Greece,Greece,4040
+1952,Americas,1730,Grenada,Grenada,1730
+1952,Americas,3000,Guatemala,Guatemala,3000
+1952,Africa,653,Guinea,Guinea,653
+1952,Africa,901,Guinea-Bissau,Guinea-Bissau,901
+1952,Americas,3850,Guyana,Guyana,3850
+1952,Americas,2370,Haiti,Haiti,2370
+1952,Americas,2470,Honduras,Honduras,2470
+1952,Europe,6670,Hungary,Hungary,6670
+1952,Europe,8180,Iceland,Iceland,8180
+1952,Asia,907,India,India,907
+1952,Asia,1550,Indonesia,Indonesia,1550
+1952,Asia,3930,Iran,Iran,3930
+1952,Asia,3460,Iraq,Iraq,3460
+1952,Europe,6560,Ireland,Ireland,6560
+1952,Asia,4520,Israel,Israel,4520
+1952,Europe,7060,Italy,Italy,7060
+1952,Americas,3040,Jamaica,Jamaica,3040
+1952,Asia,3060,Japan,Japan,3060
+1952,Asia,3020,Jordan,Jordan,3020
+1952,Asia,6260,Kazakhstan,Kazakhstan,6260
+1952,Africa,1880,Kenya,Kenya,1880
+1952,Asia,2170,Kiribati,Kiribati,2170
+1952,Asia,7340,Kuwait,Kuwait,7340
+1952,Asia,2380,Kyrgyz Republic,Kyrgyz Republic,2380
+1952,Asia,1160,Lao,Lao,1160
+1952,Europe,4090,Latvia,Latvia,4090
+1952,Asia,7360,Lebanon,Lebanon,7360
+1952,Africa,460,Lesotho,Lesotho,460
+1952,Africa,1560,Liberia,Liberia,1560
+1952,Africa,5870,Libya,Libya,5870
+1952,Europe,6780,Lithuania,Lithuania,6780
+1952,Europe,18600,Luxembourg,Luxembourg,18600
+1952,Europe,2380,"Macedonia, FYR","Macedonia, FYR",2380
+1952,Africa,2000,Madagascar,Madagascar,2000
+1952,Africa,435,Malawi,Malawi,435
+1952,Asia,2830,Malaysia,Malaysia,2830
+1952,Asia,908,Maldives,Maldives,908
+1952,Africa,721,Mali,Mali,721
+1952,Europe,2600,Malta,Malta,2600
+1952,Asia,1420,Marshall Islands,Marshall Islands,1420
+1952,Africa,1270,Mauritania,Mauritania,1270
+1952,Africa,2480,Mauritius,Mauritius,2480
+1952,Americas,4660,Mexico,Mexico,4660
+1952,Asia,1210,"Micronesia, Fed. Sts.","Micronesia, Fed. Sts.",1210
+1952,Europe,2800,Moldova,Moldova,2800
+1952,Asia,919,Mongolia,Mongolia,919
+1952,Europe,3860,Montenegro,Montenegro,3860
+1952,Africa,2100,Morocco,Morocco,2100
+1952,Africa,423,Mozambique,Mozambique,423
+1952,Asia,694,Myanmar,Myanmar,694
+1952,Africa,3900,Namibia,Namibia,3900
+1952,Asia,828,Nepal,Nepal,828
+1952,Europe,9580,Netherlands,Netherlands,9580
+1952,Asia,13300,New Zealand,New Zealand,13300
+1952,Americas,4130,Nicaragua,Nicaragua,4130
+1952,Africa,994,Niger,Niger,994
+1952,Africa,2980,Nigeria,Nigeria,2980
+1952,Asia,784,North Korea,North Korea,784
+1952,Europe,12300,Norway,Norway,12300
+1952,Asia,3290,Oman,Oman,3290
+1952,Asia,1110,Pakistan,Pakistan,1110
+1952,Asia,1260,Palestine,Palestine,1260
+1952,Americas,3220,Panama,Panama,3220
+1952,Asia,973,Papua New Guinea,Papua New Guinea,973
+1952,Americas,2870,Paraguay,Paraguay,2870
+1952,Americas,4710,Peru,Peru,4710
+1952,Asia,2070,Philippines,Philippines,2070
+1952,Europe,4870,Poland,Poland,4870
+1952,Europe,3990,Portugal,Portugal,3990
+1952,Asia,2450,Qatar,Qatar,2450
+1952,Europe,4210,Romania,Romania,4210
+1952,Europe,8020,Russia,Russia,8020
+1952,Africa,553,Rwanda,Rwanda,553
+1952,Asia,3050,Samoa,Samoa,3050
+1952,Africa,1160,Sao Tome and Principe,Sao Tome and Principe,1160
+1952,Asia,3110,Saudi Arabia,Saudi Arabia,3110
+1952,Africa,1810,Senegal,Senegal,1810
+1952,Europe,4220,Serbia,Serbia,4220
+1952,Africa,5200,Seychelles,Seychelles,5200
+1952,Africa,1090,Sierra Leone,Sierra Leone,1090
+1952,Asia,3310,Singapore,Singapore,3310
+1952,Europe,6200,Slovak Republic,Slovak Republic,6200
+1952,Europe,4830,Slovenia,Slovenia,4830
+1952,Asia,973,Solomon Islands,Solomon Islands,973
+1952,Africa,1050,Somalia,Somalia,1050
+1952,Africa,7190,South Africa,South Africa,7190
+1952,Asia,794,South Korea,South Korea,794
+1952,Africa,1980,South Sudan,South Sudan,1980
+1952,Europe,4660,Spain,Spain,4660
+1952,Asia,1920,Sri Lanka,Sri Lanka,1920
+1952,Americas,1630,St. Lucia,St. Lucia,1630
+1952,Americas,2280,St. Vincent and the Grenadines,St. Vincent and the Grenadines,2280
+1952,Africa,1880,Sudan,Sudan,1880
+1952,Americas,5780,Suriname,Suriname,5780
+1952,Africa,1510,Swaziland,Swaziland,1510
+1952,Europe,12100,Sweden,Sweden,12100
+1952,Europe,21600,Switzerland,Switzerland,21600
+1952,Asia,2070,Syria,Syria,2070
+1952,Asia,2540,Tajikistan,Tajikistan,2540
+1952,Africa,1040,Tanzania,Tanzania,1040
+1952,Asia,1260,Thailand,Thailand,1260
+1952,Asia,707,Timor-Leste,Timor-Leste,707
+1952,Africa,1070,Togo,Togo,1070
+1952,Asia,1410,Tonga,Tonga,1410
+1952,Americas,5050,Trinidad and Tobago,Trinidad and Tobago,5050
+1952,Africa,1930,Tunisia,Tunisia,1930
+1952,Europe,4090,Turkey,Turkey,4090
+1952,Asia,5190,Turkmenistan,Turkmenistan,5190
+1952,Africa,808,Uganda,Uganda,808
+1952,Europe,4110,Ukraine,Ukraine,4110
+1952,Asia,1220,United Arab Emirates,United Arab Emirates,1220
+1952,Europe,11400,United Kingdom,United Kingdom,11400
+1952,Americas,16500,United States,United States,16500
+1952,Americas,8500,Uruguay,Uruguay,8500
+1952,Asia,1780,Uzbekistan,Uzbekistan,1780
+1952,Asia,1330,Vanuatu,Vanuatu,1330
+1952,Americas,11500,Venezuela,Venezuela,11500
+1952,Asia,1010,Vietnam,Vietnam,1010
+1952,Asia,1360,Yemen,Yemen,1360
+1952,Africa,2780,Zambia,Zambia,2780
+1952,Africa,1560,Zimbabwe,Zimbabwe,1560
+1957,Asia,1140,Afghanistan,Afghanistan,1140
+1957,Europe,2440,Albania,Albania,2440
+1957,Africa,5200,Algeria,Algeria,5200
+1957,Europe,12100,Andorra,Andorra,12100
+1957,Africa,3670,Angola,Angola,3670
+1957,Americas,4110,Antigua and Barbuda,Antigua and Barbuda,4110
+1957,Americas,8910,Argentina,Argentina,8910
+1957,Europe,2300,Armenia,Armenia,2300
+1957,Asia,13200,Australia,Australia,13200
+1957,Europe,10600,Austria,Austria,10600
+1957,Europe,4600,Azerbaijan,Azerbaijan,4600
+1957,Americas,13300,Bahamas,Bahamas,13300
+1957,Asia,21000,Bahrain,Bahrain,21000
+1957,Asia,1020,Bangladesh,Bangladesh,1020
+1957,Americas,4300,Barbados,Barbados,4300
+1957,Europe,3590,Belarus,Belarus,3590
+1957,Europe,12200,Belgium,Belgium,12200
+1957,Americas,1960,Belize,Belize,1960
+1957,Africa,1140,Benin,Benin,1140
+1957,Asia,919,Bhutan,Bhutan,919
+1957,Americas,2700,Bolivia,Bolivia,2700
+1957,Europe,1510,Bosnia and Herzegovina,Bosnia and Herzegovina,1510
+1957,Africa,935,Botswana,Botswana,935
+1957,Americas,3670,Brazil,Brazil,3670
+1957,Asia,63700,Brunei,Brunei,63700
+1957,Europe,3890,Bulgaria,Bulgaria,3890
+1957,Africa,619,Burkina Faso,Burkina Faso,619
+1957,Africa,613,Burundi,Burundi,613
+1957,Asia,1370,Cambodia,Cambodia,1370
+1957,Africa,1740,Cameroon,Cameroon,1740
+1957,Americas,14200,Canada,Canada,14200
+1957,Africa,760,Cape Verde,Cape Verde,760
+1957,Africa,1390,Central African Republic,Central African Republic,1390
+1957,Africa,1430,Chad,Chad,1430
+1957,Americas,5940,Chile,Chile,5940
+1957,Asia,782,China,China,782
+1957,Americas,3400,Colombia,Colombia,3400
+1957,Africa,931,Comoros,Comoros,931
+1957,Africa,2190,"Congo, Dem. Rep.","Congo, Dem. Rep.",2190
+1957,Africa,2070,"Congo, Rep.","Congo, Rep.",2070
+1957,Americas,3760,Costa Rica,Costa Rica,3760
+1957,Africa,2300,Cote d'Ivoire,Cote d'Ivoire,2300
+1957,Europe,6350,Croatia,Croatia,6350
+1957,Americas,10900,Cuba,Cuba,10900
+1957,Europe,4900,Cyprus,Cyprus,4900
+1957,Europe,10100,Czech Republic,Czech Republic,10100
+1957,Europe,13900,Denmark,Denmark,13900
+1957,Africa,3540,Djibouti,Djibouti,3540
+1957,Americas,2340,Dominica,Dominica,2340
+1957,Americas,2620,Dominican Republic,Dominican Republic,2620
+1957,Americas,4130,Ecuador,Ecuador,4130
+1957,Africa,1760,Egypt,Egypt,1760
+1957,Americas,3970,El Salvador,El Salvador,3970
+1957,Africa,573,Equatorial Guinea,Equatorial Guinea,573
+1957,Africa,871,Eritrea,Eritrea,871
+1957,Europe,6500,Estonia,Estonia,6500
+1957,Africa,622,Ethiopia,Ethiopia,622
+1957,Asia,3310,Fiji,Fiji,3310
+1957,Europe,9350,Finland,Finland,9350
+1957,Europe,10500,France,France,10500
+1957,Africa,1140,Gabon,Gabon,1140
+1957,Africa,1120,Gambia,Gambia,1120
+1957,Europe,2960,Georgia,Georgia,2960
+1957,Europe,12300,Germany,Germany,12300
+1957,Africa,1940,Ghana,Ghana,1940
+1957,Europe,5600,Greece,Greece,5600
+1957,Americas,1940,Grenada,Grenada,1940
+1957,Americas,3220,Guatemala,Guatemala,3220
+1957,Africa,743,Guinea,Guinea,743
+1957,Africa,1190,Guinea-Bissau,Guinea-Bissau,1190
+1957,Americas,3360,Guyana,Guyana,3360
+1957,Americas,2230,Haiti,Haiti,2230
+1957,Americas,2480,Honduras,Honduras,2480
+1957,Europe,7840,Hungary,Hungary,7840
+1957,Europe,10400,Iceland,Iceland,10400
+1957,Asia,953,India,India,953
+1957,Asia,1800,Indonesia,Indonesia,1800
+1957,Asia,4380,Iran,Iran,4380
+1957,Asia,5120,Iraq,Iraq,5120
+1957,Europe,7100,Ireland,Ireland,7100
+1957,Asia,5980,Israel,Israel,5980
+1957,Europe,8880,Italy,Italy,8880
+1957,Americas,5020,Jamaica,Jamaica,5020
+1957,Asia,3900,Japan,Japan,3900
+1957,Asia,3670,Jordan,Jordan,3670
+1957,Asia,7660,Kazakhstan,Kazakhstan,7660
+1957,Africa,1960,Kenya,Kenya,1960
+1957,Asia,2560,Kiribati,Kiribati,2560
+1957,Asia,14200,Kuwait,Kuwait,14200
+1957,Asia,2620,Kyrgyz Republic,Kyrgyz Republic,2620
+1957,Asia,1210,Lao,Lao,1210
+1957,Europe,4990,Latvia,Latvia,4990
+1957,Asia,9750,Lebanon,Lebanon,9750
+1957,Africa,519,Lesotho,Lesotho,519
+1957,Africa,1690,Liberia,Liberia,1690
+1957,Africa,8470,Libya,Libya,8470
+1957,Europe,8240,Lithuania,Lithuania,8240
+1957,Europe,21700,Luxembourg,Luxembourg,21700
+1957,Europe,3330,"Macedonia, FYR","Macedonia, FYR",3330
+1957,Africa,2210,Madagascar,Madagascar,2210
+1957,Africa,501,Malawi,Malawi,501
+1957,Asia,2840,Malaysia,Malaysia,2840
+1957,Asia,1020,Maldives,Maldives,1020
+1957,Africa,794,Mali,Mali,794
+1957,Europe,2710,Malta,Malta,2710
+1957,Asia,1590,Marshall Islands,Marshall Islands,1590
+1957,Africa,1480,Mauritania,Mauritania,1480
+1957,Africa,2580,Mauritius,Mauritius,2580
+1957,Americas,5570,Mexico,Mexico,5570
+1957,Asia,1340,"Micronesia, Fed. Sts.","Micronesia, Fed. Sts.",1340
+1957,Europe,3380,Moldova,Moldova,3380
+1957,Asia,1090,Mongolia,Mongolia,1090
+1957,Europe,5420,Montenegro,Montenegro,5420
+1957,Africa,2070,Morocco,Morocco,2070
+1957,Africa,445,Mozambique,Mozambique,445
+1957,Asia,758,Myanmar,Myanmar,758
+1957,Africa,4230,Namibia,Namibia,4230
+1957,Asia,899,Nepal,Nepal,899
+1957,Europe,12100,Netherlands,Netherlands,12100
+1957,Asia,15500,New Zealand,New Zealand,15500
+1957,Americas,4560,Nicaragua,Nicaragua,4560
+1957,Africa,1100,Niger,Niger,1100
+1957,Africa,2980,Nigeria,Nigeria,2980
+1957,Asia,1320,North Korea,North Korea,1320
+1957,Europe,14300,Norway,Norway,14300
+1957,Asia,4100,Oman,Oman,4100
+1957,Asia,1210,Pakistan,Pakistan,1210
+1957,Asia,1180,Palestine,Palestine,1180
+1957,Americas,3860,Panama,Panama,3860
+1957,Asia,1050,Papua New Guinea,Papua New Guinea,1050
+1957,Americas,2990,Paraguay,Paraguay,2990
+1957,Americas,5170,Peru,Peru,5170
+1957,Asia,2530,Philippines,Philippines,2530
+1957,Europe,5790,Poland,Poland,5790
+1957,Europe,4910,Portugal,Portugal,4910
+1957,Asia,7740,Qatar,Qatar,7740
+1957,Europe,5420,Romania,Romania,5420
+1957,Europe,9840,Russia,Russia,9840
+1957,Africa,607,Rwanda,Rwanda,607
+1957,Asia,3230,Samoa,Samoa,3230
+1957,Africa,1140,Sao Tome and Principe,Sao Tome and Principe,1140
+1957,Asia,6550,Saudi Arabia,Saudi Arabia,6550
+1957,Africa,1970,Senegal,Senegal,1970
+1957,Europe,5800,Serbia,Serbia,5800
+1957,Africa,5560,Seychelles,Seychelles,5560
+1957,Africa,1210,Sierra Leone,Sierra Leone,1210
+1957,Asia,4120,Singapore,Singapore,4120
+1957,Europe,7450,Slovak Republic,Slovak Republic,7450
+1957,Europe,6740,Slovenia,Slovenia,6740
+1957,Asia,1060,Solomon Islands,Solomon Islands,1060
+1957,Africa,1170,Somalia,Somalia,1170
+1957,Africa,7790,South Africa,South Africa,7790
+1957,Asia,1200,South Korea,South Korea,1200
+1957,Africa,2210,South Sudan,South Sudan,2210
+1957,Europe,5640,Spain,Spain,5640
+1957,Asia,1890,Sri Lanka,Sri Lanka,1890
+1957,Americas,2030,St. Lucia,St. Lucia,2030
+1957,Americas,2670,St. Vincent and the Grenadines,St. Vincent and the Grenadines,2670
+1957,Africa,2070,Sudan,Sudan,2070
+1957,Americas,6480,Suriname,Suriname,6480
+1957,Africa,1660,Swaziland,Swaziland,1660
+1957,Europe,14000,Sweden,Sweden,14000
+1957,Europe,26100,Switzerland,Switzerland,26100
+1957,Asia,2700,Syria,Syria,2700
+1957,Asia,3070,Tajikistan,Tajikistan,3070
+1957,Africa,1040,Tanzania,Tanzania,1040
+1957,Asia,1300,Thailand,Thailand,1300
+1957,Asia,714,Timor-Leste,Timor-Leste,714
+1957,Africa,1140,Togo,Togo,1140
+1957,Asia,1490,Tonga,Tonga,1490
+1957,Americas,6880,Trinidad and Tobago,Trinidad and Tobago,6880
+1957,Africa,1870,Tunisia,Tunisia,1870
+1957,Europe,5120,Turkey,Turkey,5120
+1957,Asia,6350,Turkmenistan,Turkmenistan,6350
+1957,Africa,860,Uganda,Uganda,860
+1957,Europe,5010,Ukraine,Ukraine,5010
+1957,Asia,1260,United Arab Emirates,United Arab Emirates,1260
+1957,Europe,12800,United Kingdom,United Kingdom,12800
+1957,Americas,17400,United States,United States,17400
+1957,Americas,8780,Uruguay,Uruguay,8780
+1957,Asia,2150,Uzbekistan,Uzbekistan,2150
+1957,Asia,1420,Vanuatu,Vanuatu,1420
+1957,Americas,14600,Venezuela,Venezuela,14600
+1957,Asia,1120,Vietnam,Vietnam,1120
+1957,Asia,1400,Yemen,Yemen,1400
+1957,Africa,3220,Zambia,Zambia,3220
+1957,Africa,1970,Zimbabwe,Zimbabwe,1970
+1962,Asia,1200,Afghanistan,Afghanistan,1200
+1962,Europe,2910,Albania,Albania,2910
+1962,Africa,4520,Algeria,Algeria,4520
+1962,Europe,17800,Andorra,Andorra,17800
+1962,Africa,4130,Angola,Angola,4130
+1962,Americas,4640,Antigua and Barbuda,Antigua and Barbuda,4640
+1962,Americas,9190,Argentina,Argentina,9190
+1962,Europe,2640,Armenia,Armenia,2640
+1962,Asia,14700,Australia,Australia,14700
+1962,Europe,12900,Austria,Austria,12900
+1962,Europe,5350,Azerbaijan,Azerbaijan,5350
+1962,Americas,16400,Bahamas,Bahamas,16400
+1962,Asia,23500,Bahrain,Bahrain,23500
+1962,Asia,1070,Bangladesh,Bangladesh,1070
+1962,Americas,5830,Barbados,Barbados,5830
+1962,Europe,4150,Belarus,Belarus,4150
+1962,Europe,13700,Belgium,Belgium,13700
+1962,Americas,2060,Belize,Belize,2060
+1962,Africa,1130,Benin,Benin,1130
+1962,Asia,972,Bhutan,Bhutan,972
+1962,Americas,2770,Bolivia,Bolivia,2770
+1962,Europe,1790,Bosnia and Herzegovina,Bosnia and Herzegovina,1790
+1962,Africa,1000,Botswana,Botswana,1000
+1962,Americas,4830,Brazil,Brazil,4830
+1962,Asia,69300,Brunei,Brunei,69300
+1962,Europe,5490,Bulgaria,Bulgaria,5490
+1962,Africa,717,Burkina Faso,Burkina Faso,717
+1962,Africa,580,Burundi,Burundi,580
+1962,Asia,1570,Cambodia,Cambodia,1570
+1962,Africa,1870,Cameroon,Cameroon,1870
+1962,Americas,15300,Canada,Canada,15300
+1962,Africa,879,Cape Verde,Cape Verde,879
+1962,Africa,1380,Central African Republic,Central African Republic,1380
+1962,Africa,1520,Chad,Chad,1520
+1962,Americas,6210,Chile,Chile,6210
+1962,Asia,569,China,China,569
+1962,Americas,3590,Colombia,Colombia,3590
+1962,Africa,1080,Comoros,Comoros,1080
+1962,Africa,2170,"Congo, Dem. Rep.","Congo, Dem. Rep.",2170
+1962,Africa,2400,"Congo, Rep.","Congo, Rep.",2400
+1962,Americas,4380,Costa Rica,Costa Rica,4380
+1962,Africa,2630,Cote d'Ivoire,Cote d'Ivoire,2630
+1962,Europe,8020,Croatia,Croatia,8020
+1962,Americas,9490,Cuba,Cuba,9490
+1962,Europe,5980,Cyprus,Cyprus,5980
+1962,Europe,12400,Czech Republic,Czech Republic,12400
+1962,Europe,17000,Denmark,Denmark,17000
+1962,Africa,3740,Djibouti,Djibouti,3740
+1962,Americas,2470,Dominica,Dominica,2470
+1962,Americas,2850,Dominican Republic,Dominican Republic,2850
+1962,Americas,4570,Ecuador,Ecuador,4570
+1962,Africa,2080,Egypt,Egypt,2080
+1962,Americas,4340,El Salvador,El Salvador,4340
+1962,Africa,782,Equatorial Guinea,Equatorial Guinea,782
+1962,Africa,948,Eritrea,Eritrea,948
+1962,Europe,7580,Estonia,Estonia,7580
+1962,Africa,678,Ethiopia,Ethiopia,678
+1962,Asia,3590,Fiji,Fiji,3590
+1962,Europe,11600,Finland,Finland,11600
+1962,Europe,12800,France,France,12800
+1962,Africa,1880,Gabon,Gabon,1880
+1962,Africa,1300,Gambia,Gambia,1300
+1962,Europe,3440,Georgia,Georgia,3440
+1962,Europe,15800,Germany,Germany,15800
+1962,Africa,2320,Ghana,Ghana,2320
+1962,Europe,6840,Greece,Greece,6840
+1962,Americas,2170,Grenada,Grenada,2170
+1962,Americas,3360,Guatemala,Guatemala,3360
+1962,Africa,891,Guinea,Guinea,891
+1962,Africa,1310,Guinea-Bissau,Guinea-Bissau,1310
+1962,Americas,3120,Guyana,Guyana,3120
+1962,Americas,2320,Haiti,Haiti,2320
+1962,Americas,2540,Honduras,Honduras,2540
+1962,Europe,10000,Hungary,Hungary,10000
+1962,Europe,11600,Iceland,Iceland,11600
+1962,Asia,1040,India,India,1040
+1962,Asia,1790,Indonesia,Indonesia,1790
+1962,Asia,5710,Iran,Iran,5710
+1962,Asia,6710,Iraq,Iraq,6710
+1962,Europe,8460,Ireland,Ireland,8460
+1962,Asia,7910,Israel,Israel,7910
+1962,Europe,11600,Italy,Italy,11600
+1962,Americas,5550,Jamaica,Jamaica,5550
+1962,Asia,5790,Japan,Japan,5790
+1962,Asia,4560,Jordan,Jordan,4560
+1962,Asia,8910,Kazakhstan,Kazakhstan,8910
+1962,Africa,1850,Kenya,Kenya,1850
+1962,Asia,3020,Kiribati,Kiribati,3020
+1962,Asia,23700,Kuwait,Kuwait,23700
+1962,Asia,2890,Kyrgyz Republic,Kyrgyz Republic,2890
+1962,Asia,1260,Lao,Lao,1260
+1962,Europe,5790,Latvia,Latvia,5790
+1962,Asia,9570,Lebanon,Lebanon,9570
+1962,Africa,636,Lesotho,Lesotho,636
+1962,Africa,1740,Liberia,Liberia,1740
+1962,Africa,16600,Libya,Libya,16600
+1962,Europe,9530,Lithuania,Lithuania,9530
+1962,Europe,23300,Luxembourg,Luxembourg,23300
+1962,Europe,4220,"Macedonia, FYR","Macedonia, FYR",4220
+1962,Africa,2290,Madagascar,Madagascar,2290
+1962,Africa,526,Malawi,Malawi,526
+1962,Asia,3230,Malaysia,Malaysia,3230
+1962,Asia,1140,Maldives,Maldives,1140
+1962,Africa,815,Mali,Mali,815
+1962,Europe,2720,Malta,Malta,2720
+1962,Asia,1780,Marshall Islands,Marshall Islands,1780
+1962,Africa,1890,Mauritania,Mauritania,1890
+1962,Africa,3240,Mauritius,Mauritius,3240
+1962,Americas,6210,Mexico,Mexico,6210
+1962,Asia,1480,"Micronesia, Fed. Sts.","Micronesia, Fed. Sts.",1480
+1962,Europe,3890,Moldova,Moldova,3890
+1962,Asia,1290,Mongolia,Mongolia,1290
+1962,Europe,6920,Montenegro,Montenegro,6920
+1962,Africa,2000,Morocco,Morocco,2000
+1962,Africa,496,Mozambique,Mozambique,496
+1962,Asia,861,Myanmar,Myanmar,861
+1962,Africa,5140,Namibia,Namibia,5140
+1962,Asia,971,Nepal,Nepal,971
+1962,Europe,13700,Netherlands,Netherlands,13700
+1962,Asia,16700,New Zealand,New Zealand,16700
+1962,Americas,4770,Nicaragua,Nicaragua,4770
+1962,Africa,1330,Niger,Niger,1330
+1962,Africa,3590,Nigeria,Nigeria,3590
+1962,Asia,1590,North Korea,North Korea,1590
+1962,Europe,16700,Norway,Norway,16700
+1962,Asia,5420,Oman,Oman,5420
+1962,Asia,1310,Pakistan,Pakistan,1310
+1962,Asia,1110,Palestine,Palestine,1110
+1962,Americas,4630,Panama,Panama,4630
+1962,Asia,1190,Papua New Guinea,Papua New Guinea,1190
+1962,Americas,3130,Paraguay,Paraguay,3130
+1962,Americas,5900,Peru,Peru,5900
+1962,Asia,2710,Philippines,Philippines,2710
+1962,Europe,6580,Poland,Poland,6580
+1962,Europe,6160,Portugal,Portugal,6160
+1962,Asia,24500,Qatar,Qatar,24500
+1962,Europe,6650,Romania,Romania,6650
+1962,Europe,11500,Russia,Russia,11500
+1962,Africa,673,Rwanda,Rwanda,673
+1962,Asia,3420,Samoa,Samoa,3420
+1962,Africa,1420,Sao Tome and Principe,Sao Tome and Principe,1420
+1962,Asia,13800,Saudi Arabia,Saudi Arabia,13800
+1962,Africa,2090,Senegal,Senegal,2090
+1962,Europe,7220,Serbia,Serbia,7220
+1962,Africa,5880,Seychelles,Seychelles,5880
+1962,Africa,1310,Sierra Leone,Sierra Leone,1310
+1962,Asia,5370,Singapore,Singapore,5370
+1962,Europe,9150,Slovak Republic,Slovak Republic,9150
+1962,Europe,8520,Slovenia,Slovenia,8520
+1962,Asia,1150,Solomon Islands,Solomon Islands,1150
+1962,Africa,1270,Somalia,Somalia,1270
+1962,Africa,8130,South Africa,South Africa,8130
+1962,Asia,1150,South Korea,South Korea,1150
+1962,Africa,2500,South Sudan,South Sudan,2500
+1962,Europe,7140,Spain,Spain,7140
+1962,Asia,1890,Sri Lanka,Sri Lanka,1890
+1962,Americas,2520,St. Lucia,St. Lucia,2520
+1962,Americas,3080,St. Vincent and the Grenadines,St. Vincent and the Grenadines,3080
+1962,Africa,2320,Sudan,Sudan,2320
+1962,Americas,7270,Suriname,Suriname,7270
+1962,Africa,2510,Swaziland,Swaziland,2510
+1962,Europe,16600,Sweden,Sweden,16600
+1962,Europe,29600,Switzerland,Switzerland,29600
+1962,Asia,2930,Syria,Syria,2930
+1962,Asia,3530,Tajikistan,Tajikistan,3530
+1962,Africa,1100,Tanzania,Tanzania,1100
+1962,Asia,1640,Thailand,Thailand,1640
+1962,Asia,722,Timor-Leste,Timor-Leste,722
+1962,Africa,1300,Togo,Togo,1300
+1962,Asia,1580,Tonga,Tonga,1580
+1962,Americas,8420,Trinidad and Tobago,Trinidad and Tobago,8420
+1962,Africa,2250,Tunisia,Tunisia,2250
+1962,Europe,5050,Turkey,Turkey,5050
+1962,Asia,7380,Turkmenistan,Turkmenistan,7380
+1962,Africa,861,Uganda,Uganda,861
+1962,Europe,5810,Ukraine,Ukraine,5810
+1962,Asia,2220,United Arab Emirates,United Arab Emirates,2220
+1962,Europe,14000,United Kingdom,United Kingdom,14000
+1962,Americas,19000,United States,United States,19000
+1962,Americas,7730,Uruguay,Uruguay,7730
+1962,Asia,2480,Uzbekistan,Uzbekistan,2480
+1962,Asia,1510,Vanuatu,Vanuatu,1510
+1962,Americas,12500,Venezuela,Venezuela,12500
+1962,Asia,1270,Vietnam,Vietnam,1270
+1962,Asia,1430,Yemen,Yemen,1430
+1962,Africa,2970,Zambia,Zambia,2970
+1962,Africa,2030,Zimbabwe,Zimbabwe,2030
+1967,Asia,1180,Afghanistan,Afghanistan,1180
+1967,Europe,3460,Albania,Albania,3460
+1967,Africa,5860,Algeria,Algeria,5860
+1967,Europe,26300,Andorra,Andorra,26300
+1967,Africa,5390,Angola,Angola,5390
+1967,Americas,5230,Antigua and Barbuda,Antigua and Barbuda,5230
+1967,Americas,10400,Argentina,Argentina,10400
+1967,Europe,3150,Armenia,Armenia,3150
+1967,Asia,17600,Australia,Australia,17600
+1967,Europe,15300,Austria,Austria,15300
+1967,Europe,6460,Azerbaijan,Azerbaijan,6460
+1967,Americas,21000,Bahamas,Bahamas,21000
+1967,Asia,27800,Bahrain,Bahrain,27800
+1967,Asia,1130,Bangladesh,Bangladesh,1130
+1967,Americas,7340,Barbados,Barbados,7340
+1967,Europe,4980,Belarus,Belarus,4980
+1967,Europe,16200,Belgium,Belgium,16200
+1967,Americas,2250,Belize,Belize,2250
+1967,Africa,1250,Benin,Benin,1250
+1967,Asia,1030,Bhutan,Bhutan,1030
+1967,Americas,3290,Bolivia,Bolivia,3290
+1967,Europe,2140,Bosnia and Herzegovina,Bosnia and Herzegovina,2140
+1967,Africa,1240,Botswana,Botswana,1240
+1967,Americas,4890,Brazil,Brazil,4890
+1967,Asia,75400,Brunei,Brunei,75400
+1967,Europe,7200,Bulgaria,Bulgaria,7200
+1967,Africa,781,Burkina Faso,Burkina Faso,781
+1967,Africa,681,Burundi,Burundi,681
+1967,Asia,1660,Cambodia,Cambodia,1660
+1967,Africa,2030,Cameroon,Cameroon,2030
+1967,Americas,18300,Canada,Canada,18300
+1967,Africa,938,Cape Verde,Cape Verde,938
+1967,Africa,1300,Central African Republic,Central African Republic,1300
+1967,Africa,1310,Chad,Chad,1310
+1967,Americas,7010,Chile,Chile,7010
+1967,Asia,722,China,China,722
+1967,Americas,3820,Colombia,Colombia,3820
+1967,Africa,1530,Comoros,Comoros,1530
+1967,Africa,2010,"Congo, Dem. Rep.","Congo, Dem. Rep.",2010
+1967,Africa,2600,"Congo, Rep.","Congo, Rep.",2600
+1967,Americas,5310,Costa Rica,Costa Rica,5310
+1967,Africa,3230,Cote d'Ivoire,Cote d'Ivoire,3230
+1967,Europe,10200,Croatia,Croatia,10200
+1967,Americas,10600,Cuba,Cuba,10600
+1967,Europe,7290,Cyprus,Cyprus,7290
+1967,Europe,13900,Czech Republic,Czech Republic,13900
+1967,Europe,20000,Denmark,Denmark,20000
+1967,Africa,3740,Djibouti,Djibouti,3740
+1967,Americas,2620,Dominica,Dominica,2620
+1967,Americas,2860,Dominican Republic,Dominican Republic,2860
+1967,Americas,5200,Ecuador,Ecuador,5200
+1967,Africa,2350,Egypt,Egypt,2350
+1967,Americas,4960,El Salvador,El Salvador,4960
+1967,Africa,1230,Equatorial Guinea,Equatorial Guinea,1230
+1967,Africa,1090,Eritrea,Eritrea,1090
+1967,Europe,9150,Estonia,Estonia,9150
+1967,Africa,777,Ethiopia,Ethiopia,777
+1967,Asia,3830,Fiji,Fiji,3830
+1967,Europe,13600,Finland,Finland,13600
+1967,Europe,15800,France,France,15800
+1967,Africa,3240,Gabon,Gabon,3240
+1967,Africa,1600,Gambia,Gambia,1600
+1967,Europe,4340,Georgia,Georgia,4340
+1967,Europe,18200,Germany,Germany,18200
+1967,Africa,2210,Ghana,Ghana,2210
+1967,Europe,9690,Greece,Greece,9690
+1967,Americas,2430,Grenada,Grenada,2430
+1967,Americas,3940,Guatemala,Guatemala,3940
+1967,Africa,927,Guinea,Guinea,927
+1967,Africa,1640,Guinea-Bissau,Guinea-Bissau,1640
+1967,Americas,3300,Guyana,Guyana,3300
+1967,Americas,1870,Haiti,Haiti,1870
+1967,Americas,2790,Honduras,Honduras,2790
+1967,Europe,12600,Hungary,Hungary,12600
+1967,Europe,14900,Iceland,Iceland,14900
+1967,Asia,1090,India,India,1090
+1967,Asia,1620,Indonesia,Indonesia,1620
+1967,Asia,8240,Iran,Iran,8240
+1967,Asia,7020,Iraq,Iraq,7020
+1967,Europe,9830,Ireland,Ireland,9830
+1967,Asia,9380,Israel,Israel,9380
+1967,Europe,14100,Italy,Italy,14100
+1967,Americas,6460,Jamaica,Jamaica,6460
+1967,Asia,8630,Japan,Japan,8630
+1967,Asia,5290,Jordan,Jordan,5290
+1967,Asia,10700,Kazakhstan,Kazakhstan,10700
+1967,Africa,2140,Kenya,Kenya,2140
+1967,Asia,3560,Kiribati,Kiribati,3560
+1967,Asia,39400,Kuwait,Kuwait,39400
+1967,Asia,3190,Kyrgyz Republic,Kyrgyz Republic,3190
+1967,Asia,1310,Lao,Lao,1310
+1967,Europe,6950,Latvia,Latvia,6950
+1967,Asia,10500,Lebanon,Lebanon,10500
+1967,Africa,798,Lesotho,Lesotho,798
+1967,Africa,1960,Liberia,Liberia,1960
+1967,Africa,46000,Libya,Libya,46000
+1967,Europe,11400,Lithuania,Lithuania,11400
+1967,Europe,25400,Luxembourg,Luxembourg,25400
+1967,Europe,5370,"Macedonia, FYR","Macedonia, FYR",5370
+1967,Africa,2290,Madagascar,Madagascar,2290
+1967,Africa,621,Malawi,Malawi,621
+1967,Asia,3650,Malaysia,Malaysia,3650
+1967,Asia,1280,Maldives,Maldives,1280
+1967,Africa,909,Mali,Mali,909
+1967,Europe,3480,Malta,Malta,3480
+1967,Asia,2000,Marshall Islands,Marshall Islands,2000
+1967,Africa,2600,Mauritania,Mauritania,2600
+1967,Africa,3190,Mauritius,Mauritius,3190
+1967,Americas,7840,Mexico,Mexico,7840
+1967,Asia,1640,"Micronesia, Fed. Sts.","Micronesia, Fed. Sts.",1640
+1967,Europe,4660,Moldova,Moldova,4660
+1967,Asia,1530,Mongolia,Mongolia,1530
+1967,Europe,8900,Montenegro,Montenegro,8900
+1967,Africa,2200,Morocco,Morocco,2200
+1967,Africa,501,Mozambique,Mozambique,501
+1967,Asia,790,Myanmar,Myanmar,790
+1967,Africa,6170,Namibia,Namibia,6170
+1967,Asia,998,Nepal,Nepal,998
+1967,Europe,16700,Netherlands,Netherlands,16700
+1967,Asia,18400,New Zealand,New Zealand,18400
+1967,Americas,6070,Nicaragua,Nicaragua,6070
+1967,Africa,1420,Niger,Niger,1420
+1967,Africa,2670,Nigeria,Nigeria,2670
+1967,Asia,1650,North Korea,North Korea,1650
+1967,Europe,20500,Norway,Norway,20500
+1967,Asia,8880,Oman,Oman,8880
+1967,Asia,1540,Pakistan,Pakistan,1540
+1967,Asia,1040,Palestine,Palestine,1040
+1967,Americas,5810,Panama,Panama,5810
+1967,Asia,1480,Papua New Guinea,Papua New Guinea,1480
+1967,Americas,3330,Paraguay,Paraguay,3330
+1967,Americas,6760,Peru,Peru,6760
+1967,Asia,2990,Philippines,Philippines,2990
+1967,Europe,8150,Poland,Poland,8150
+1967,Europe,8290,Portugal,Portugal,8290
+1967,Asia,77500,Qatar,Qatar,77500
+1967,Europe,9210,Romania,Romania,9210
+1967,Europe,13900,Russia,Russia,13900
+1967,Africa,577,Rwanda,Rwanda,577
+1967,Asia,3620,Samoa,Samoa,3620
+1967,Africa,1850,Sao Tome and Principe,Sao Tome and Principe,1850
+1967,Asia,29100,Saudi Arabia,Saudi Arabia,29100
+1967,Africa,2040,Senegal,Senegal,2040
+1967,Europe,9040,Serbia,Serbia,9040
+1967,Africa,6080,Seychelles,Seychelles,6080
+1967,Africa,1370,Sierra Leone,Sierra Leone,1370
+1967,Asia,7330,Singapore,Singapore,7330
+1967,Europe,10300,Slovak Republic,Slovak Republic,10300
+1967,Europe,10800,Slovenia,Slovenia,10800
+1967,Asia,1250,Solomon Islands,Solomon Islands,1250
+1967,Africa,1200,Somalia,Somalia,1200
+1967,Africa,9410,South Africa,South Africa,9410
+1967,Asia,1580,South Korea,South Korea,1580
+1967,Africa,2190,South Sudan,South Sudan,2190
+1967,Europe,10100,Spain,Spain,10100
+1967,Asia,1990,Sri Lanka,Sri Lanka,1990
+1967,Americas,3140,St. Lucia,St. Lucia,3140
+1967,Americas,2570,St. Vincent and the Grenadines,St. Vincent and the Grenadines,2570
+1967,Africa,2010,Sudan,Sudan,2010
+1967,Americas,8160,Suriname,Suriname,8160
+1967,Africa,3580,Swaziland,Swaziland,3580
+1967,Europe,19700,Sweden,Sweden,19700
+1967,Europe,33100,Switzerland,Switzerland,33100
+1967,Asia,2580,Syria,Syria,2580
+1967,Asia,4210,Tajikistan,Tajikistan,4210
+1967,Africa,1330,Tanzania,Tanzania,1330
+1967,Asia,2100,Thailand,Thailand,2100
+1967,Asia,729,Timor-Leste,Timor-Leste,729
+1967,Africa,1790,Togo,Togo,1790
+1967,Asia,1660,Tonga,Tonga,1660
+1967,Americas,9510,Trinidad and Tobago,Trinidad and Tobago,9510
+1967,Africa,2650,Tunisia,Tunisia,2650
+1967,Europe,6300,Turkey,Turkey,6300
+1967,Asia,8890,Turkmenistan,Turkmenistan,8890
+1967,Africa,1030,Uganda,Uganda,1030
+1967,Europe,6970,Ukraine,Ukraine,6970
+1967,Asia,24100,United Arab Emirates,United Arab Emirates,24100
+1967,Europe,15900,United Kingdom,United Kingdom,15900
+1967,Americas,22800,United States,United States,22800
+1967,Americas,7320,Uruguay,Uruguay,7320
+1967,Asia,2980,Uzbekistan,Uzbekistan,2980
+1967,Asia,1610,Vanuatu,Vanuatu,1610
+1967,Americas,14200,Venezuela,Venezuela,14200
+1967,Asia,1050,Vietnam,Vietnam,1050
+1967,Asia,1500,Yemen,Yemen,1500
+1967,Africa,4320,Zambia,Zambia,4320
+1967,Africa,1960,Zimbabwe,Zimbabwe,1960
+1972,Asia,1050,Afghanistan,Afghanistan,1050
+1972,Europe,4120,Albania,Albania,4120
+1972,Africa,7620,Algeria,Algeria,7620
+1972,Europe,34000,Andorra,Andorra,34000
+1972,Africa,5670,Angola,Angola,5670
+1972,Americas,6160,Antigua and Barbuda,Antigua and Barbuda,6160
+1972,Americas,12200,Argentina,Argentina,12200
+1972,Europe,3580,Armenia,Armenia,3580
+1972,Asia,20400,Australia,Australia,20400
+1972,Europe,19800,Austria,Austria,19800
+1972,Europe,7400,Azerbaijan,Azerbaijan,7400
+1972,Americas,19900,Bahamas,Bahamas,19900
+1972,Asia,34000,Bahrain,Bahrain,34000
+1972,Asia,994,Bangladesh,Bangladesh,994
+1972,Americas,9310,Barbados,Barbados,9310
+1972,Europe,5660,Belarus,Belarus,5660
+1972,Europe,20500,Belgium,Belgium,20500
+1972,Americas,2800,Belize,Belize,2800
+1972,Africa,1320,Benin,Benin,1320
+1972,Asia,1030,Bhutan,Bhutan,1030
+1972,Americas,3800,Bolivia,Bolivia,3800
+1972,Europe,2650,Bosnia and Herzegovina,Bosnia and Herzegovina,2650
+1972,Africa,2320,Botswana,Botswana,2320
+1972,Americas,7090,Brazil,Brazil,7090
+1972,Asia,88700,Brunei,Brunei,88700
+1972,Europe,8510,Bulgaria,Bulgaria,8510
+1972,Africa,830,Burkina Faso,Burkina Faso,830
+1972,Africa,773,Burundi,Burundi,773
+1972,Asia,1450,Cambodia,Cambodia,1450
+1972,Africa,2290,Cameroon,Cameroon,2290
+1972,Americas,21600,Canada,Canada,21600
+1972,Africa,820,Cape Verde,Cape Verde,820
+1972,Africa,1220,Central African Republic,Central African Republic,1220
+1972,Africa,1220,Chad,Chad,1220
+1972,Americas,7550,Chile,Chile,7550
+1972,Asia,846,China,China,846
+1972,Americas,4630,Colombia,Colombia,4630
+1972,Africa,1460,Comoros,Comoros,1460
+1972,Africa,2160,"Congo, Dem. Rep.","Congo, Dem. Rep.",2160
+1972,Africa,3520,"Congo, Rep.","Congo, Rep.",3520
+1972,Americas,6580,Costa Rica,Costa Rica,6580
+1972,Africa,3940,Cote d'Ivoire,Cote d'Ivoire,3940
+1972,Europe,13400,Croatia,Croatia,13400
+1972,Americas,10000,Cuba,Cuba,10000
+1972,Europe,9930,Cyprus,Cyprus,9930
+1972,Europe,16000,Czech Republic,Czech Republic,16000
+1972,Europe,23800,Denmark,Denmark,23800
+1972,Africa,4590,Djibouti,Djibouti,4590
+1972,Americas,3070,Dominica,Dominica,3070
+1972,Americas,3810,Dominican Republic,Dominican Republic,3810
+1972,Americas,6000,Ecuador,Ecuador,6000
+1972,Africa,3100,Egypt,Egypt,3100
+1972,Americas,5090,El Salvador,El Salvador,5090
+1972,Africa,899,Equatorial Guinea,Equatorial Guinea,899
+1972,Africa,1120,Eritrea,Eritrea,1120
+1972,Europe,10500,Estonia,Estonia,10500
+1972,Africa,803,Ethiopia,Ethiopia,803
+1972,Asia,4960,Fiji,Fiji,4960
+1972,Europe,17900,Finland,Finland,17900
+1972,Europe,19600,France,France,19600
+1972,Africa,6220,Gabon,Gabon,6220
+1972,Africa,1660,Gambia,Gambia,1660
+1972,Europe,5410,Georgia,Georgia,5410
+1972,Europe,22400,Germany,Germany,22400
+1972,Africa,2400,Ghana,Ghana,2400
+1972,Europe,14600,Greece,Greece,14600
+1972,Americas,3000,Grenada,Grenada,3000
+1972,Americas,4860,Guatemala,Guatemala,4860
+1972,Africa,976,Guinea,Guinea,976
+1972,Africa,1780,Guinea-Bissau,Guinea-Bissau,1780
+1972,Americas,3480,Guyana,Guyana,3480
+1972,Americas,2140,Haiti,Haiti,2140
+1972,Americas,2760,Honduras,Honduras,2760
+1972,Europe,13800,Hungary,Hungary,13800
+1972,Europe,17600,Iceland,Iceland,17600
+1972,Asia,1110,India,India,1110
+1972,Asia,2380,Indonesia,Indonesia,2380
+1972,Asia,13700,Iran,Iran,13700
+1972,Asia,7500,Iraq,Iraq,7500
+1972,Europe,12300,Ireland,Ireland,12300
+1972,Asia,14300,Israel,Israel,14300
+1972,Europe,17300,Italy,Italy,17300
+1972,Americas,7780,Jamaica,Jamaica,7780
+1972,Asia,16100,Japan,Japan,16100
+1972,Asia,4040,Jordan,Jordan,4040
+1972,Asia,12200,Kazakhstan,Kazakhstan,12200
+1972,Africa,2030,Kenya,Kenya,2030
+1972,Asia,4160,Kiribati,Kiribati,4160
+1972,Asia,61700,Kuwait,Kuwait,61700
+1972,Asia,3510,Kyrgyz Republic,Kyrgyz Republic,3510
+1972,Asia,1360,Lao,Lao,1360
+1972,Europe,7920,Latvia,Latvia,7920
+1972,Asia,14400,Lebanon,Lebanon,14400
+1972,Africa,803,Lesotho,Lesotho,803
+1972,Africa,2220,Liberia,Liberia,2220
+1972,Africa,51400,Libya,Libya,51400
+1972,Europe,13000,Lithuania,Lithuania,13000
+1972,Europe,31800,Luxembourg,Luxembourg,31800
+1972,Europe,7100,"Macedonia, FYR","Macedonia, FYR",7100
+1972,Africa,2460,Madagascar,Madagascar,2460
+1972,Africa,748,Malawi,Malawi,748
+1972,Asia,4600,Malaysia,Malaysia,4600
+1972,Asia,1410,Maldives,Maldives,1410
+1972,Africa,983,Mali,Mali,983
+1972,Europe,4980,Malta,Malta,4980
+1972,Asia,2240,Marshall Islands,Marshall Islands,2240
+1972,Africa,2960,Mauritania,Mauritania,2960
+1972,Africa,3350,Mauritius,Mauritius,3350
+1972,Americas,9310,Mexico,Mexico,9310
+1972,Asia,1770,"Micronesia, Fed. Sts.","Micronesia, Fed. Sts.",1770
+1972,Europe,5280,Moldova,Moldova,5280
+1972,Asia,1750,Mongolia,Mongolia,1750
+1972,Europe,11800,Montenegro,Montenegro,11800
+1972,Africa,2500,Morocco,Morocco,2500
+1972,Africa,637,Mozambique,Mozambique,637
+1972,Asia,814,Myanmar,Myanmar,814
+1972,Africa,6110,Namibia,Namibia,6110
+1972,Asia,985,Nepal,Nepal,985
+1972,Europe,20800,Netherlands,Netherlands,20800
+1972,Asia,20400,New Zealand,New Zealand,20400
+1972,Americas,6100,Nicaragua,Nicaragua,6100
+1972,Africa,1290,Niger,Niger,1290
+1972,Africa,3940,Nigeria,Nigeria,3940
+1972,Asia,1730,North Korea,North Korea,1730
+1972,Europe,24100,Norway,Norway,24100
+1972,Asia,20300,Oman,Oman,20300
+1972,Asia,1730,Pakistan,Pakistan,1730
+1972,Asia,1460,Palestine,Palestine,1460
+1972,Americas,7080,Panama,Panama,7080
+1972,Asia,1850,Papua New Guinea,Papua New Guinea,1850
+1972,Americas,3640,Paraguay,Paraguay,3640
+1972,Americas,6880,Peru,Peru,6880
+1972,Asia,3300,Philippines,Philippines,3300
+1972,Europe,9990,Poland,Poland,9990
+1972,Europe,11800,Portugal,Portugal,11800
+1972,Asia,159000,Qatar,Qatar,159000
+1972,Europe,11400,Romania,Romania,11400
+1972,Europe,15900,Russia,Russia,15900
+1972,Africa,668,Rwanda,Rwanda,668
+1972,Asia,3840,Samoa,Samoa,3840
+1972,Africa,2150,Sao Tome and Principe,Sao Tome and Principe,2150
+1972,Asia,60500,Saudi Arabia,Saudi Arabia,60500
+1972,Africa,2030,Senegal,Senegal,2030
+1972,Europe,11700,Serbia,Serbia,11700
+1972,Africa,7710,Seychelles,Seychelles,7710
+1972,Africa,1480,Sierra Leone,Sierra Leone,1480
+1972,Asia,12700,Singapore,Singapore,12700
+1972,Europe,11800,Slovak Republic,Slovak Republic,11800
+1972,Europe,14300,Slovenia,Slovenia,14300
+1972,Asia,829,Solomon Islands,Solomon Islands,829
+1972,Africa,1260,Somalia,Somalia,1260
+1972,Africa,10200,South Africa,South Africa,10200
+1972,Asia,2680,South Korea,South Korea,2680
+1972,Africa,2200,South Sudan,South Sudan,2200
+1972,Europe,13600,Spain,Spain,13600
+1972,Asia,2140,Sri Lanka,Sri Lanka,2140
+1972,Americas,3790,St. Lucia,St. Lucia,3790
+1972,Americas,3790,St. Vincent and the Grenadines,St. Vincent and the Grenadines,3790
+1972,Africa,2000,Sudan,Sudan,2000
+1972,Americas,9720,Suriname,Suriname,9720
+1972,Africa,4660,Swaziland,Swaziland,4660
+1972,Europe,22300,Sweden,Sweden,22300
+1972,Europe,39200,Switzerland,Switzerland,39200
+1972,Asia,3320,Syria,Syria,3320
+1972,Asia,4760,Tajikistan,Tajikistan,4760
+1972,Africa,1470,Tanzania,Tanzania,1470
+1972,Asia,2480,Thailand,Thailand,2480
+1972,Asia,736,Timor-Leste,Timor-Leste,736
+1972,Africa,1980,Togo,Togo,1980
+1972,Asia,1760,Tonga,Tonga,1760
+1972,Americas,11200,Trinidad and Tobago,Trinidad and Tobago,11200
+1972,Africa,3800,Tunisia,Tunisia,3800
+1972,Europe,7550,Turkey,Turkey,7550
+1972,Asia,10200,Turkmenistan,Turkmenistan,10200
+1972,Africa,1090,Uganda,Uganda,1090
+1972,Europe,7940,Ukraine,Ukraine,7940
+1972,Asia,38800,United Arab Emirates,United Arab Emirates,38800
+1972,Europe,18000,United Kingdom,United Kingdom,18000
+1972,Americas,25400,United States,United States,25400
+1972,Americas,7560,Uruguay,Uruguay,7560
+1972,Asia,3400,Uzbekistan,Uzbekistan,3400
+1972,Asia,1720,Vanuatu,Vanuatu,1720
+1972,Americas,15600,Venezuela,Venezuela,15600
+1972,Asia,1150,Vietnam,Vietnam,1150
+1972,Asia,2190,Yemen,Yemen,2190
+1972,Africa,3980,Zambia,Zambia,3980
+1972,Africa,2830,Zimbabwe,Zimbabwe,2830
+1977,Asia,1130,Afghanistan,Afghanistan,1130
+1977,Europe,4340,Albania,Albania,4340
+1977,Africa,8980,Algeria,Algeria,8980
+1977,Europe,34000,Andorra,Andorra,34000
+1977,Africa,5110,Angola,Angola,5110
+1977,Americas,6140,Antigua and Barbuda,Antigua and Barbuda,6140
+1977,Americas,13300,Argentina,Argentina,13300
+1977,Europe,3940,Armenia,Armenia,3940
+1977,Asia,22400,Australia,Australia,22400
+1977,Europe,23600,Austria,Austria,23600
+1977,Europe,8350,Azerbaijan,Azerbaijan,8350
+1977,Americas,15800,Bahamas,Bahamas,15800
+1977,Asia,40800,Bahrain,Bahrain,40800
+1977,Asia,1050,Bangladesh,Bangladesh,1050
+1977,Americas,11200,Barbados,Barbados,11200
+1977,Europe,6770,Belarus,Belarus,6770
+1977,Europe,23500,Belgium,Belgium,23500
+1977,Americas,3370,Belize,Belize,3370
+1977,Africa,1260,Benin,Benin,1260
+1977,Asia,1050,Bhutan,Bhutan,1050
+1977,Americas,4530,Bolivia,Bolivia,4530
+1977,Europe,3060,Bosnia and Herzegovina,Bosnia and Herzegovina,3060
+1977,Africa,3310,Botswana,Botswana,3310
+1977,Americas,9520,Brazil,Brazil,9520
+1977,Asia,120000,Brunei,Brunei,120000
+1977,Europe,9810,Bulgaria,Bulgaria,9810
+1977,Africa,714,Burkina Faso,Burkina Faso,714
+1977,Africa,936,Burundi,Burundi,936
+1977,Asia,985,Cambodia,Cambodia,985
+1977,Africa,2450,Cameroon,Cameroon,2450
+1977,Americas,25200,Canada,Canada,25200
+1977,Africa,766,Cape Verde,Cape Verde,766
+1977,Africa,1250,Central African Republic,Central African Republic,1250
+1977,Africa,1250,Chad,Chad,1250
+1977,Americas,6550,Chile,Chile,6550
+1977,Asia,909,China,China,909
+1977,Americas,5420,Colombia,Colombia,5420
+1977,Africa,1520,Comoros,Comoros,1520
+1977,Africa,1780,"Congo, Dem. Rep.","Congo, Dem. Rep.",1780
+1977,Africa,3400,"Congo, Rep.","Congo, Rep.",3400
+1977,Americas,7680,Costa Rica,Costa Rica,7680
+1977,Africa,4560,Cote d'Ivoire,Cote d'Ivoire,4560
+1977,Europe,16500,Croatia,Croatia,16500
+1977,Americas,12100,Cuba,Cuba,12100
+1977,Europe,11600,Cyprus,Cyprus,11600
+1977,Europe,18100,Czech Republic,Czech Republic,18100
+1977,Europe,26100,Denmark,Denmark,26100
+1977,Africa,3830,Djibouti,Djibouti,3830
+1977,Americas,3770,Dominica,Dominica,3770
+1977,Americas,4700,Dominican Republic,Dominican Republic,4700
+1977,Americas,7500,Ecuador,Ecuador,7500
+1977,Africa,3690,Egypt,Egypt,3690
+1977,Americas,5740,El Salvador,El Salvador,5740
+1977,Africa,1280,Equatorial Guinea,Equatorial Guinea,1280
+1977,Africa,983,Eritrea,Eritrea,983
+1977,Europe,12300,Estonia,Estonia,12300
+1977,Africa,704,Ethiopia,Ethiopia,704
+1977,Asia,5660,Fiji,Fiji,5660
+1977,Europe,19400,Finland,Finland,19400
+1977,Europe,22300,France,France,22300
+1977,Africa,20800,Gabon,Gabon,20800
+1977,Africa,1960,Gambia,Gambia,1960
+1977,Europe,7420,Georgia,Georgia,7420
+1977,Europe,25600,Germany,Germany,25600
+1977,Africa,2080,Ghana,Ghana,2080
+1977,Europe,16500,Greece,Greece,16500
+1977,Americas,4280,Grenada,Grenada,4280
+1977,Americas,5850,Guatemala,Guatemala,5850
+1977,Africa,1160,Guinea,Guinea,1160
+1977,Africa,1650,Guinea-Bissau,Guinea-Bissau,1650
+1977,Americas,3960,Guyana,Guyana,3960
+1977,Americas,2420,Haiti,Haiti,2420
+1977,Americas,3460,Honduras,Honduras,3460
+1977,Europe,16000,Hungary,Hungary,16000
+1977,Europe,21900,Iceland,Iceland,21900
+1977,Asia,1250,India,India,1250
+1977,Asia,2990,Indonesia,Indonesia,2990
+1977,Asia,17000,Iran,Iran,17000
+1977,Asia,11800,Iraq,Iraq,11800
+1977,Europe,14400,Ireland,Ireland,14400
+1977,Asia,14900,Israel,Israel,14900
+1977,Europe,20300,Italy,Italy,20300
+1977,Americas,6870,Jamaica,Jamaica,6870
+1977,Asia,18100,Japan,Japan,18100
+1977,Asia,5410,Jordan,Jordan,5410
+1977,Asia,13600,Kazakhstan,Kazakhstan,13600
+1977,Africa,2110,Kenya,Kenya,2110
+1977,Asia,4950,Kiribati,Kiribati,4950
+1977,Asia,86900,Kuwait,Kuwait,86900
+1977,Asia,3560,Kyrgyz Republic,Kyrgyz Republic,3560
+1977,Asia,1460,Lao,Lao,1460
+1977,Europe,9970,Latvia,Latvia,9970
+1977,Asia,7510,Lebanon,Lebanon,7510
+1977,Africa,1210,Lesotho,Lesotho,1210
+1977,Africa,2110,Liberia,Liberia,2110
+1977,Africa,53600,Libya,Libya,53600
+1977,Europe,14800,Lithuania,Lithuania,14800
+1977,Europe,33800,Luxembourg,Luxembourg,33800
+1977,Europe,8780,"Macedonia, FYR","Macedonia, FYR",8780
+1977,Africa,2180,Madagascar,Madagascar,2180
+1977,Africa,865,Malawi,Malawi,865
+1977,Asia,6220,Malaysia,Malaysia,6220
+1977,Asia,1370,Maldives,Maldives,1370
+1977,Africa,1180,Mali,Mali,1180
+1977,Europe,8840,Malta,Malta,8840
+1977,Asia,2320,Marshall Islands,Marshall Islands,2320
+1977,Africa,2860,Mauritania,Mauritania,2860
+1977,Africa,4860,Mauritius,Mauritius,4860
+1977,Americas,10500,Mexico,Mexico,10500
+1977,Asia,2660,"Micronesia, Fed. Sts.","Micronesia, Fed. Sts.",2660
+1977,Europe,6040,Moldova,Moldova,6040
+1977,Asia,2120,Mongolia,Mongolia,2120
+1977,Europe,14800,Montenegro,Montenegro,14800
+1977,Africa,3070,Morocco,Morocco,3070
+1977,Africa,438,Mozambique,Mozambique,438
+1977,Asia,849,Myanmar,Myanmar,849
+1977,Africa,6340,Namibia,Namibia,6340
+1977,Asia,1000,Nepal,Nepal,1000
+1977,Europe,24200,Netherlands,Netherlands,24200
+1977,Asia,20700,New Zealand,New Zealand,20700
+1977,Americas,7100,Nicaragua,Nicaragua,7100
+1977,Africa,1100,Niger,Niger,1100
+1977,Africa,4430,Nigeria,Nigeria,4430
+1977,Asia,1880,North Korea,North Korea,1880
+1977,Europe,30000,Norway,Norway,30000
+1977,Asia,22900,Oman,Oman,22900
+1977,Asia,1950,Pakistan,Pakistan,1950
+1977,Asia,1610,Palestine,Palestine,1610
+1977,Americas,7100,Panama,Panama,7100
+1977,Asia,1750,Papua New Guinea,Papua New Guinea,1750
+1977,Americas,4660,Paraguay,Paraguay,4660
+1977,Americas,7290,Peru,Peru,7290
+1977,Asia,3950,Philippines,Philippines,3950
+1977,Europe,11900,Poland,Poland,11900
+1977,Europe,13300,Portugal,Portugal,13300
+1977,Asia,142000,Qatar,Qatar,142000
+1977,Europe,13200,Romania,Romania,13200
+1977,Europe,18400,Russia,Russia,18400
+1977,Africa,759,Rwanda,Rwanda,759
+1977,Asia,3490,Samoa,Samoa,3490
+1977,Africa,2700,Sao Tome and Principe,Sao Tome and Principe,2700
+1977,Asia,89600,Saudi Arabia,Saudi Arabia,89600
+1977,Africa,2000,Senegal,Senegal,2000
+1977,Europe,14300,Serbia,Serbia,14300
+1977,Africa,9460,Seychelles,Seychelles,9460
+1977,Africa,1430,Sierra Leone,Sierra Leone,1430
+1977,Asia,16600,Singapore,Singapore,16600
+1977,Europe,13400,Slovak Republic,Slovak Republic,13400
+1977,Europe,17700,Slovenia,Slovenia,17700
+1977,Asia,1120,Solomon Islands,Solomon Islands,1120
+1977,Africa,1050,Somalia,Somalia,1050
+1977,Africa,10500,South Africa,South Africa,10500
+1977,Asia,4810,South Korea,South Korea,4810
+1977,Africa,2970,South Sudan,South Sudan,2970
+1977,Europe,17100,Spain,Spain,17100
+1977,Asia,2400,Sri Lanka,Sri Lanka,2400
+1977,Americas,5270,St. Lucia,St. Lucia,5270
+1977,Americas,3030,St. Vincent and the Grenadines,St. Vincent and the Grenadines,3030
+1977,Africa,2670,Sudan,Sudan,2670
+1977,Americas,11800,Suriname,Suriname,11800
+1977,Africa,5300,Swaziland,Swaziland,5300
+1977,Europe,24600,Sweden,Sweden,24600
+1977,Europe,39000,Switzerland,Switzerland,39000
+1977,Asia,4180,Syria,Syria,4180
+1977,Asia,4870,Tajikistan,Tajikistan,4870
+1977,Africa,1580,Tanzania,Tanzania,1580
+1977,Asia,3200,Thailand,Thailand,3200
+1977,Asia,811,Timor-Leste,Timor-Leste,811
+1977,Africa,1820,Togo,Togo,1820
+1977,Asia,1990,Tonga,Tonga,1990
+1977,Americas,13500,Trinidad and Tobago,Trinidad and Tobago,13500
+1977,Africa,4330,Tunisia,Tunisia,4330
+1977,Europe,9360,Turkey,Turkey,9360
+1977,Asia,10600,Turkmenistan,Turkmenistan,10600
+1977,Africa,974,Uganda,Uganda,974
+1977,Europe,9240,Ukraine,Ukraine,9240
+1977,Asia,163000,United Arab Emirates,United Arab Emirates,163000
+1977,Europe,19900,United Kingdom,United Kingdom,19900
+1977,Americas,28000,United States,United States,28000
+1977,Americas,8610,Uruguay,Uruguay,8610
+1977,Asia,3620,Uzbekistan,Uzbekistan,3620
+1977,Asia,2000,Vanuatu,Vanuatu,2000
+1977,Americas,19500,Venezuela,Venezuela,19500
+1977,Asia,1180,Vietnam,Vietnam,1180
+1977,Asia,3170,Yemen,Yemen,3170
+1977,Africa,3310,Zambia,Zambia,3310
+1977,Africa,2380,Zimbabwe,Zimbabwe,2380
+1982,Asia,1410,Afghanistan,Afghanistan,1410
+1982,Europe,4410,Albania,Albania,4410
+1982,Africa,10600,Algeria,Algeria,10600
+1982,Europe,29900,Andorra,Andorra,29900
+1982,Africa,4110,Angola,Angola,4110
+1982,Americas,8470,Antigua and Barbuda,Antigua and Barbuda,8470
+1982,Americas,12100,Argentina,Argentina,12100
+1982,Europe,3820,Armenia,Armenia,3820
+1982,Asia,23900,Australia,Australia,23900
+1982,Europe,25800,Austria,Austria,25800
+1982,Europe,8310,Azerbaijan,Azerbaijan,8310
+1982,Americas,22500,Bahamas,Bahamas,22500
+1982,Asia,39000,Bahrain,Bahrain,39000
+1982,Asia,1080,Bangladesh,Bangladesh,1080
+1982,Americas,12100,Barbados,Barbados,12100
+1982,Europe,7250,Belarus,Belarus,7250
+1982,Europe,25800,Belgium,Belgium,25800
+1982,Americas,3970,Belize,Belize,3970
+1982,Africa,1580,Benin,Benin,1580
+1982,Asia,1220,Bhutan,Bhutan,1220
+1982,Americas,4030,Bolivia,Bolivia,4030
+1982,Europe,3350,Bosnia and Herzegovina,Bosnia and Herzegovina,3350
+1982,Africa,4700,Botswana,Botswana,4700
+1982,Americas,10100,Brazil,Brazil,10100
+1982,Asia,104000,Brunei,Brunei,104000
+1982,Europe,10600,Bulgaria,Bulgaria,10600
+1982,Africa,767,Burkina Faso,Burkina Faso,767
+1982,Africa,951,Burundi,Burundi,951
+1982,Asia,799,Cambodia,Cambodia,799
+1982,Africa,3270,Cameroon,Cameroon,3270
+1982,Americas,26100,Canada,Canada,26100
+1982,Africa,1310,Cape Verde,Cape Verde,1310
+1982,Africa,1070,Central African Republic,Central African Republic,1070
+1982,Africa,883,Chad,Chad,883
+1982,Americas,7040,Chile,Chile,7040
+1982,Asia,1180,China,China,1180
+1982,Americas,6240,Colombia,Colombia,6240
+1982,Africa,1690,Comoros,Comoros,1690
+1982,Africa,1530,"Congo, Dem. Rep.","Congo, Dem. Rep.",1530
+1982,Africa,5870,"Congo, Rep.","Congo, Rep.",5870
+1982,Americas,6870,Costa Rica,Costa Rica,6870
+1982,Africa,3820,Cote d'Ivoire,Cote d'Ivoire,3820
+1982,Europe,19300,Croatia,Croatia,19300
+1982,Americas,13900,Cuba,Cuba,13900
+1982,Europe,15300,Cyprus,Cyprus,15300
+1982,Europe,18800,Czech Republic,Czech Republic,18800
+1982,Europe,28000,Denmark,Denmark,28000
+1982,Africa,3580,Djibouti,Djibouti,3580
+1982,Americas,4390,Dominica,Dominica,4390
+1982,Americas,5050,Dominican Republic,Dominican Republic,5050
+1982,Americas,8020,Ecuador,Ecuador,8020
+1982,Africa,4680,Egypt,Egypt,4680
+1982,Americas,4530,El Salvador,El Salvador,4530
+1982,Africa,1240,Equatorial Guinea,Equatorial Guinea,1240
+1982,Africa,981,Eritrea,Eritrea,981
+1982,Europe,12900,Estonia,Estonia,12900
+1982,Africa,703,Ethiopia,Ethiopia,703
+1982,Asia,5730,Fiji,Fiji,5730
+1982,Europe,23100,Finland,Finland,23100
+1982,Europe,24800,France,France,24800
+1982,Africa,25000,Gabon,Gabon,25000
+1982,Africa,1860,Gambia,Gambia,1860
+1982,Europe,9350,Georgia,Georgia,9350
+1982,Europe,27500,Germany,Germany,27500
+1982,Africa,1770,Ghana,Ghana,1770
+1982,Europe,18000,Greece,Greece,18000
+1982,Americas,4820,Grenada,Grenada,4820
+1982,Americas,5740,Guatemala,Guatemala,5740
+1982,Africa,1140,Guinea,Guinea,1140
+1982,Africa,1800,Guinea-Bissau,Guinea-Bissau,1800
+1982,Americas,3360,Guyana,Guyana,3360
+1982,Americas,2600,Haiti,Haiti,2600
+1982,Americas,3340,Honduras,Honduras,3340
+1982,Europe,17300,Hungary,Hungary,17300
+1982,Europe,25800,Iceland,Iceland,25800
+1982,Asia,1320,India,India,1320
+1982,Asia,3300,Indonesia,Indonesia,3300
+1982,Asia,11400,Iran,Iran,11400
+1982,Asia,13000,Iraq,Iraq,13000
+1982,Europe,16400,Ireland,Ireland,16400
+1982,Asia,17300,Israel,Israel,17300
+1982,Europe,23700,Italy,Italy,23700
+1982,Americas,6190,Jamaica,Jamaica,6190
+1982,Asia,21500,Japan,Japan,21500
+1982,Asia,7820,Jordan,Jordan,7820
+1982,Asia,13200,Kazakhstan,Kazakhstan,13200
+1982,Africa,2250,Kenya,Kenya,2250
+1982,Asia,2350,Kiribati,Kiribati,2350
+1982,Asia,66800,Kuwait,Kuwait,66800
+1982,Asia,3520,Kyrgyz Republic,Kyrgyz Republic,3520
+1982,Asia,1580,Lao,Lao,1580
+1982,Europe,11600,Latvia,Latvia,11600
+1982,Asia,5900,Lebanon,Lebanon,5900
+1982,Africa,1150,Lesotho,Lesotho,1150
+1982,Africa,1830,Liberia,Liberia,1830
+1982,Africa,42700,Libya,Libya,42700
+1982,Europe,15000,Lithuania,Lithuania,15000
+1982,Europe,36400,Luxembourg,Luxembourg,36400
+1982,Europe,10300,"Macedonia, FYR","Macedonia, FYR",10300
+1982,Africa,1840,Madagascar,Madagascar,1840
+1982,Africa,800,Malawi,Malawi,800
+1982,Asia,8050,Malaysia,Malaysia,8050
+1982,Asia,1950,Maldives,Maldives,1950
+1982,Africa,1070,Mali,Mali,1070
+1982,Europe,11600,Malta,Malta,11600
+1982,Asia,2100,Marshall Islands,Marshall Islands,2100
+1982,Africa,2890,Mauritania,Mauritania,2890
+1982,Africa,4860,Mauritius,Mauritius,4860
+1982,Americas,13200,Mexico,Mexico,13200
+1982,Asia,2420,"Micronesia, Fed. Sts.","Micronesia, Fed. Sts.",2420
+1982,Europe,6120,Moldova,Moldova,6120
+1982,Asia,2590,Mongolia,Mongolia,2590
+1982,Europe,17400,Montenegro,Montenegro,17400
+1982,Africa,3510,Morocco,Morocco,3510
+1982,Africa,400,Mozambique,Mozambique,400
+1982,Asia,969,Myanmar,Myanmar,969
+1982,Africa,6870,Namibia,Namibia,6870
+1982,Asia,1030,Nepal,Nepal,1030
+1982,Europe,25100,Netherlands,Netherlands,25100
+1982,Asia,22600,New Zealand,New Zealand,22600
+1982,Americas,4460,Nicaragua,Nicaragua,4460
+1982,Africa,1250,Niger,Niger,1250
+1982,Africa,3480,Nigeria,Nigeria,3480
+1982,Asia,2180,North Korea,North Korea,2180
+1982,Europe,34400,Norway,Norway,34400
+1982,Asia,25400,Oman,Oman,25400
+1982,Asia,2400,Pakistan,Pakistan,2400
+1982,Asia,1780,Palestine,Palestine,1780
+1982,Americas,9330,Panama,Panama,9330
+1982,Asia,1680,Papua New Guinea,Papua New Guinea,1680
+1982,Americas,6080,Paraguay,Paraguay,6080
+1982,Americas,7480,Peru,Peru,7480
+1982,Asia,4350,Philippines,Philippines,4350
+1982,Europe,10600,Poland,Poland,10600
+1982,Europe,15400,Portugal,Portugal,15400
+1982,Asia,99100,Qatar,Qatar,99100
+1982,Europe,13500,Romania,Romania,13500
+1982,Europe,19000,Russia,Russia,19000
+1982,Africa,1000,Rwanda,Rwanda,1000
+1982,Asia,3470,Samoa,Samoa,3470
+1982,Africa,2630,Sao Tome and Principe,Sao Tome and Principe,2630
+1982,Asia,65000,Saudi Arabia,Saudi Arabia,65000
+1982,Africa,1950,Senegal,Senegal,1950
+1982,Europe,16400,Serbia,Serbia,16400
+1982,Africa,10200,Seychelles,Seychelles,10200
+1982,Africa,1500,Sierra Leone,Sierra Leone,1500
+1982,Asia,22500,Singapore,Singapore,22500
+1982,Europe,13900,Slovak Republic,Slovak Republic,13900
+1982,Europe,20700,Slovenia,Slovenia,20700
+1982,Asia,1410,Solomon Islands,Solomon Islands,1410
+1982,Africa,888,Somalia,Somalia,888
+1982,Africa,11000,South Africa,South Africa,11000
+1982,Asia,5300,South Korea,South Korea,5300
+1982,Africa,2600,South Sudan,South Sudan,2600
+1982,Europe,18100,Spain,Spain,18100
+1982,Asia,2950,Sri Lanka,Sri Lanka,2950
+1982,Americas,5480,St. Lucia,St. Lucia,5480
+1982,Americas,3760,St. Vincent and the Grenadines,St. Vincent and the Grenadines,3760
+1982,Africa,2320,Sudan,Sudan,2320
+1982,Americas,10800,Suriname,Suriname,10800
+1982,Africa,5520,Swaziland,Swaziland,5520
+1982,Europe,26500,Sweden,Sweden,26500
+1982,Europe,41100,Switzerland,Switzerland,41100
+1982,Asia,4990,Syria,Syria,4990
+1982,Asia,4300,Tajikistan,Tajikistan,4300
+1982,Africa,1460,Tanzania,Tanzania,1460
+1982,Asia,3920,Thailand,Thailand,3920
+1982,Asia,914,Timor-Leste,Timor-Leste,914
+1982,Africa,1590,Togo,Togo,1590
+1982,Asia,3070,Tonga,Tonga,3070
+1982,Americas,15600,Trinidad and Tobago,Trinidad and Tobago,15600
+1982,Africa,4950,Tunisia,Tunisia,4950
+1982,Europe,8830,Turkey,Turkey,8830
+1982,Asia,9520,Turkmenistan,Turkmenistan,9520
+1982,Africa,795,Uganda,Uganda,795
+1982,Europe,9570,Ukraine,Ukraine,9570
+1982,Asia,154000,United Arab Emirates,United Arab Emirates,154000
+1982,Europe,20800,United Kingdom,United Kingdom,20800
+1982,Americas,29200,United States,United States,29200
+1982,Americas,9150,Uruguay,Uruguay,9150
+1982,Asia,3360,Uzbekistan,Uzbekistan,3360
+1982,Asia,2180,Vanuatu,Vanuatu,2180
+1982,Americas,16600,Venezuela,Venezuela,16600
+1982,Asia,1180,Vietnam,Vietnam,1180
+1982,Asia,3420,Yemen,Yemen,3420
+1982,Africa,2770,Zambia,Zambia,2770
+1982,Africa,2580,Zimbabwe,Zimbabwe,2580
+1987,Asia,1240,Afghanistan,Afghanistan,1240
+1987,Europe,4490,Albania,Albania,4490
+1987,Africa,10500,Algeria,Algeria,10500
+1987,Europe,27900,Andorra,Andorra,27900
+1987,Africa,4480,Angola,Angola,4480
+1987,Americas,13400,Antigua and Barbuda,Antigua and Barbuda,13400
+1987,Americas,12500,Argentina,Argentina,12500
+1987,Europe,3880,Armenia,Armenia,3880
+1987,Asia,26900,Australia,Australia,26900
+1987,Europe,28300,Austria,Austria,28300
+1987,Europe,8680,Azerbaijan,Azerbaijan,8680
+1987,Americas,24800,Bahamas,Bahamas,24800
+1987,Asia,28500,Bahrain,Bahrain,28500
+1987,Asia,1210,Bangladesh,Bangladesh,1210
+1987,Americas,13100,Barbados,Barbados,13100
+1987,Europe,8150,Belarus,Belarus,8150
+1987,Europe,27700,Belgium,Belgium,27700
+1987,Americas,4080,Belize,Belize,4080
+1987,Africa,1530,Benin,Benin,1530
+1987,Asia,1940,Bhutan,Bhutan,1940
+1987,Americas,3520,Bolivia,Bolivia,3520
+1987,Europe,3260,Bosnia and Herzegovina,Bosnia and Herzegovina,3260
+1987,Africa,6420,Botswana,Botswana,6420
+1987,Americas,11300,Brazil,Brazil,11300
+1987,Asia,89400,Brunei,Brunei,89400
+1987,Europe,10600,Bulgaria,Bulgaria,10600
+1987,Africa,857,Burkina Faso,Burkina Faso,857
+1987,Africa,1070,Burundi,Burundi,1070
+1987,Asia,930,Cambodia,Cambodia,930
+1987,Africa,3630,Cameroon,Cameroon,3630
+1987,Americas,30400,Canada,Canada,30400
+1987,Africa,1580,Cape Verde,Cape Verde,1580
+1987,Africa,931,Central African Republic,Central African Republic,931
+1987,Africa,1060,Chad,Chad,1060
+1987,Americas,7690,Chile,Chile,7690
+1987,Asia,1660,China,China,1660
+1987,Americas,6960,Colombia,Colombia,6960
+1987,Africa,1690,Comoros,Comoros,1690
+1987,Africa,1530,"Congo, Dem. Rep.","Congo, Dem. Rep.",1530
+1987,Africa,5330,"Congo, Rep.","Congo, Rep.",5330
+1987,Americas,7400,Costa Rica,Costa Rica,7400
+1987,Africa,3160,Cote d'Ivoire,Cote d'Ivoire,3160
+1987,Europe,20200,Croatia,Croatia,20200
+1987,Americas,14300,Cuba,Cuba,14300
+1987,Europe,19300,Cyprus,Cyprus,19300
+1987,Europe,20000,Czech Republic,Czech Republic,20000
+1987,Europe,32800,Denmark,Denmark,32800
+1987,Africa,3590,Djibouti,Djibouti,3590
+1987,Americas,5780,Dominica,Dominica,5780
+1987,Americas,5160,Dominican Republic,Dominican Republic,5160
+1987,Americas,7130,Ecuador,Ecuador,7130
+1987,Africa,5670,Egypt,Egypt,5670
+1987,Americas,4530,El Salvador,El Salvador,4530
+1987,Africa,1110,Equatorial Guinea,Equatorial Guinea,1110
+1987,Africa,975,Eritrea,Eritrea,975
+1987,Europe,14200,Estonia,Estonia,14200
+1987,Africa,700,Ethiopia,Ethiopia,700
+1987,Asia,5330,Fiji,Fiji,5330
+1987,Europe,26400,Finland,Finland,26400
+1987,Europe,27000,France,France,27000
+1987,Africa,16500,Gabon,Gabon,16500
+1987,Africa,1370,Gambia,Gambia,1370
+1987,Europe,9660,Georgia,Georgia,9660
+1987,Europe,30800,Germany,Germany,30800
+1987,Africa,1810,Ghana,Ghana,1810
+1987,Europe,19200,Greece,Greece,19200
+1987,Americas,6140,Grenada,Grenada,6140
+1987,Americas,5020,Guatemala,Guatemala,5020
+1987,Africa,1080,Guinea,Guinea,1080
+1987,Africa,1570,Guinea-Bissau,Guinea-Bissau,1570
+1987,Americas,3130,Guyana,Guyana,3130
+1987,Americas,2360,Haiti,Haiti,2360
+1987,Americas,3210,Honduras,Honduras,3210
+1987,Europe,18000,Hungary,Hungary,18000
+1987,Europe,29800,Iceland,Iceland,29800
+1987,Asia,1510,India,India,1510
+1987,Asia,3840,Indonesia,Indonesia,3840
+1987,Asia,9950,Iran,Iran,9950
+1987,Asia,13400,Iraq,Iraq,13400
+1987,Europe,18100,Ireland,Ireland,18100
+1987,Asia,19300,Israel,Israel,19300
+1987,Europe,27600,Italy,Italy,27600
+1987,Americas,6390,Jamaica,Jamaica,6390
+1987,Asia,25700,Japan,Japan,25700
+1987,Asia,8270,Jordan,Jordan,8270
+1987,Asia,13500,Kazakhstan,Kazakhstan,13500
+1987,Africa,2280,Kenya,Kenya,2280
+1987,Asia,1900,Kiribati,Kiribati,1900
+1987,Asia,47300,Kuwait,Kuwait,47300
+1987,Asia,3490,Kyrgyz Republic,Kyrgyz Republic,3490
+1987,Asia,1610,Lao,Lao,1610
+1987,Europe,13400,Latvia,Latvia,13400
+1987,Asia,14300,Lebanon,Lebanon,14300
+1987,Africa,1190,Lesotho,Lesotho,1190
+1987,Africa,1620,Liberia,Liberia,1620
+1987,Africa,24200,Libya,Libya,24200
+1987,Europe,15900,Lithuania,Lithuania,15900
+1987,Europe,46700,Luxembourg,Luxembourg,46700
+1987,Europe,10800,"Macedonia, FYR","Macedonia, FYR",10800
+1987,Africa,1640,Madagascar,Madagascar,1640
+1987,Africa,754,Malawi,Malawi,754
+1987,Asia,8640,Malaysia,Malaysia,8640
+1987,Asia,3340,Maldives,Maldives,3340
+1987,Africa,1200,Mali,Mali,1200
+1987,Europe,13300,Malta,Malta,13300
+1987,Asia,2680,Marshall Islands,Marshall Islands,2680
+1987,Africa,2830,Mauritania,Mauritania,2830
+1987,Africa,6340,Mauritius,Mauritius,6340
+1987,Americas,12000,Mexico,Mexico,12000
+1987,Asia,2660,"Micronesia, Fed. Sts.","Micronesia, Fed. Sts.",2660
+1987,Europe,6520,Moldova,Moldova,6520
+1987,Asia,3570,Mongolia,Mongolia,3570
+1987,Europe,18400,Montenegro,Montenegro,18400
+1987,Africa,3590,Morocco,Morocco,3590
+1987,Africa,335,Mozambique,Mozambique,335
+1987,Asia,867,Myanmar,Myanmar,867
+1987,Africa,6070,Namibia,Namibia,6070
+1987,Asia,1100,Nepal,Nepal,1100
+1987,Europe,28600,Netherlands,Netherlands,28600
+1987,Asia,24400,New Zealand,New Zealand,24400
+1987,Americas,3780,Nicaragua,Nicaragua,3780
+1987,Africa,928,Niger,Niger,928
+1987,Africa,2540,Nigeria,Nigeria,2540
+1987,Asia,2140,North Korea,North Korea,2140
+1987,Europe,41800,Norway,Norway,41800
+1987,Asia,36000,Oman,Oman,36000
+1987,Asia,2840,Pakistan,Pakistan,2840
+1987,Asia,1610,Palestine,Palestine,1610
+1987,Americas,9400,Panama,Panama,9400
+1987,Asia,1700,Papua New Guinea,Papua New Guinea,1700
+1987,Americas,5680,Paraguay,Paraguay,5680
+1987,Americas,7400,Peru,Peru,7400
+1987,Asia,3670,Philippines,Philippines,3670
+1987,Europe,11400,Poland,Poland,11400
+1987,Europe,17100,Portugal,Portugal,17100
+1987,Asia,68700,Qatar,Qatar,68700
+1987,Europe,13500,Romania,Romania,13500
+1987,Europe,20600,Russia,Russia,20600
+1987,Africa,963,Rwanda,Rwanda,963
+1987,Asia,3820,Samoa,Samoa,3820
+1987,Africa,2160,Sao Tome and Principe,Sao Tome and Principe,2160
+1987,Asia,38000,Saudi Arabia,Saudi Arabia,38000
+1987,Africa,1860,Senegal,Senegal,1860
+1987,Europe,16900,Serbia,Serbia,16900
+1987,Africa,11500,Seychelles,Seychelles,11500
+1987,Africa,1280,Sierra Leone,Sierra Leone,1280
+1987,Asia,28000,Singapore,Singapore,28000
+1987,Europe,14700,Slovak Republic,Slovak Republic,14700
+1987,Europe,21700,Slovenia,Slovenia,21700
+1987,Asia,1710,Solomon Islands,Solomon Islands,1710
+1987,Africa,979,Somalia,Somalia,979
+1987,Africa,10000,South Africa,South Africa,10000
+1987,Asia,8770,South Korea,South Korea,8770
+1987,Africa,2100,South Sudan,South Sudan,2100
+1987,Europe,20600,Spain,Spain,20600
+1987,Asia,3390,Sri Lanka,Sri Lanka,3390
+1987,Americas,7500,St. Lucia,St. Lucia,7500
+1987,Americas,4680,St. Vincent and the Grenadines,St. Vincent and the Grenadines,4680
+1987,Africa,1860,Sudan,Sudan,1860
+1987,Americas,9880,Suriname,Suriname,9880
+1987,Africa,5720,Swaziland,Swaziland,5720
+1987,Europe,29900,Sweden,Sweden,29900
+1987,Europe,43900,Switzerland,Switzerland,43900
+1987,Asia,4230,Syria,Syria,4230
+1987,Asia,3990,Tajikistan,Tajikistan,3990
+1987,Africa,1420,Tanzania,Tanzania,1420
+1987,Asia,4900,Thailand,Thailand,4900
+1987,Asia,1030,Timor-Leste,Timor-Leste,1030
+1987,Africa,1410,Togo,Togo,1410
+1987,Asia,3800,Tonga,Tonga,3800
+1987,Americas,12700,Trinidad and Tobago,Trinidad and Tobago,12700
+1987,Africa,5320,Tunisia,Tunisia,5320
+1987,Europe,11000,Turkey,Turkey,11000
+1987,Asia,9000,Turkmenistan,Turkmenistan,9000
+1987,Africa,727,Uganda,Uganda,727
+1987,Europe,10400,Ukraine,Ukraine,10400
+1987,Asia,98100,United Arab Emirates,United Arab Emirates,98100
+1987,Europe,24900,United Kingdom,United Kingdom,24900
+1987,Americas,34800,United States,United States,34800
+1987,Americas,9830,Uruguay,Uruguay,9830
+1987,Asia,3270,Uzbekistan,Uzbekistan,3270
+1987,Asia,2520,Vanuatu,Vanuatu,2520
+1987,Americas,14700,Venezuela,Venezuela,14700
+1987,Asia,1370,Vietnam,Vietnam,1370
+1987,Asia,3410,Yemen,Yemen,3410
+1987,Africa,2500,Zambia,Zambia,2500
+1987,Africa,2350,Zimbabwe,Zimbabwe,2350
+1992,Asia,950,Afghanistan,Afghanistan,950
+1992,Europe,3010,Albania,Albania,3010
+1992,Africa,9820,Algeria,Algeria,9820
+1992,Europe,27200,Andorra,Andorra,27200
+1992,Africa,3790,Angola,Angola,3790
+1992,Americas,16500,Antigua and Barbuda,Antigua and Barbuda,16500
+1992,Americas,13300,Argentina,Argentina,13300
+1992,Europe,1980,Armenia,Armenia,1980
+1992,Asia,27900,Australia,Australia,27900
+1992,Europe,32300,Austria,Austria,32300
+1992,Europe,6350,Azerbaijan,Azerbaijan,6350
+1992,Americas,21600,Bahamas,Bahamas,21600
+1992,Asia,40000,Bahrain,Bahrain,40000
+1992,Asia,1340,Bangladesh,Bangladesh,1340
+1992,Americas,12000,Barbados,Barbados,12000
+1992,Europe,7440,Belarus,Belarus,7440
+1992,Europe,31500,Belgium,Belgium,31500
+1992,Americas,6170,Belize,Belize,6170
+1992,Africa,1470,Benin,Benin,1470
+1992,Asia,2450,Bhutan,Bhutan,2450
+1992,Americas,3810,Bolivia,Bolivia,3810
+1992,Europe,1840,Bosnia and Herzegovina,Bosnia and Herzegovina,1840
+1992,Africa,8490,Botswana,Botswana,8490
+1992,Americas,10100,Brazil,Brazil,10100
+1992,Asia,86400,Brunei,Brunei,86400
+1992,Europe,8060,Bulgaria,Bulgaria,8060
+1992,Africa,851,Burkina Faso,Burkina Faso,851
+1992,Africa,1100,Burundi,Burundi,1100
+1992,Asia,1110,Cambodia,Cambodia,1110
+1992,Africa,2510,Cameroon,Cameroon,2510
+1992,Americas,30100,Canada,Canada,30100
+1992,Africa,1780,Cape Verde,Cape Verde,1780
+1992,Africa,824,Central African Republic,Central African Republic,824
+1992,Africa,1220,Chad,Chad,1220
+1992,Americas,10400,Chile,Chile,10400
+1992,Asia,1860,China,China,1860
+1992,Americas,7800,Colombia,Colombia,7800
+1992,Africa,1550,Comoros,Comoros,1550
+1992,Africa,973,"Congo, Dem. Rep.","Congo, Dem. Rep.",973
+1992,Africa,5120,"Congo, Rep.","Congo, Rep.",5120
+1992,Americas,8290,Costa Rica,Costa Rica,8290
+1992,Africa,2970,Cote d'Ivoire,Cote d'Ivoire,2970
+1992,Europe,12300,Croatia,Croatia,12300
+1992,Americas,10600,Cuba,Cuba,10600
+1992,Europe,24400,Cyprus,Cyprus,24400
+1992,Europe,17600,Czech Republic,Czech Republic,17600
+1992,Europe,34700,Denmark,Denmark,34700
+1992,Africa,2850,Djibouti,Djibouti,2850
+1992,Americas,6900,Dominica,Dominica,6900
+1992,Americas,5650,Dominican Republic,Dominican Republic,5650
+1992,Americas,7600,Ecuador,Ecuador,7600
+1992,Africa,5960,Egypt,Egypt,5960
+1992,Americas,4910,El Salvador,El Salvador,4910
+1992,Africa,1250,Equatorial Guinea,Equatorial Guinea,1250
+1992,Africa,1110,Eritrea,Eritrea,1110
+1992,Europe,11400,Estonia,Estonia,11400
+1992,Africa,515,Ethiopia,Ethiopia,515
+1992,Asia,5950,Fiji,Fiji,5950
+1992,Europe,26000,Finland,Finland,26000
+1992,Europe,30100,France,France,30100
+1992,Africa,19000,Gabon,Gabon,19000
+1992,Africa,1510,Gambia,Gambia,1510
+1992,Europe,3430,Georgia,Georgia,3430
+1992,Europe,33000,Germany,Germany,33000
+1992,Africa,1990,Ghana,Ghana,1990
+1992,Europe,21100,Greece,Greece,21100
+1992,Americas,7210,Grenada,Grenada,7210
+1992,Americas,5290,Guatemala,Guatemala,5290
+1992,Africa,1060,Guinea,Guinea,1060
+1992,Africa,1590,Guinea-Bissau,Guinea-Bissau,1590
+1992,Americas,3220,Guyana,Guyana,3220
+1992,Americas,1880,Haiti,Haiti,1880
+1992,Americas,3270,Honduras,Honduras,3270
+1992,Europe,14600,Hungary,Hungary,14600
+1992,Europe,27400,Iceland,Iceland,27400
+1992,Asia,1800,India,India,1800
+1992,Asia,5090,Indonesia,Indonesia,5090
+1992,Asia,11400,Iran,Iran,11400
+1992,Asia,5200,Iraq,Iraq,5200
+1992,Europe,23000,Ireland,Ireland,23000
+1992,Asia,20400,Israel,Israel,20400
+1992,Europe,31800,Italy,Italy,31800
+1992,Americas,7660,Jamaica,Jamaica,7660
+1992,Asia,31500,Japan,Japan,31500
+1992,Asia,6810,Jordan,Jordan,6810
+1992,Asia,10900,Kazakhstan,Kazakhstan,10900
+1992,Africa,2250,Kenya,Kenya,2250
+1992,Asia,1920,Kiribati,Kiribati,1920
+1992,Asia,50200,Kuwait,Kuwait,50200
+1992,Asia,2680,Kyrgyz Republic,Kyrgyz Republic,2680
+1992,Asia,1680,Lao,Lao,1680
+1992,Europe,8220,Latvia,Latvia,8220
+1992,Asia,10900,Lebanon,Lebanon,10900
+1992,Africa,1520,Lesotho,Lesotho,1520
+1992,Africa,505,Liberia,Liberia,505
+1992,Africa,27900,Libya,Libya,27900
+1992,Europe,11700,Lithuania,Lithuania,11700
+1992,Europe,62100,Luxembourg,Luxembourg,62100
+1992,Europe,8480,"Macedonia, FYR","Macedonia, FYR",8480
+1992,Africa,1480,Madagascar,Madagascar,1480
+1992,Africa,727,Malawi,Malawi,727
+1992,Asia,11900,Malaysia,Malaysia,11900
+1992,Asia,4520,Maldives,Maldives,4520
+1992,Africa,1310,Mali,Mali,1310
+1992,Europe,17300,Malta,Malta,17300
+1992,Asia,2960,Marshall Islands,Marshall Islands,2960
+1992,Africa,2760,Mauritania,Mauritania,2760
+1992,Africa,8020,Mauritius,Mauritius,8020
+1992,Americas,13100,Mexico,Mexico,13100
+1992,Asia,2930,"Micronesia, Fed. Sts.","Micronesia, Fed. Sts.",2930
+1992,Europe,3840,Moldova,Moldova,3840
+1992,Asia,4130,Mongolia,Mongolia,4130
+1992,Europe,11100,Montenegro,Montenegro,11100
+1992,Africa,3960,Morocco,Morocco,3960
+1992,Africa,354,Mozambique,Mozambique,354
+1992,Asia,788,Myanmar,Myanmar,788
+1992,Africa,6200,Namibia,Namibia,6200
+1992,Asia,1260,Nepal,Nepal,1260
+1992,Europe,32900,Netherlands,Netherlands,32900
+1992,Asia,22800,New Zealand,New Zealand,22800
+1992,Americas,2880,Nicaragua,Nicaragua,2880
+1992,Africa,803,Niger,Niger,803
+1992,Africa,2890,Nigeria,Nigeria,2890
+1992,Asia,1740,North Korea,North Korea,1740
+1992,Europe,45200,Norway,Norway,45200
+1992,Asia,36800,Oman,Oman,36800
+1992,Asia,3270,Pakistan,Pakistan,3270
+1992,Asia,1740,Palestine,Palestine,1740
+1992,Americas,8880,Panama,Panama,8880
+1992,Asia,1840,Papua New Guinea,Papua New Guinea,1840
+1992,Americas,6040,Paraguay,Paraguay,6040
+1992,Americas,5180,Peru,Peru,5180
+1992,Asia,3810,Philippines,Philippines,3810
+1992,Europe,9730,Poland,Poland,9730
+1992,Europe,21300,Portugal,Portugal,21300
+1992,Asia,75300,Qatar,Qatar,75300
+1992,Europe,9280,Romania,Romania,9280
+1992,Europe,16700,Russia,Russia,16700
+1992,Africa,964,Rwanda,Rwanda,964
+1992,Asia,3500,Samoa,Samoa,3500
+1992,Africa,2040,Sao Tome and Principe,Sao Tome and Principe,2040
+1992,Asia,47700,Saudi Arabia,Saudi Arabia,47700
+1992,Africa,1800,Senegal,Senegal,1800
+1992,Europe,9830,Serbia,Serbia,9830
+1992,Africa,15400,Seychelles,Seychelles,15400
+1992,Africa,1030,Sierra Leone,Sierra Leone,1030
+1992,Asia,37000,Singapore,Singapore,37000
+1992,Europe,11600,Slovak Republic,Slovak Republic,11600
+1992,Europe,16500,Slovenia,Slovenia,16500
+1992,Asia,2020,Solomon Islands,Solomon Islands,2020
+1992,Africa,813,Somalia,Somalia,813
+1992,Africa,9130,South Africa,South Africa,9130
+1992,Asia,13400,South Korea,South Korea,13400
+1992,Africa,2100,South Sudan,South Sudan,2100
+1992,Europe,24400,Spain,Spain,24400
+1992,Asia,3900,Sri Lanka,Sri Lanka,3900
+1992,Americas,9600,St. Lucia,St. Lucia,9600
+1992,Americas,5970,St. Vincent and the Grenadines,St. Vincent and the Grenadines,5970
+1992,Africa,1900,Sudan,Sudan,1900
+1992,Americas,10400,Suriname,Suriname,10400
+1992,Africa,5370,Swaziland,Swaziland,5370
+1992,Europe,29800,Sweden,Sweden,29800
+1992,Europe,46200,Switzerland,Switzerland,46200
+1992,Asia,4400,Syria,Syria,4400
+1992,Asia,2310,Tajikistan,Tajikistan,2310
+1992,Africa,1410,Tanzania,Tanzania,1410
+1992,Asia,7630,Thailand,Thailand,7630
+1992,Asia,1260,Timor-Leste,Timor-Leste,1260
+1992,Africa,1230,Togo,Togo,1230
+1992,Asia,3800,Tonga,Tonga,3800
+1992,Americas,12200,Trinidad and Tobago,Trinidad and Tobago,12200
+1992,Africa,6020,Tunisia,Tunisia,6020
+1992,Europe,11700,Turkey,Turkey,11700
+1992,Asia,6370,Turkmenistan,Turkmenistan,6370
+1992,Africa,798,Uganda,Uganda,798
+1992,Europe,8610,Ukraine,Ukraine,8610
+1992,Asia,103000,United Arab Emirates,United Arab Emirates,103000
+1992,Europe,26400,United Kingdom,United Kingdom,26400
+1992,Americas,37300,United States,United States,37300
+1992,Americas,10800,Uruguay,Uruguay,10800
+1992,Asia,2600,Uzbekistan,Uzbekistan,2600
+1992,Asia,2550,Vanuatu,Vanuatu,2550
+1992,Americas,16100,Venezuela,Venezuela,16100
+1992,Asia,1670,Vietnam,Vietnam,1670
+1992,Asia,3460,Yemen,Yemen,3460
+1992,Africa,2180,Zambia,Zambia,2180
+1992,Africa,2370,Zimbabwe,Zimbabwe,2370
+1997,Asia,930,Afghanistan,Afghanistan,930
+1997,Europe,4070,Albania,Albania,4070
+1997,Africa,9460,Algeria,Algeria,9460
+1997,Europe,29700,Andorra,Andorra,29700
+1997,Africa,3370,Angola,Angola,3370
+1997,Americas,17500,Antigua and Barbuda,Antigua and Barbuda,17500
+1997,Americas,15500,Argentina,Argentina,15500
+1997,Europe,2440,Armenia,Armenia,2440
+1997,Asia,32000,Australia,Australia,32000
+1997,Europe,35200,Austria,Austria,35200
+1997,Europe,3490,Azerbaijan,Azerbaijan,3490
+1997,Americas,23000,Bahamas,Bahamas,23000
+1997,Asia,44200,Bahrain,Bahrain,44200
+1997,Asia,1500,Bangladesh,Bangladesh,1500
+1997,Americas,13400,Barbados,Barbados,13400
+1997,Europe,6290,Belarus,Belarus,6290
+1997,Europe,34300,Belgium,Belgium,34300
+1997,Americas,6090,Belize,Belize,6090
+1997,Africa,1570,Benin,Benin,1570
+1997,Asia,3140,Bhutan,Bhutan,3140
+1997,Americas,4320,Bolivia,Bolivia,4320
+1997,Europe,4750,Bosnia and Herzegovina,Bosnia and Herzegovina,4750
+1997,Africa,9750,Botswana,Botswana,9750
+1997,Americas,11300,Brazil,Brazil,11300
+1997,Asia,83100,Brunei,Brunei,83100
+1997,Europe,8580,Bulgaria,Bulgaria,8580
+1997,Africa,970,Burkina Faso,Burkina Faso,970
+1997,Africa,768,Burundi,Burundi,768
+1997,Asia,1160,Cambodia,Cambodia,1160
+1997,Africa,2380,Cameroon,Cameroon,2380
+1997,Americas,33400,Canada,Canada,33400
+1997,Africa,2860,Cape Verde,Cape Verde,2860
+1997,Africa,827,Central African Republic,Central African Republic,827
+1997,Africa,1050,Chad,Chad,1050
+1997,Americas,13600,Chile,Chile,13600
+1997,Asia,3020,China,China,3020
+1997,Americas,8630,Colombia,Colombia,8630
+1997,Africa,1400,Comoros,Comoros,1400
+1997,Africa,648,"Congo, Dem. Rep.","Congo, Dem. Rep.",648
+1997,Africa,4490,"Congo, Rep.","Congo, Rep.",4490
+1997,Americas,9130,Costa Rica,Costa Rica,9130
+1997,Africa,3050,Cote d'Ivoire,Cote d'Ivoire,3050
+1997,Europe,14600,Croatia,Croatia,14600
+1997,Americas,10300,Cuba,Cuba,10300
+1997,Europe,26700,Cyprus,Cyprus,26700
+1997,Europe,19900,Czech Republic,Czech Republic,19900
+1997,Europe,39200,Denmark,Denmark,39200
+1997,Africa,2250,Djibouti,Djibouti,2250
+1997,Americas,7590,Dominica,Dominica,7590
+1997,Americas,6920,Dominican Republic,Dominican Republic,6920
+1997,Americas,7870,Ecuador,Ecuador,7870
+1997,Africa,6710,Egypt,Egypt,6710
+1997,Americas,5950,El Salvador,El Salvador,5950
+1997,Africa,6620,Equatorial Guinea,Equatorial Guinea,6620
+1997,Africa,1830,Eritrea,Eritrea,1830
+1997,Europe,13700,Estonia,Estonia,13700
+1997,Africa,626,Ethiopia,Ethiopia,626
+1997,Asia,6300,Fiji,Fiji,6300
+1997,Europe,30200,Finland,Finland,30200
+1997,Europe,31900,France,France,31900
+1997,Africa,20700,Gabon,Gabon,20700
+1997,Africa,1470,Gambia,Gambia,1470
+1997,Europe,2950,Georgia,Georgia,2950
+1997,Europe,34400,Germany,Germany,34400
+1997,Africa,2140,Ghana,Ghana,2140
+1997,Europe,22600,Greece,Greece,22600
+1997,Americas,7740,Grenada,Grenada,7740
+1997,Americas,5750,Guatemala,Guatemala,5750
+1997,Africa,1080,Guinea,Guinea,1080
+1997,Africa,1870,Guinea-Bissau,Guinea-Bissau,1870
+1997,Americas,4480,Guyana,Guyana,4480
+1997,Americas,1730,Haiti,Haiti,1730
+1997,Americas,3370,Honduras,Honduras,3370
+1997,Europe,15800,Hungary,Hungary,15800
+1997,Europe,30500,Iceland,Iceland,30500
+1997,Asia,2200,India,India,2200
+1997,Asia,6590,Indonesia,Indonesia,6590
+1997,Asia,11300,Iran,Iran,11300
+1997,Asia,8300,Iraq,Iraq,8300
+1997,Europe,32100,Ireland,Ireland,32100
+1997,Asia,23900,Israel,Israel,23900
+1997,Europe,34200,Italy,Italy,34200
+1997,Americas,8180,Jamaica,Jamaica,8180
+1997,Asia,33600,Japan,Japan,33600
+1997,Asia,6880,Jordan,Jordan,6880
+1997,Asia,8730,Kazakhstan,Kazakhstan,8730
+1997,Africa,2180,Kenya,Kenya,2180
+1997,Asia,1900,Kiribati,Kiribati,1900
+1997,Asia,78400,Kuwait,Kuwait,78400
+1997,Asia,1940,Kyrgyz Republic,Kyrgyz Republic,1940
+1997,Asia,2100,Lao,Lao,2100
+1997,Europe,9420,Latvia,Latvia,9420
+1997,Asia,12500,Lebanon,Lebanon,12500
+1997,Africa,1740,Lesotho,Lesotho,1740
+1997,Africa,503,Liberia,Liberia,503
+1997,Africa,22200,Libya,Libya,22200
+1997,Europe,10800,Lithuania,Lithuania,10800
+1997,Europe,68200,Luxembourg,Luxembourg,68200
+1997,Europe,7780,"Macedonia, FYR","Macedonia, FYR",7780
+1997,Africa,1390,Madagascar,Madagascar,1390
+1997,Africa,873,Malawi,Malawi,873
+1997,Asia,16400,Malaysia,Malaysia,16400
+1997,Asia,5890,Maldives,Maldives,5890
+1997,Africa,1400,Mali,Mali,1400
+1997,Europe,21300,Malta,Malta,21300
+1997,Asia,2890,Marshall Islands,Marshall Islands,2890
+1997,Africa,2740,Mauritania,Mauritania,2740
+1997,Africa,9650,Mauritius,Mauritius,9650
+1997,Americas,13900,Mexico,Mexico,13900
+1997,Asia,2870,"Micronesia, Fed. Sts.","Micronesia, Fed. Sts.",2870
+1997,Europe,2510,Moldova,Moldova,2510
+1997,Asia,4440,Mongolia,Mongolia,4440
+1997,Europe,10200,Montenegro,Montenegro,10200
+1997,Africa,4210,Morocco,Morocco,4210
+1997,Africa,495,Mozambique,Mozambique,495
+1997,Asia,1020,Myanmar,Myanmar,1020
+1997,Africa,5970,Namibia,Namibia,5970
+1997,Asia,1430,Nepal,Nepal,1430
+1997,Europe,37200,Netherlands,Netherlands,37200
+1997,Asia,26400,New Zealand,New Zealand,26400
+1997,Americas,3140,Nicaragua,Nicaragua,3140
+1997,Africa,776,Niger,Niger,776
+1997,Africa,2820,Nigeria,Nigeria,2820
+1997,Asia,1230,North Korea,North Korea,1230
+1997,Europe,54800,Norway,Norway,54800
+1997,Asia,41000,Oman,Oman,41000
+1997,Asia,3380,Pakistan,Pakistan,3380
+1997,Asia,2150,Palestine,Palestine,2150
+1997,Americas,9800,Panama,Panama,9800
+1997,Asia,2030,Papua New Guinea,Papua New Guinea,2030
+1997,Americas,6720,Paraguay,Paraguay,6720
+1997,Americas,6600,Peru,Peru,6600
+1997,Asia,4210,Philippines,Philippines,4210
+1997,Europe,12700,Poland,Poland,12700
+1997,Europe,23400,Portugal,Portugal,23400
+1997,Asia,96600,Qatar,Qatar,96600
+1997,Europe,10500,Romania,Romania,10500
+1997,Europe,12600,Russia,Russia,12600
+1997,Africa,786,Rwanda,Rwanda,786
+1997,Asia,3930,Samoa,Samoa,3930
+1997,Africa,2000,Sao Tome and Principe,Sao Tome and Principe,2000
+1997,Asia,43800,Saudi Arabia,Saudi Arabia,43800
+1997,Africa,1760,Senegal,Senegal,1760
+1997,Europe,8150,Serbia,Serbia,8150
+1997,Africa,17300,Seychelles,Seychelles,17300
+1997,Africa,909,Sierra Leone,Sierra Leone,909
+1997,Asia,48600,Singapore,Singapore,48600
+1997,Europe,14900,Slovak Republic,Slovak Republic,14900
+1997,Europe,20100,Slovenia,Slovenia,20100
+1997,Asia,2160,Solomon Islands,Solomon Islands,2160
+1997,Africa,613,Somalia,Somalia,613
+1997,Africa,9480,South Africa,South Africa,9480
+1997,Asia,18500,South Korea,South Korea,18500
+1997,Africa,2300,South Sudan,South Sudan,2300
+1997,Europe,26400,Spain,Spain,26400
+1997,Asia,4910,Sri Lanka,Sri Lanka,4910
+1997,Americas,9540,St. Lucia,St. Lucia,9540
+1997,Americas,6950,St. Vincent and the Grenadines,St. Vincent and the Grenadines,6950
+1997,Africa,2170,Sudan,Sudan,2170
+1997,Americas,10000,Suriname,Suriname,10000
+1997,Africa,5740,Swaziland,Swaziland,5740
+1997,Europe,32400,Sweden,Sweden,32400
+1997,Europe,46900,Switzerland,Switzerland,46900
+1997,Asia,5380,Syria,Syria,5380
+1997,Asia,1040,Tajikistan,Tajikistan,1040
+1997,Africa,1400,Tanzania,Tanzania,1400
+1997,Asia,9420,Thailand,Thailand,9420
+1997,Asia,1840,Timor-Leste,Timor-Leste,1840
+1997,Africa,1410,Togo,Togo,1410
+1997,Asia,4230,Tonga,Tonga,4230
+1997,Americas,14800,Trinidad and Tobago,Trinidad and Tobago,14800
+1997,Africa,6730,Tunisia,Tunisia,6730
+1997,Europe,13800,Turkey,Turkey,13800
+1997,Asia,4200,Turkmenistan,Turkmenistan,4200
+1997,Africa,1000,Uganda,Uganda,1000
+1997,Europe,4500,Ukraine,Ukraine,4500
+1997,Asia,105000,United Arab Emirates,United Arab Emirates,105000
+1997,Europe,30100,United Kingdom,United Kingdom,30100
+1997,Americas,41800,United States,United States,41800
+1997,Americas,13000,Uruguay,Uruguay,13000
+1997,Asia,2310,Uzbekistan,Uzbekistan,2310
+1997,Asia,2690,Vanuatu,Vanuatu,2690
+1997,Americas,15600,Venezuela,Venezuela,15600
+1997,Asia,2340,Vietnam,Vietnam,2340
+1997,Asia,3630,Yemen,Yemen,3630
+1997,Africa,2120,Zambia,Zambia,2120
+1997,Africa,2710,Zimbabwe,Zimbabwe,2710
+2002,Asia,1060,Afghanistan,Afghanistan,1060
+2002,Europe,6230,Albania,Albania,6230
+2002,Africa,10800,Algeria,Algeria,10800
+2002,Europe,31900,Andorra,Andorra,31900
+2002,Africa,3180,Angola,Angola,3180
+2002,Americas,17500,Antigua and Barbuda,Antigua and Barbuda,17500
+2002,Americas,12400,Argentina,Argentina,12400
+2002,Europe,3670,Armenia,Armenia,3670
+2002,Asia,36400,Australia,Australia,36400
+2002,Europe,39600,Austria,Austria,39600
+2002,Europe,5340,Azerbaijan,Azerbaijan,5340
+2002,Americas,26300,Bahamas,Bahamas,26300
+2002,Asia,43700,Bahrain,Bahrain,43700
+2002,Asia,1730,Bangladesh,Bangladesh,1730
+2002,Americas,14100,Barbados,Barbados,14100
+2002,Europe,8420,Belarus,Belarus,8420
+2002,Europe,37900,Belgium,Belgium,37900
+2002,Americas,7250,Belize,Belize,7250
+2002,Africa,1730,Benin,Benin,1730
+2002,Asia,4010,Bhutan,Bhutan,4010
+2002,Americas,4430,Bolivia,Bolivia,4430
+2002,Europe,6940,Bosnia and Herzegovina,Bosnia and Herzegovina,6940
+2002,Africa,10700,Botswana,Botswana,10700
+2002,Americas,11600,Brazil,Brazil,11600
+2002,Asia,84100,Brunei,Brunei,84100
+2002,Europe,10300,Bulgaria,Bulgaria,10300
+2002,Africa,1100,Burkina Faso,Burkina Faso,1100
+2002,Africa,763,Burundi,Burundi,763
+2002,Asia,1520,Cambodia,Cambodia,1520
+2002,Africa,2590,Cameroon,Cameroon,2590
+2002,Americas,38500,Canada,Canada,38500
+2002,Africa,3970,Cape Verde,Cape Verde,3970
+2002,Africa,852,Central African Republic,Central African Republic,852
+2002,Africa,1120,Chad,Chad,1120
+2002,Americas,14900,Chile,Chile,14900
+2002,Asia,4320,China,China,4320
+2002,Americas,8420,Colombia,Colombia,8420
+2002,Africa,1480,Comoros,Comoros,1480
+2002,Africa,504,"Congo, Dem. Rep.","Congo, Dem. Rep.",504
+2002,Africa,4600,"Congo, Rep.","Congo, Rep.",4600
+2002,Americas,10200,Costa Rica,Costa Rica,10200
+2002,Africa,2790,Cote d'Ivoire,Cote d'Ivoire,2790
+2002,Europe,17100,Croatia,Croatia,17100
+2002,Americas,12000,Cuba,Cuba,12000
+2002,Europe,31500,Cyprus,Cyprus,31500
+2002,Europe,22300,Czech Republic,Czech Republic,22300
+2002,Europe,42600,Denmark,Denmark,42600
+2002,Africa,2150,Djibouti,Djibouti,2150
+2002,Americas,8050,Dominica,Dominica,8050
+2002,Americas,8320,Dominican Republic,Dominican Republic,8320
+2002,Americas,7730,Ecuador,Ecuador,7730
+2002,Africa,7540,Egypt,Egypt,7540
+2002,Americas,6540,El Salvador,El Salvador,6540
+2002,Africa,19400,Equatorial Guinea,Equatorial Guinea,19400
+2002,Africa,1770,Eritrea,Eritrea,1770
+2002,Europe,17900,Estonia,Estonia,17900
+2002,Africa,642,Ethiopia,Ethiopia,642
+2002,Asia,6990,Fiji,Fiji,6990
+2002,Europe,36200,Finland,Finland,36200
+2002,Europe,35500,France,France,35500
+2002,Africa,17200,Gabon,Gabon,17200
+2002,Africa,1500,Gambia,Gambia,1500
+2002,Europe,3660,Georgia,Georgia,3660
+2002,Europe,37300,Germany,Germany,37300
+2002,Africa,2330,Ghana,Ghana,2330
+2002,Europe,26600,Greece,Greece,26600
+2002,Americas,9740,Grenada,Grenada,9740
+2002,Americas,6160,Guatemala,Guatemala,6160
+2002,Africa,1190,Guinea,Guinea,1190
+2002,Africa,1320,Guinea-Bissau,Guinea-Bissau,1320
+2002,Americas,4670,Guyana,Guyana,4670
+2002,Americas,1660,Haiti,Haiti,1660
+2002,Americas,3370,Honduras,Honduras,3370
+2002,Europe,19500,Hungary,Hungary,19500
+2002,Europe,34700,Iceland,Iceland,34700
+2002,Asia,2620,India,India,2620
+2002,Asia,6120,Indonesia,Indonesia,6120
+2002,Asia,12800,Iran,Iran,12800
+2002,Asia,11000,Iraq,Iraq,11000
+2002,Europe,44200,Ireland,Ireland,44200
+2002,Asia,25000,Israel,Israel,25000
+2002,Europe,37200,Italy,Italy,37200
+2002,Americas,8080,Jamaica,Jamaica,8080
+2002,Asia,33900,Japan,Japan,33900
+2002,Asia,7780,Jordan,Jordan,7780
+2002,Asia,12400,Kazakhstan,Kazakhstan,12400
+2002,Africa,2110,Kenya,Kenya,2110
+2002,Asia,1980,Kiribati,Kiribati,1980
+2002,Asia,69400,Kuwait,Kuwait,69400
+2002,Asia,2140,Kyrgyz Republic,Kyrgyz Republic,2140
+2002,Asia,2550,Lao,Lao,2550
+2002,Europe,13000,Latvia,Latvia,13000
+2002,Asia,12400,Lebanon,Lebanon,12400
+2002,Africa,1830,Lesotho,Lesotho,1830
+2002,Africa,844,Liberia,Liberia,844
+2002,Africa,20700,Libya,Libya,20700
+2002,Europe,14100,Lithuania,Lithuania,14100
+2002,Europe,85000,Luxembourg,Luxembourg,85000
+2002,Europe,8420,"Macedonia, FYR","Macedonia, FYR",8420
+2002,Africa,1260,Madagascar,Madagascar,1260
+2002,Africa,792,Malawi,Malawi,792
+2002,Asia,16600,Malaysia,Malaysia,16600
+2002,Asia,7220,Maldives,Maldives,7220
+2002,Africa,1640,Mali,Mali,1640
+2002,Europe,25100,Malta,Malta,25100
+2002,Asia,3100,Marshall Islands,Marshall Islands,3100
+2002,Africa,2660,Mauritania,Mauritania,2660
+2002,Africa,11400,Mauritius,Mauritius,11400
+2002,Americas,14600,Mexico,Mexico,14600
+2002,Asia,3260,"Micronesia, Fed. Sts.","Micronesia, Fed. Sts.",3260
+2002,Europe,2670,Moldova,Moldova,2670
+2002,Asia,4920,Mongolia,Mongolia,4920
+2002,Europe,10300,Montenegro,Montenegro,10300
+2002,Africa,4840,Morocco,Morocco,4840
+2002,Africa,650,Mozambique,Mozambique,650
+2002,Asia,1590,Myanmar,Myanmar,1590
+2002,Africa,6270,Namibia,Namibia,6270
+2002,Asia,1560,Nepal,Nepal,1560
+2002,Europe,42100,Netherlands,Netherlands,42100
+2002,Asia,29900,New Zealand,New Zealand,29900
+2002,Americas,3480,Nicaragua,Nicaragua,3480
+2002,Africa,773,Niger,Niger,773
+2002,Africa,2940,Nigeria,Nigeria,2940
+2002,Asia,1380,North Korea,North Korea,1380
+2002,Europe,59500,Norway,Norway,59500
+2002,Asia,44100,Oman,Oman,44100
+2002,Asia,3520,Pakistan,Pakistan,3520
+2002,Asia,1700,Palestine,Palestine,1700
+2002,Americas,10500,Panama,Panama,10500
+2002,Asia,1700,Papua New Guinea,Papua New Guinea,1700
+2002,Americas,5810,Paraguay,Paraguay,5810
+2002,Americas,6780,Peru,Peru,6780
+2002,Asia,4320,Philippines,Philippines,4320
+2002,Europe,15200,Poland,Poland,15200
+2002,Europe,26400,Portugal,Portugal,26400
+2002,Asia,111000,Qatar,Qatar,111000
+2002,Europe,12100,Romania,Romania,12100
+2002,Europe,15600,Russia,Russia,15600
+2002,Africa,907,Rwanda,Rwanda,907
+2002,Asia,4770,Samoa,Samoa,4770
+2002,Africa,2020,Sao Tome and Principe,Sao Tome and Principe,2020
+2002,Asia,39200,Saudi Arabia,Saudi Arabia,39200
+2002,Africa,1910,Senegal,Senegal,1910
+2002,Europe,9000,Serbia,Serbia,9000
+2002,Africa,17700,Seychelles,Seychelles,17700
+2002,Africa,985,Sierra Leone,Sierra Leone,985
+2002,Asia,51500,Singapore,Singapore,51500
+2002,Europe,16900,Slovak Republic,Slovak Republic,16900
+2002,Europe,24200,Slovenia,Slovenia,24200
+2002,Asia,1470,Solomon Islands,Solomon Islands,1470
+2002,Africa,607,Somalia,Somalia,607
+2002,Africa,10100,South Africa,South Africa,10100
+2002,Asia,23000,South Korea,South Korea,23000
+2002,Africa,2810,South Sudan,South Sudan,2810
+2002,Europe,31400,Spain,Spain,31400
+2002,Asia,5630,Sri Lanka,Sri Lanka,5630
+2002,Americas,9490,St. Lucia,St. Lucia,9490
+2002,Americas,8150,St. Vincent and the Grenadines,St. Vincent and the Grenadines,8150
+2002,Africa,2450,Sudan,Sudan,2450
+2002,Americas,10400,Suriname,Suriname,10400
+2002,Africa,6050,Swaziland,Swaziland,6050
+2002,Europe,38000,Sweden,Sweden,38000
+2002,Europe,50400,Switzerland,Switzerland,50400
+2002,Asia,5470,Syria,Syria,5470
+2002,Asia,1390,Tajikistan,Tajikistan,1390
+2002,Africa,1590,Tanzania,Tanzania,1590
+2002,Asia,9910,Thailand,Thailand,9910
+2002,Asia,1420,Timor-Leste,Timor-Leste,1420
+2002,Africa,1180,Togo,Togo,1180
+2002,Asia,4880,Tonga,Tonga,4880
+2002,Americas,20400,Trinidad and Tobago,Trinidad and Tobago,20400
+2002,Africa,7830,Tunisia,Tunisia,7830
+2002,Europe,13500,Turkey,Turkey,13500
+2002,Asia,5460,Turkmenistan,Turkmenistan,5460
+2002,Africa,1140,Uganda,Uganda,1140
+2002,Europe,5620,Ukraine,Ukraine,5620
+2002,Asia,96400,United Arab Emirates,United Arab Emirates,96400
+2002,Europe,34400,United Kingdom,United Kingdom,34400
+2002,Americas,46400,United States,United States,46400
+2002,Americas,11400,Uruguay,Uruguay,11400
+2002,Asia,2650,Uzbekistan,Uzbekistan,2650
+2002,Asia,2470,Vanuatu,Vanuatu,2470
+2002,Americas,13100,Venezuela,Venezuela,13100
+2002,Asia,2920,Vietnam,Vietnam,2920
+2002,Asia,3970,Yemen,Yemen,3970
+2002,Africa,2190,Zambia,Zambia,2190
+2002,Africa,2320,Zimbabwe,Zimbabwe,2320
+2007,Asia,1280,Afghanistan,Afghanistan,1280
+2007,Europe,8450,Albania,Albania,8450
+2007,Africa,12600,Algeria,Algeria,12600
+2007,Europe,43400,Andorra,Andorra,43400
+2007,Africa,5440,Angola,Angola,5440
+2007,Americas,24200,Antigua and Barbuda,Antigua and Barbuda,24200
+2007,Americas,17900,Argentina,Argentina,17900
+2007,Europe,7010,Armenia,Armenia,7010
+2007,Asia,40600,Australia,Australia,40600
+2007,Europe,43700,Austria,Austria,43700
+2007,Europe,13200,Azerbaijan,Azerbaijan,13200
+2007,Americas,25400,Bahamas,Bahamas,25400
+2007,Asia,43300,Bahrain,Bahrain,43300
+2007,Asia,2150,Bangladesh,Bangladesh,2150
+2007,Americas,16100,Barbados,Barbados,16100
+2007,Europe,13500,Belarus,Belarus,13500
+2007,Europe,41700,Belgium,Belgium,41700
+2007,Americas,7900,Belize,Belize,7900
+2007,Africa,1810,Benin,Benin,1810
+2007,Asia,5450,Bhutan,Bhutan,5450
+2007,Americas,4970,Bolivia,Bolivia,4970
+2007,Europe,9280,Bosnia and Herzegovina,Bosnia and Herzegovina,9280
+2007,Africa,13200,Botswana,Botswana,13200
+2007,Americas,13300,Brazil,Brazil,13300
+2007,Asia,84500,Brunei,Brunei,84500
+2007,Europe,14800,Bulgaria,Bulgaria,14800
+2007,Africa,1300,Burkina Faso,Burkina Faso,1300
+2007,Africa,748,Burundi,Burundi,748
+2007,Asia,2330,Cambodia,Cambodia,2330
+2007,Africa,2660,Cameroon,Cameroon,2660
+2007,Americas,41600,Canada,Canada,41600
+2007,Africa,5630,Cape Verde,Cape Verde,5630
+2007,Africa,864,Central African Republic,Central African Republic,864
+2007,Africa,1740,Chad,Chad,1740
+2007,Americas,18600,Chile,Chile,18600
+2007,Asia,7280,China,China,7280
+2007,Americas,10300,Colombia,Colombia,10300
+2007,Africa,1450,Comoros,Comoros,1450
+2007,Africa,575,"Congo, Dem. Rep.","Congo, Dem. Rep.",575
+2007,Africa,4640,"Congo, Rep.","Congo, Rep.",4640
+2007,Americas,12400,Costa Rica,Costa Rica,12400
+2007,Africa,2660,Cote d'Ivoire,Cote d'Ivoire,2660
+2007,Europe,21600,Croatia,Croatia,21600
+2007,Americas,16900,Cuba,Cuba,16900
+2007,Europe,35500,Cyprus,Cyprus,35500
+2007,Europe,28800,Czech Republic,Czech Republic,28800
+2007,Europe,46400,Denmark,Denmark,46400
+2007,Africa,2410,Djibouti,Djibouti,2410
+2007,Americas,9630,Dominica,Dominica,9630
+2007,Americas,10300,Dominican Republic,Dominican Republic,10300
+2007,Americas,8880,Ecuador,Ecuador,8880
+2007,Africa,8840,Egypt,Egypt,8840
+2007,Americas,7440,El Salvador,El Salvador,7440
+2007,Africa,35600,Equatorial Guinea,Equatorial Guinea,35600
+2007,Africa,1560,Eritrea,Eritrea,1560
+2007,Europe,27400,Estonia,Estonia,27400
+2007,Africa,857,Ethiopia,Ethiopia,857
+2007,Asia,7380,Fiji,Fiji,7380
+2007,Europe,42500,Finland,Finland,42500
+2007,Europe,37800,France,France,37800
+2007,Africa,16300,Gabon,Gabon,16300
+2007,Africa,1520,Gambia,Gambia,1520
+2007,Europe,6180,Georgia,Georgia,6180
+2007,Europe,40500,Germany,Germany,40500
+2007,Africa,2680,Ghana,Ghana,2680
+2007,Europe,32100,Greece,Greece,32100
+2007,Americas,12000,Grenada,Grenada,12000
+2007,Americas,6710,Guatemala,Guatemala,6710
+2007,Africa,1200,Guinea,Guinea,1200
+2007,Africa,1350,Guinea-Bissau,Guinea-Bissau,1350
+2007,Americas,5300,Guyana,Guyana,5300
+2007,Americas,1600,Haiti,Haiti,1600
+2007,Americas,4000,Honduras,Honduras,4000
+2007,Europe,23300,Hungary,Hungary,23300
+2007,Europe,43500,Iceland,Iceland,43500
+2007,Asia,3700,India,India,3700
+2007,Asia,7450,Indonesia,Indonesia,7450
+2007,Asia,16400,Iran,Iran,16400
+2007,Asia,11600,Iraq,Iraq,11600
+2007,Europe,50800,Ireland,Ireland,50800
+2007,Asia,28500,Israel,Israel,28500
+2007,Europe,38600,Italy,Italy,38600
+2007,Americas,8680,Jamaica,Jamaica,8680
+2007,Asia,36700,Japan,Japan,36700
+2007,Asia,9490,Jordan,Jordan,9490
+2007,Asia,18900,Kazakhstan,Kazakhstan,18900
+2007,Africa,2400,Kenya,Kenya,2400
+2007,Asia,1900,Kiribati,Kiribati,1900
+2007,Asia,96900,Kuwait,Kuwait,96900
+2007,Asia,2600,Kyrgyz Republic,Kyrgyz Republic,2600
+2007,Asia,3320,Lao,Lao,3320
+2007,Europe,21900,Latvia,Latvia,21900
+2007,Asia,13300,Lebanon,Lebanon,13300
+2007,Africa,2110,Lesotho,Lesotho,2110
+2007,Africa,657,Liberia,Liberia,657
+2007,Africa,28600,Libya,Libya,28600
+2007,Europe,22700,Lithuania,Lithuania,22700
+2007,Europe,97900,Luxembourg,Luxembourg,97900
+2007,Europe,10500,"Macedonia, FYR","Macedonia, FYR",10500
+2007,Africa,1460,Madagascar,Madagascar,1460
+2007,Africa,908,Malawi,Malawi,908
+2007,Asia,20700,Malaysia,Malaysia,20700
+2007,Asia,9670,Maldives,Maldives,9670
+2007,Africa,1780,Mali,Mali,1780
+2007,Europe,27700,Malta,Malta,27700
+2007,Asia,3370,Marshall Islands,Marshall Islands,3370
+2007,Africa,3450,Mauritania,Mauritania,3450
+2007,Africa,14100,Mauritius,Mauritius,14100
+2007,Americas,16000,Mexico,Mexico,16000
+2007,Asia,3260,"Micronesia, Fed. Sts.","Micronesia, Fed. Sts.",3260
+2007,Europe,3590,Moldova,Moldova,3590
+2007,Asia,7060,Mongolia,Mongolia,7060
+2007,Europe,13700,Montenegro,Montenegro,13700
+2007,Africa,5830,Morocco,Morocco,5830
+2007,Africa,826,Mozambique,Mozambique,826
+2007,Asia,2840,Myanmar,Myanmar,2840
+2007,Africa,8100,Namibia,Namibia,8100
+2007,Asia,1760,Nepal,Nepal,1760
+2007,Europe,46500,Netherlands,Netherlands,46500
+2007,Asia,33200,New Zealand,New Zealand,33200
+2007,Americas,4010,Nicaragua,Nicaragua,4010
+2007,Africa,773,Niger,Niger,773
+2007,Africa,4550,Nigeria,Nigeria,4550
+2007,Asia,1390,North Korea,North Korea,1390
+2007,Europe,65100,Norway,Norway,65100
+2007,Asia,43000,Oman,Oman,43000
+2007,Asia,4290,Pakistan,Pakistan,4290
+2007,Asia,2140,Palestine,Palestine,2140
+2007,Americas,13900,Panama,Panama,13900
+2007,Asia,1840,Papua New Guinea,Papua New Guinea,1840
+2007,Americas,6570,Paraguay,Paraguay,6570
+2007,Americas,8650,Peru,Peru,8650
+2007,Asia,5180,Philippines,Philippines,5180
+2007,Europe,19600,Poland,Poland,19600
+2007,Europe,27600,Portugal,Portugal,27600
+2007,Asia,119000,Qatar,Qatar,119000
+2007,Europe,17300,Romania,Romania,17300
+2007,Europe,22800,Russia,Russia,22800
+2007,Africa,1160,Rwanda,Rwanda,1160
+2007,Asia,5710,Samoa,Samoa,5710
+2007,Africa,2400,Sao Tome and Principe,Sao Tome and Principe,2400
+2007,Asia,45100,Saudi Arabia,Saudi Arabia,45100
+2007,Africa,2140,Senegal,Senegal,2140
+2007,Europe,12200,Serbia,Serbia,12200
+2007,Africa,21000,Seychelles,Seychelles,21000
+2007,Africa,1120,Sierra Leone,Sierra Leone,1120
+2007,Asia,68400,Singapore,Singapore,68400
+2007,Europe,24000,Slovak Republic,Slovak Republic,24000
+2007,Europe,30200,Slovenia,Slovenia,30200
+2007,Asia,1750,Solomon Islands,Solomon Islands,1750
+2007,Africa,615,Somalia,Somalia,615
+2007,Africa,12000,South Africa,South Africa,12000
+2007,Asia,28000,South Korea,South Korea,28000
+2007,Africa,3700,South Sudan,South Sudan,3700
+2007,Europe,34300,Spain,Spain,34300
+2007,Asia,7390,Sri Lanka,Sri Lanka,7390
+2007,Americas,11000,St. Lucia,St. Lucia,11000
+2007,Americas,9850,St. Vincent and the Grenadines,St. Vincent and the Grenadines,9850
+2007,Africa,3160,Sudan,Sudan,3160
+2007,Americas,13000,Suriname,Suriname,13000
+2007,Africa,7250,Swaziland,Swaziland,7250
+2007,Europe,44100,Sweden,Sweden,44100
+2007,Europe,55800,Switzerland,Switzerland,55800
+2007,Asia,6090,Syria,Syria,6090
+2007,Asia,1890,Tajikistan,Tajikistan,1890
+2007,Africa,1940,Tanzania,Tanzania,1940
+2007,Asia,12600,Thailand,Thailand,12600
+2007,Asia,1360,Timor-Leste,Timor-Leste,1360
+2007,Africa,1190,Togo,Togo,1190
+2007,Asia,4640,Tonga,Tonga,4640
+2007,Americas,31000,Trinidad and Tobago,Trinidad and Tobago,31000
+2007,Africa,9700,Tunisia,Tunisia,9700
+2007,Europe,17900,Turkey,Turkey,17900
+2007,Asia,7820,Turkmenistan,Turkmenistan,7820
+2007,Africa,1390,Uganda,Uganda,1390
+2007,Europe,8500,Ukraine,Ukraine,8500
+2007,Asia,79300,United Arab Emirates,United Arab Emirates,79300
+2007,Europe,38200,United Kingdom,United Kingdom,38200
+2007,Americas,51000,United States,United States,51000
+2007,Americas,14300,Uruguay,Uruguay,14300
+2007,Asia,3520,Uzbekistan,Uzbekistan,3520
+2007,Asia,2830,Vanuatu,Vanuatu,2830
+2007,Americas,17300,Venezuela,Venezuela,17300
+2007,Asia,3910,Vietnam,Vietnam,3910
+2007,Asia,4190,Yemen,Yemen,4190
+2007,Africa,2750,Zambia,Zambia,2750
+2007,Africa,1490,Zimbabwe,Zimbabwe,1490
+2012,Asia,1840,Afghanistan,Afghanistan,1840
+2012,Europe,10400,Albania,Albania,10400
+2012,Africa,13200,Algeria,Algeria,13200
+2012,Europe,41900,Andorra,Andorra,41900
+2012,Africa,6000,Angola,Angola,6000
+2012,Americas,19100,Antigua and Barbuda,Antigua and Barbuda,19100
+2012,Americas,19200,Argentina,Argentina,19200
+2012,Europe,7510,Armenia,Armenia,7510
+2012,Asia,42600,Australia,Australia,42600
+2012,Europe,44400,Austria,Austria,44400
+2012,Europe,15900,Azerbaijan,Azerbaijan,15900
+2012,Americas,23000,Bahamas,Bahamas,23000
+2012,Asia,41500,Bahrain,Bahrain,41500
+2012,Asia,2710,Bangladesh,Bangladesh,2710
+2012,Americas,15400,Barbados,Barbados,15400
+2012,Europe,17500,Belarus,Belarus,17500
+2012,Europe,41000,Belgium,Belgium,41000
+2012,Americas,7970,Belize,Belize,7970
+2012,Africa,1860,Benin,Benin,1860
+2012,Asia,7030,Bhutan,Bhutan,7030
+2012,Americas,5790,Bolivia,Bolivia,5790
+2012,Europe,9910,Bosnia and Herzegovina,Bosnia and Herzegovina,9910
+2012,Africa,14200,Botswana,Botswana,14200
+2012,Americas,15100,Brazil,Brazil,15100
+2012,Asia,82000,Brunei,Brunei,82000
+2012,Europe,15800,Bulgaria,Bulgaria,15800
+2012,Africa,1520,Burkina Faso,Burkina Faso,1520
+2012,Africa,779,Burundi,Burundi,779
+2012,Asia,2810,Cambodia,Cambodia,2810
+2012,Africa,2740,Cameroon,Cameroon,2740
+2012,Americas,41800,Canada,Canada,41800
+2012,Africa,5990,Cape Verde,Cape Verde,5990
+2012,Africa,946,Central African Republic,Central African Republic,946
+2012,Africa,1960,Chad,Chad,1960
+2012,Americas,21300,Chile,Chile,21300
+2012,Asia,11100,China,China,11100
+2012,Americas,11800,Colombia,Colombia,11800
+2012,Africa,1420,Comoros,Comoros,1420
+2012,Africa,653,"Congo, Dem. Rep.","Congo, Dem. Rep.",653
+2012,Africa,5270,"Congo, Rep.","Congo, Rep.",5270
+2012,Americas,13900,Costa Rica,Costa Rica,13900
+2012,Africa,2710,Cote d'Ivoire,Cote d'Ivoire,2710
+2012,Europe,20300,Croatia,Croatia,20300
+2012,Americas,19400,Cuba,Cuba,19400
+2012,Europe,31700,Cyprus,Cyprus,31700
+2012,Europe,28500,Czech Republic,Czech Republic,28500
+2012,Europe,44300,Denmark,Denmark,44300
+2012,Africa,2790,Djibouti,Djibouti,2790
+2012,Americas,9980,Dominica,Dominica,9980
+2012,Americas,11500,Dominican Republic,Dominican Republic,11500
+2012,Americas,10300,Ecuador,Ecuador,10300
+2012,Africa,9820,Egypt,Egypt,9820
+2012,Americas,7530,El Salvador,El Salvador,7530
+2012,Africa,35600,Equatorial Guinea,Equatorial Guinea,35600
+2012,Africa,1180,Eritrea,Eritrea,1180
+2012,Europe,25700,Estonia,Estonia,25700
+2012,Africa,1230,Ethiopia,Ethiopia,1230
+2012,Asia,7570,Fiji,Fiji,7570
+2012,Europe,39900,Finland,Finland,39900
+2012,Europe,37300,France,France,37300
+2012,Africa,16200,Gabon,Gabon,16200
+2012,Africa,1580,Gambia,Gambia,1580
+2012,Europe,7880,Georgia,Georgia,7880
+2012,Europe,42800,Germany,Germany,42800
+2012,Africa,3630,Ghana,Ghana,3630
+2012,Europe,24400,Greece,Greece,24400
+2012,Americas,11000,Grenada,Grenada,11000
+2012,Americas,6900,Guatemala,Guatemala,6900
+2012,Africa,1230,Guinea,Guinea,1230
+2012,Africa,1420,Guinea-Bissau,Guinea-Bissau,1420
+2012,Americas,6390,Guyana,Guyana,6390
+2012,Americas,1580,Haiti,Haiti,1580
+2012,Americas,4140,Honduras,Honduras,4140
+2012,Europe,22500,Hungary,Hungary,22500
+2012,Europe,39700,Iceland,Iceland,39700
+2012,Asia,4830,India,India,4830
+2012,Asia,9250,Indonesia,Indonesia,9250
+2012,Asia,16500,Iran,Iran,16500
+2012,Asia,14600,Iraq,Iraq,14600
+2012,Europe,44900,Ireland,Ireland,44900
+2012,Asia,30700,Israel,Israel,30700
+2012,Europe,35200,Italy,Italy,35200
+2012,Americas,8020,Jamaica,Jamaica,8020
+2012,Asia,36400,Japan,Japan,36400
+2012,Asia,8960,Jordan,Jordan,8960
+2012,Asia,22000,Kazakhstan,Kazakhstan,22000
+2012,Africa,2600,Kenya,Kenya,2600
+2012,Asia,1760,Kiribati,Kiribati,1760
+2012,Asia,77600,Kuwait,Kuwait,77600
+2012,Asia,2870,Kyrgyz Republic,Kyrgyz Republic,2870
+2012,Asia,4530,Lao,Lao,4530
+2012,Europe,20800,Latvia,Latvia,20800
+2012,Asia,15000,Lebanon,Lebanon,15000
+2012,Africa,2620,Lesotho,Lesotho,2620
+2012,Africa,772,Liberia,Liberia,772
+2012,Africa,22900,Libya,Libya,22900
+2012,Europe,24100,Lithuania,Lithuania,24100
+2012,Europe,89500,Luxembourg,Luxembourg,89500
+2012,Europe,11600,"Macedonia, FYR","Macedonia, FYR",11600
+2012,Africa,1370,Madagascar,Madagascar,1370
+2012,Africa,1040,Malawi,Malawi,1040
+2012,Asia,22600,Malaysia,Malaysia,22600
+2012,Asia,11200,Maldives,Maldives,11200
+2012,Africa,1800,Mali,Mali,1800
+2012,Europe,29100,Malta,Malta,29100
+2012,Asia,3620,Marshall Islands,Marshall Islands,3620
+2012,Africa,3460,Mauritania,Mauritania,3460
+2012,Africa,17100,Mauritius,Mauritius,17100
+2012,Americas,16300,Mexico,Mexico,16300
+2012,Asia,3430,"Micronesia, Fed. Sts.","Micronesia, Fed. Sts.",3430
+2012,Europe,4150,Moldova,Moldova,4150
+2012,Asia,9790,Mongolia,Mongolia,9790
+2012,Europe,14100,Montenegro,Montenegro,14100
+2012,Africa,6790,Morocco,Morocco,6790
+2012,Africa,994,Mozambique,Mozambique,994
+2012,Asia,4150,Myanmar,Myanmar,4150
+2012,Africa,8970,Namibia,Namibia,8970
+2012,Asia,2100,Nepal,Nepal,2100
+2012,Europe,45400,Netherlands,Netherlands,45400
+2012,Asia,33300,New Zealand,New Zealand,33300
+2012,Americas,4450,Nicaragua,Nicaragua,4450
+2012,Africa,863,Niger,Niger,863
+2012,Africa,5340,Nigeria,Nigeria,5340
+2012,Asia,1390,North Korea,North Korea,1390
+2012,Europe,62900,Norway,Norway,62900
+2012,Asia,43000,Oman,Oman,43000
+2012,Asia,4370,Pakistan,Pakistan,4370
+2012,Asia,2750,Palestine,Palestine,2750
+2012,Americas,18200,Panama,Panama,18200
+2012,Asia,2390,Papua New Guinea,Papua New Guinea,2390
+2012,Americas,7310,Paraguay,Paraguay,7310
+2012,Americas,10900,Peru,Peru,10900
+2012,Asia,5990,Philippines,Philippines,5990
+2012,Europe,23200,Poland,Poland,23200
+2012,Europe,25800,Portugal,Portugal,25800
+2012,Asia,125000,Qatar,Qatar,125000
+2012,Europe,18300,Romania,Romania,18300
+2012,Europe,24900,Russia,Russia,24900
+2012,Africa,1510,Rwanda,Rwanda,1510
+2012,Asia,5640,Samoa,Samoa,5640
+2012,Africa,2720,Sao Tome and Principe,Sao Tome and Principe,2720
+2012,Asia,49700,Saudi Arabia,Saudi Arabia,49700
+2012,Africa,2180,Senegal,Senegal,2180
+2012,Europe,12900,Serbia,Serbia,12900
+2012,Africa,23800,Seychelles,Seychelles,23800
+2012,Africa,1400,Sierra Leone,Sierra Leone,1400
+2012,Asia,76000,Singapore,Singapore,76000
+2012,Europe,26200,Slovak Republic,Slovak Republic,26200
+2012,Europe,28000,Slovenia,Slovenia,28000
+2012,Asia,2020,Solomon Islands,Solomon Islands,2020
+2012,Africa,616,Somalia,Somalia,616
+2012,Africa,12300,South Africa,South Africa,12300
+2012,Asia,31800,South Korea,South Korea,31800
+2012,Africa,1810,South Sudan,South Sudan,1810
+2012,Europe,31100,Spain,Spain,31100
+2012,Asia,9980,Sri Lanka,Sri Lanka,9980
+2012,Americas,10600,St. Lucia,St. Lucia,10600
+2012,Americas,10000,St. Vincent and the Grenadines,St. Vincent and the Grenadines,10000
+2012,Africa,4100,Sudan,Sudan,4100
+2012,Americas,15100,Suriname,Suriname,15100
+2012,Africa,7530,Swaziland,Swaziland,7530
+2012,Europe,43300,Sweden,Sweden,43300
+2012,Europe,55900,Switzerland,Switzerland,55900
+2012,Asia,6300,Syria,Syria,6300
+2012,Asia,2320,Tajikistan,Tajikistan,2320
+2012,Africa,2230,Tanzania,Tanzania,2230
+2012,Asia,14400,Thailand,Thailand,14400
+2012,Asia,2030,Timor-Leste,Timor-Leste,2030
+2012,Africa,1260,Togo,Togo,1260
+2012,Asia,5130,Tonga,Tonga,5130
+2012,Americas,31300,Trinidad and Tobago,Trinidad and Tobago,31300
+2012,Africa,10400,Tunisia,Tunisia,10400
+2012,Europe,20300,Turkey,Turkey,20300
+2012,Asia,12200,Turkmenistan,Turkmenistan,12200
+2012,Africa,1640,Uganda,Uganda,1640
+2012,Europe,8320,Ukraine,Ukraine,8320
+2012,Asia,59800,United Arab Emirates,United Arab Emirates,59800
+2012,Europe,36700,United Kingdom,United Kingdom,36700
+2012,Americas,50500,United States,United States,50500
+2012,Americas,18500,Uruguay,Uruguay,18500
+2012,Asia,4770,Uzbekistan,Uzbekistan,4770
+2012,Asia,2900,Vanuatu,Vanuatu,2900
+2012,Americas,17700,Venezuela,Venezuela,17700
+2012,Asia,4910,Vietnam,Vietnam,4910
+2012,Asia,3790,Yemen,Yemen,3790
+2012,Africa,3510,Zambia,Zambia,3510
+2012,Africa,1850,Zimbabwe,Zimbabwe,1850
+2017,Asia,1800,Afghanistan,Afghanistan,1800
+2017,Europe,11900,Albania,Albania,11900
+2017,Africa,13800,Algeria,Algeria,13800
+2017,Europe,49800,Andorra,Andorra,49800
+2017,Africa,5940,Angola,Angola,5940
+2017,Americas,20900,Antigua and Barbuda,Antigua and Barbuda,20900
+2017,Americas,18700,Argentina,Argentina,18700
+2017,Europe,8410,Armenia,Armenia,8410
+2017,Asia,45100,Australia,Australia,45100
+2017,Europe,44400,Austria,Austria,44400
+2017,Europe,16200,Azerbaijan,Azerbaijan,16200
+2017,Americas,21700,Bahamas,Bahamas,21700
+2017,Asia,44500,Bahrain,Bahrain,44500
+2017,Asia,3520,Bangladesh,Bangladesh,3520
+2017,Americas,15800,Barbados,Barbados,15800
+2017,Europe,16900,Belarus,Belarus,16900
+2017,Europe,42400,Belgium,Belgium,42400
+2017,Americas,7780,Belize,Belize,7780
+2017,Africa,2080,Benin,Benin,2080
+2017,Asia,8870,Bhutan,Bhutan,8870
+2017,Americas,6850,Bolivia,Bolivia,6850
+2017,Europe,11600,Bosnia and Herzegovina,Bosnia and Herzegovina,11600
+2017,Africa,16000,Botswana,Botswana,16000
+2017,Americas,14200,Brazil,Brazil,14200
+2017,Asia,71300,Brunei,Brunei,71300
+2017,Europe,18300,Bulgaria,Bulgaria,18300
+2017,Africa,1650,Burkina Faso,Burkina Faso,1650
+2017,Africa,705,Burundi,Burundi,705
+2017,Asia,3640,Cambodia,Cambodia,3640
+2017,Africa,3100,Cameroon,Cameroon,3100
+2017,Americas,43500,Canada,Canada,43500
+2017,Africa,6240,Cape Verde,Cape Verde,6240
+2017,Africa,668,Central African Republic,Central African Republic,668
+2017,Africa,1840,Chad,Chad,1840
+2017,Americas,23000,Chile,Chile,23000
+2017,Asia,15200,China,China,15200
+2017,Americas,13400,Colombia,Colombia,13400
+2017,Africa,1420,Comoros,Comoros,1420
+2017,Africa,745,"Congo, Dem. Rep.","Congo, Dem. Rep.",745
+2017,Africa,5650,"Congo, Rep.","Congo, Rep.",5650
+2017,Americas,15800,Costa Rica,Costa Rica,15800
+2017,Africa,3600,Cote d'Ivoire,Cote d'Ivoire,3600
+2017,Europe,22000,Croatia,Croatia,22000
+2017,Americas,20000,Cuba,Cuba,20000
+2017,Europe,31700,Cyprus,Cyprus,31700
+2017,Europe,31700,Czech Republic,Czech Republic,31700
+2017,Europe,46100,Denmark,Denmark,46100
+2017,Africa,3400,Djibouti,Djibouti,3400
+2017,Americas,10400,Dominica,Dominica,10400
+2017,Americas,14700,Dominican Republic,Dominican Republic,14700
+2017,Americas,10300,Ecuador,Ecuador,10300
+2017,Africa,10500,Egypt,Egypt,10500
+2017,Americas,8150,El Salvador,El Salvador,8150
+2017,Africa,21900,Equatorial Guinea,Equatorial Guinea,21900
+2017,Africa,1250,Eritrea,Eritrea,1250
+2017,Europe,28600,Estonia,Estonia,28600
+2017,Africa,1700,Ethiopia,Ethiopia,1700
+2017,Asia,9150,Fiji,Fiji,9150
+2017,Europe,39800,Finland,Finland,39800
+2017,Europe,38500,France,France,38500
+2017,Africa,17000,Gabon,Gabon,17000
+2017,Africa,1570,Gambia,Gambia,1570
+2017,Europe,9640,Georgia,Georgia,9640
+2017,Europe,44600,Germany,Germany,44600
+2017,Africa,4240,Ghana,Ghana,4240
+2017,Europe,24900,Greece,Greece,24900
+2017,Americas,13200,Grenada,Grenada,13200
+2017,Americas,7440,Guatemala,Guatemala,7440
+2017,Africa,1240,Guinea,Guinea,1240
+2017,Africa,1510,Guinea-Bissau,Guinea-Bissau,1510
+2017,Americas,7490,Guyana,Guyana,7490
+2017,Americas,1680,Haiti,Haiti,1680
+2017,Americas,4490,Honduras,Honduras,4490
+2017,Europe,26200,Hungary,Hungary,26200
+2017,Europe,46400,Iceland,Iceland,46400
+2017,Asia,6480,India,India,6480
+2017,Asia,11200,Indonesia,Indonesia,11200
+2017,Asia,16800,Iran,Iran,16800
+2017,Asia,16100,Iraq,Iraq,16100
+2017,Europe,64300,Ireland,Ireland,64300
+2017,Asia,33000,Israel,Israel,33000
+2017,Europe,34900,Italy,Italy,34900
+2017,Americas,8340,Jamaica,Jamaica,8340
+2017,Asia,38600,Japan,Japan,38600
+2017,Asia,8410,Jordan,Jordan,8410
+2017,Asia,23900,Kazakhstan,Kazakhstan,23900
+2017,Africa,3010,Kenya,Kenya,3010
+2017,Asia,1900,Kiribati,Kiribati,1900
+2017,Asia,67700,Kuwait,Kuwait,67700
+2017,Asia,3370,Kyrgyz Republic,Kyrgyz Republic,3370
+2017,Asia,6010,Lao,Lao,6010
+2017,Europe,24600,Latvia,Latvia,24600
+2017,Asia,13200,Lebanon,Lebanon,13200
+2017,Africa,2870,Lesotho,Lesotho,2870
+2017,Africa,776,Liberia,Liberia,776
+2017,Africa,17900,Libya,Libya,17900
+2017,Europe,29100,Lithuania,Lithuania,29100
+2017,Europe,98100,Luxembourg,Luxembourg,98100
+2017,Europe,13500,"Macedonia, FYR","Macedonia, FYR",13500
+2017,Africa,1420,Madagascar,Madagascar,1420
+2017,Africa,1110,Malawi,Malawi,1110
+2017,Asia,26400,Malaysia,Malaysia,26400
+2017,Asia,12600,Maldives,Maldives,12600
+2017,Africa,1990,Mali,Mali,1990
+2017,Europe,36800,Malta,Malta,36800
+2017,Asia,3780,Marshall Islands,Marshall Islands,3780
+2017,Africa,3590,Mauritania,Mauritania,3590
+2017,Africa,20300,Mauritius,Mauritius,20300
+2017,Americas,17000,Mexico,Mexico,17000
+2017,Asia,3380,"Micronesia, Fed. Sts.","Micronesia, Fed. Sts.",3380
+2017,Europe,5130,Moldova,Moldova,5130
+2017,Asia,11400,Mongolia,Mongolia,11400
+2017,Europe,16200,Montenegro,Montenegro,16200
+2017,Africa,7480,Morocco,Morocco,7480
+2017,Africa,1160,Mozambique,Mozambique,1160
+2017,Asia,5720,Myanmar,Myanmar,5720
+2017,Africa,10200,Namibia,Namibia,10200
+2017,Asia,2360,Nepal,Nepal,2360
+2017,Europe,47900,Netherlands,Netherlands,47900
+2017,Asia,35900,New Zealand,New Zealand,35900
+2017,Americas,5300,Nicaragua,Nicaragua,5300
+2017,Africa,928,Niger,Niger,928
+2017,Africa,5480,Nigeria,Nigeria,5480
+2017,Asia,1390,North Korea,North Korea,1390
+2017,Europe,64200,Norway,Norway,64200
+2017,Asia,39400,Oman,Oman,39400
+2017,Asia,5020,Pakistan,Pakistan,5020
+2017,Asia,2700,Palestine,Palestine,2700
+2017,Americas,22300,Panama,Panama,22300
+2017,Asia,2780,Papua New Guinea,Papua New Guinea,2780
+2017,Americas,9080,Paraguay,Paraguay,9080
+2017,Americas,12400,Peru,Peru,12400
+2017,Asia,7580,Philippines,Philippines,7580
+2017,Europe,26900,Poland,Poland,26900
+2017,Europe,27500,Portugal,Portugal,27500
+2017,Asia,120000,Qatar,Qatar,120000
+2017,Europe,22500,Romania,Romania,22500
+2017,Europe,24400,Russia,Russia,24400
+2017,Africa,1850,Rwanda,Rwanda,1850
+2017,Asia,5890,Samoa,Samoa,5890
+2017,Africa,3090,Sao Tome and Principe,Sao Tome and Principe,3090
+2017,Asia,50100,Saudi Arabia,Saudi Arabia,50100
+2017,Africa,2470,Senegal,Senegal,2470
+2017,Europe,14300,Serbia,Serbia,14300
+2017,Africa,26900,Seychelles,Seychelles,26900
+2017,Africa,1430,Sierra Leone,Sierra Leone,1430
+2017,Asia,82600,Singapore,Singapore,82600
+2017,Europe,30200,Slovak Republic,Slovak Republic,30200
+2017,Europe,30400,Slovenia,Slovenia,30400
+2017,Asia,2090,Solomon Islands,Solomon Islands,2090
+2017,Africa,627,Somalia,Somalia,627
+2017,Africa,12300,South Africa,South Africa,12300
+2017,Asia,35800,South Korea,South Korea,35800
+2017,Africa,1850,South Sudan,South Sudan,1850
+2017,Europe,34000,Spain,Spain,34000
+2017,Asia,11900,Sri Lanka,Sri Lanka,11900
+2017,Americas,10800,St. Lucia,St. Lucia,10800
+2017,Americas,11100,St. Vincent and the Grenadines,St. Vincent and the Grenadines,11100
+2017,Africa,4410,Sudan,Sudan,4410
+2017,Americas,13000,Suriname,Suriname,13000
+2017,Africa,7660,Swaziland,Swaziland,7660
+2017,Europe,47000,Sweden,Sweden,47000
+2017,Europe,56900,Switzerland,Switzerland,56900
+2017,Asia,3100,Syria,Syria,3100
+2017,Asia,2840,Tajikistan,Tajikistan,2840
+2017,Africa,2680,Tanzania,Tanzania,2680
+2017,Asia,16300,Thailand,Thailand,16300
+2017,Asia,1800,Timor-Leste,Timor-Leste,1800
+2017,Africa,1430,Togo,Togo,1430
+2017,Asia,5410,Tonga,Tonga,5410
+2017,Americas,29900,Trinidad and Tobago,Trinidad and Tobago,29900
+2017,Africa,11200,Tunisia,Tunisia,11200
+2017,Europe,24300,Turkey,Turkey,24300
+2017,Asia,16700,Turkmenistan,Turkmenistan,16700
+2017,Africa,1760,Uganda,Uganda,1760
+2017,Europe,7990,Ukraine,Ukraine,7990
+2017,Asia,67700,United Arab Emirates,United Arab Emirates,67700
+2017,Europe,39500,United Kingdom,United Kingdom,39500
+2017,Americas,54200,United States,United States,54200
+2017,Americas,20600,Uruguay,Uruguay,20600
+2017,Asia,6360,Uzbekistan,Uzbekistan,6360
+2017,Asia,2890,Vanuatu,Vanuatu,2890
+2017,Americas,14500,Venezuela,Venezuela,14500
+2017,Asia,6250,Vietnam,Vietnam,6250
+2017,Asia,2380,Yemen,Yemen,2380
+2017,Africa,3750,Zambia,Zambia,3750
+2017,Africa,1910,Zimbabwe,Zimbabwe,1910

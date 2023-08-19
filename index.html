@@ -23,15 +23,6 @@
       margin-bottom: 20px;
     }
 
-    .container {
-      display: flex;
-      justify-content: center;
-      align-items: top;
-      flex-wrap: wrap;
-      width: 100%;
-      margin-top: 20px;
-    }
-
     select {
       padding: 10px;
       font-size: 16px;
@@ -91,19 +82,28 @@
       text-align: center;
     }
 
+    .container {
+      display: flex;
+      justify-content: center;
+      align-items: top;
+      flex-wrap: wrap;
+      width: 100%;
+      margin-top: 20px;
+    }
+
     .chart-container {
-      flex: 1;
-      max-height: 500px;
+      overflow-x: auto;
+      overflow-y: auto;
+      /* flex: 1; */
+      min-width: 500px;
+      /* max-height: 500px; */
     }
 
     .csv-container {
       flex: 1;
       background-color: #f5f5f5;
       border-radius: 5px;
-    }
-
-    pre {
-      white-space: pre-wrap;
+      overflow-x: auto;
     }
 
     .data-info {
@@ -147,14 +147,20 @@
     </div>
 
     <div class="show-csv">
-      <label for="showCsvCheckbox">Show CSV Data:</label>
-      <input type="checkbox" id="showCsvCheckbox" checked>
+      <div>
+        <input type="checkbox" id="showCsvCheckbox" checked>
+        <label for="showCsvCheckbox">Show CSV Data</label>
+      </div>
+      <div>
+        <input type="checkbox" id="showDescCheckbox" checked>
+        <label for="showDescCheckbox">Show Desciption</label>
+      </div>
     </div>
   </div>
 
   <div class="container">
     <div class="chart-container" id="chartContainer"></div>
-
+    <div class="description-container" id="descriptionContainer"></div>
     <div class="csv-container" id="csvContainer">
       <div class="data-info" id="dataInfoContainer"></div>
       <h2>CSV Data</h2>
@@ -165,39 +171,25 @@
   </div>
 
   <script>
-    const chartPaths = ['vl_00.vl.json', 'vl_01.vl.json',
-      'vl_02.vl.json', 'vl_03.vl.json', 'vl_04.vl.json', 'vl_05.vl.json',
-      'vl_06.vl.json', 'vl_07.vl.json', 'vl_08.vl.json', 'vl_09.vl.json',
-      'vl_10.vl.json', 'vl_11.vl.json', 'vl_12.vl.json', 'vl_13.vl.json',
-      'vl_14.vl.json', 'vl_15.vl.json', 'vl_16.vl.json', 'vl_17.vl.json',
-      'vl_18.vl.json', 'vl_19.vl.json', 'vl_20.vl.json', 'vl_21.vl.json',
-      'vl_22.vl.json', 'vl_23.vl.json', 'vl_24.vl.json', 'vl_25.vl.json',
-      'vl_26.vl.json', 'vl_27.vl.json', 'vl_28.vl.json', 'vl_29.vl.json',
-      'vl_30.vl.json', 'vl_31.vl.json', 'vl_32.vl.json', 'vl_33.vl.json',
-      'vl_34.vl.json', 'vl_35.vl.json', 'vl_36.vl.json', 'vl_37.vl.json',
-      'vl_38.vl.json', 'vl_39.vl.json', 'vl_40.vl.json', 'vl_41.vl.json',
-      'vl_42.vl.json', 'vl_43.vl.json', 'vl_44.vl.json', 'vl_45.vl.json',
-      'vl_46.vl.json', 'vl_47.vl.json'];
+    const chartPaths = [];
+    const dataPaths = [];
+    const l1Paths = [];
 
-    const dataPaths = ['d_00.csv', 'd_01.csv',
-      'd_02.csv', 'd_03.csv', 'd_04.csv', 'd_05.csv',
-      'd_06.csv', 'd_07.csv', 'd_08.csv', 'd_09.csv',
-      'd_10.csv', 'd_11.csv', 'd_12.csv', 'd_13.csv',
-      'd_14.csv', 'd_15.csv', 'd_16.csv', 'd_17.csv',
-      'd_18.csv', 'd_19.csv', 'd_20.csv', 'd_21.csv',
-      'd_22.csv', 'd_23.csv', 'd_24.csv', 'd_25.csv',
-      'd_26.csv', 'd_27.csv', 'd_28.csv', 'd_29.csv',
-      'd_30.csv', 'd_31.csv', 'd_32.csv', 'd_33.csv',
-      'd_34.csv', 'd_35.csv', 'd_36.csv', 'd_37.csv',
-      'd_38.csv', 'd_39.csv', 'd_40.csv', 'd_41.csv',
-      'd_42.csv', 'd_43.csv', 'd_44.csv', 'd_45.csv',
-      'd_46.csv', 'd_47.csv'];
+    for (let i = 0; i < 48; i++) {
+      chartPaths.push(`vl_${i.toString().padStart(2, '0')}.vl.json`);
+      dataPaths.push(`d_${i.toString().padStart(2, '0')}.csv`);
+      l1Paths.push(i.toString());
+    }
 
     const chartSelector = document.getElementById('chartSelector');
     const chartContainer = document.getElementById('chartContainer');
     const csvDataContainer = document.getElementById('csvDataContainer');
     const dataInfoContainer = document.getElementById('dataInfoContainer');
     const csvTableContainer = document.getElementById('csvTable');
+    const descriptionContainer = document.getElementById('descriptionContainer');
+    const showDescCheckbox = document.getElementById('showDescCheckbox');
+    const showCsvCheckbox = document.getElementById('showCsvCheckbox');
+    const csvContainer = document.getElementById('csvContainer');
 
     function loadChart(selectedChart) {
       const chartPath = `assets/chart/${chartPaths[selectedChart]}`;
@@ -207,6 +199,20 @@
           vegaEmbed(chartContainer, chartSpec);
         })
         .catch(error => console.error('Error loading chart specification:', error));
+    }
+
+    function loadDescription(selectedChart) {
+      const descriptionPath = 'assets/l1_description.json';
+      fetch(descriptionPath)
+        .then(response => response.json())
+        .then(descriptions => {
+          const description = descriptions["0"][selectedChart];
+          const descriptionParagraph = document.createElement('p');
+          descriptionParagraph.textContent = "L1 Description: " + description;
+          descriptionContainer.innerHTML = ''; // Clear previous content
+          descriptionContainer.appendChild(descriptionParagraph);
+        })
+        .catch(error => console.error('Error loading description:', error));
     }
 
     function loadData(selectedData) {
@@ -220,20 +226,20 @@
 
           // Create the table HTML
           const tableHTML = `
-            <table id="csvTable">
-              <thead>
-                <tr>
-                  ${headerRow.split(',').map(cell => `<th>${cell}</th>`).join('')}
-                </tr>
-              </thead>
-              <tbody>
-                ${first30Rows.map(row => `
-                  <tr>
-                    ${row.split(',').map(cell => `<td>${cell}</td>`).join('')}
-                  </tr>
-                `).join('')}
-              </tbody>
-            </table>
+          <table id="csvTable">
+            <thead>
+              <tr>
+                ${headerRow.split(',').map(cell => `<th>${cell}</th>`).join('')}
+              </tr>
+            </thead>
+            <tbody>
+              ${first30Rows.map(row => `
+              <tr>
+                ${row.split(',').map(cell => `<td>${cell}</td>`).join('')}
+              </tr>
+              `).join('')}
+            </tbody>
+          </table>
           `;
 
           csvTableContainer.innerHTML = tableHTML;
@@ -249,29 +255,31 @@
     const numCharts = 47;
 
     for (let i = 0; i <= numCharts; i++) {
-      const option = document.createElement('option');
-      option.value = i;
-      option.textContent = `Chart ${i}`;
-      chartSelector.appendChild(option);
-    }
-
-    chartSelector.addEventListener('change', () => {
+      const option = document.createElement('option'); option.value = i;
+      option.textContent = `Chart ${i}`; chartSelector.appendChild(option);
+    } chartSelector.addEventListener('change', () => {
       const selectedChart = chartSelector.value;
       loadChart(selectedChart);
+      loadDescription(selectedChart);
       loadData(selectedChart);
     });
 
     const initialSelectedChart = chartSelector.value;
-    loadChart(initialSelectedChart);
-    loadData(initialSelectedChart);
 
-    const showCsvCheckbox = document.getElementById('showCsvCheckbox');
-    const csvContainer = document.getElementById('csvContainer');
+    loadChart(initialSelectedChart);
+    loadDescription(initialSelectedChart);
+    loadData(initialSelectedChart);
 
     showCsvCheckbox.addEventListener('change', () => {
       const isCsvVisible = showCsvCheckbox.checked;
       csvContainer.style.display = isCsvVisible ? 'block' : 'none';
     });
+
+    showDescCheckbox.addEventListener('change', () => {
+      const isDescVisible = showDescCheckbox.checked;
+      descriptionContainer.style.display = isDescVisible ? 'block' : 'none';
+    });
+
   </script>
 </body>
 

@@ -1,17 +1,17 @@
-min,max,value,model,group
--0.030412371,-0.0041237109999999995,-0.016494845,Uncontrolled,White majority
--0.109278351,0.042268041,-0.03814433,Uncontrolled,White other
--0.079896907,0.113402062,0.015979381,Uncontrolled,Indian
--0.359793814,-0.035051546,-0.19587628899999998,Uncontrolled,Pakistani & Bangladeshi
--0.35360824700000004,0.114948454,-0.117010309,Uncontrolled,South East Asian
--0.219072165,-0.008762886999999999,-0.109278351,Uncontrolled,Black groups
--0.026943005,0.001036269,-0.01761658,Controlled,White majority
--0.12331606199999999,0.021243522999999997,-0.053367875999999995,Controlled,White other
--0.075129534,0.13005181300000002,0.02746114,Controlled,Indian
--0.281865285,-0.003626943,-0.14352331599999998,Controlled,Pakistani & Bangladeshi
--0.372020725,0.111398964,-0.132642487,Controlled,South East Asian
--0.22590673600000002,-0.019170984,-0.12176165800000001,Controlled,Black groups
--0.03,-0.01,-0.02,Uncontrolled,White majority
--0.03,0.0,-0.02,Controlled,White majority
--0.02,-0.002,-0.01,Uncontrolled,White majority
--0.02,-0.002,-0.01,Controlled,White majority
+gender,group,value,model,min,max,action
+Women,White majority,-0.016494845,Uncontrolled,-0.030412371,-0.004123711,
+Women,White other,-0.03814433,Uncontrolled,-0.109278351,0.042268041,
+Women,Indian,0.015979381,Uncontrolled,-0.079896907,0.113402062,
+Women,Pakistani & Bangladeshi,-0.195876289,Uncontrolled,-0.359793814,-0.035051546,
+Women,South East Asian,-0.117010309,Uncontrolled,-0.353608247,0.114948454,
+Women,Black groups,-0.109278351,Uncontrolled,-0.219072165,-0.008762887,
+Women,White majority,-0.01761658,Controlled,-0.026943005,0.001036269,
+Women,White other,-0.053367876,Controlled,-0.123316062,0.021243523,
+Women,Indian,0.02746114,Controlled,-0.075129534,0.130051813,
+Women,Pakistani & Bangladeshi,-0.143523316,Controlled,-0.281865285,-0.003626943,
+Women,South East Asian,-0.132642487,Controlled,-0.372020725,0.111398964,
+Women,Black groups,-0.121761658,Controlled,-0.225906736,-0.019170984,
+Men,White majority,-0.02,Uncontrolled,-0.03,-0.01,Physically and verbally attacked
+Men,White majority,-0.02,Controlled,-0.03,0.0,Physically and verbally attacked
+Men,White majority,-0.01,Uncontrolled,-0.02,-0.002,Felt unsafe
+Men,White majority,-0.01,Controlled,-0.02,-0.002,Felt unsafe

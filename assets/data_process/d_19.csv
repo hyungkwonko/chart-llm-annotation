@@ -1,128 +1,128 @@
-Entity,food_emissions,Type
+food_emissions,Entity,Type
 ,,
-Bananas,0.0,Land Use
-Beef (beef herd),16.3,Land Use
-Beef (dairy herd),0.9,Land Use
-Cheese,4.5,Land Use
-Coffee,3.7,Land Use
-Eggs,0.7,Land Use
-Fish (farmed),0.5,Land Use
-Lamb & Mutton,0.5,Land Use
-Maize,0.3,Land Use
-Milk,0.5,Land Use
-Palm Oil,3.1,Land Use
-Peas,0.0,Land Use
-Pig Meat,1.5,Land Use
-Poultry Meat,2.5,Land Use
-Rice,0.0,Land Use
-Shrimps (farmed),0.2,Land Use
-Tofu,1.0,Land Use
-Wheat & Rye,0.1,Land Use
-Bananas,0.3,Farm
-Beef (beef herd),39.4,Farm
-Beef (dairy herd),15.7,Farm
-Cheese,13.1,Farm
-Coffee,10.4,Farm
-Eggs,1.3,Farm
-Fish (farmed),3.6,Farm
-Lamb & Mutton,19.5,Farm
-Maize,0.5,Farm
-Milk,1.5,Farm
-Palm Oil,2.1,Farm
-Peas,0.7,Farm
-Pig Meat,1.7,Farm
-Poultry Meat,0.7,Farm
-Rice,3.6,Farm
-Shrimps (farmed),8.4,Farm
-Tofu,0.5,Farm
-Wheat & Rye,0.8,Farm
-Bananas,0.0,Animal Feed
-Beef (beef herd),1.9,Animal Feed
-Beef (dairy herd),2.5,Animal Feed
-Cheese,2.3,Animal Feed
-Coffee,0.0,Animal Feed
-Eggs,2.2,Animal Feed
-Fish (farmed),0.8,Animal Feed
-Lamb & Mutton,2.4,Animal Feed
-Maize,0.0,Animal Feed
-Milk,0.2,Animal Feed
-Palm Oil,0.0,Animal Feed
-Peas,0.0,Animal Feed
-Pig Meat,2.9,Animal Feed
-Poultry Meat,1.8,Animal Feed
-Rice,0.0,Animal Feed
-Shrimps (farmed),2.5,Animal Feed
-Tofu,0.0,Animal Feed
-Wheat & Rye,0.0,Animal Feed
-Bananas,0.1,Processing
-Beef (beef herd),1.3,Processing
-Beef (dairy herd),1.1,Processing
-Cheese,0.7,Processing
-Coffee,0.6,Processing
-Eggs,0.0,Processing
-Fish (farmed),0.0,Processing
-Lamb & Mutton,1.1,Processing
-Maize,0.1,Processing
-Milk,0.1,Processing
-Palm Oil,1.3,Processing
-Peas,0.0,Processing
-Pig Meat,0.3,Processing
-Poultry Meat,0.4,Processing
-Rice,0.1,Processing
-Shrimps (farmed),0.0,Processing
-Tofu,0.8,Processing
-Wheat & Rye,0.2,Processing
-Bananas,0.3,Transport
-Beef (beef herd),0.3,Transport
-Beef (dairy herd),0.4,Transport
-Cheese,0.1,Transport
-Coffee,0.1,Transport
-Eggs,0.1,Transport
-Fish (farmed),0.1,Transport
-Lamb & Mutton,0.5,Transport
-Maize,0.1,Transport
-Milk,0.1,Transport
-Palm Oil,0.2,Transport
-Peas,0.1,Transport
-Pig Meat,0.3,Transport
-Poultry Meat,0.3,Transport
-Rice,0.1,Transport
-Shrimps (farmed),0.2,Transport
-Tofu,0.2,Transport
-Wheat & Rye,0.1,Transport
-Bananas,0.0,Retail
-Beef (beef herd),0.2,Retail
-Beef (dairy herd),0.2,Retail
-Cheese,0.3,Retail
-Coffee,0.1,Retail
-Eggs,0.0,Retail
-Fish (farmed),0.0,Retail
-Lamb & Mutton,0.2,Retail
-Maize,0.0,Retail
-Milk,0.3,Retail
-Palm Oil,0.0,Retail
-Peas,0.0,Retail
-Pig Meat,0.2,Retail
-Poultry Meat,0.2,Retail
-Rice,0.1,Retail
-Shrimps (farmed),0.2,Retail
-Tofu,0.3,Retail
-Wheat & Rye,0.1,Retail
-Bananas,0.1,Packaging
-Beef (beef herd),0.2,Packaging
-Beef (dairy herd),0.3,Packaging
-Cheese,0.2,Packaging
-Coffee,1.6,Packaging
-Eggs,0.2,Packaging
-Fish (farmed),0.1,Packaging
-Lamb & Mutton,0.3,Packaging
-Maize,0.1,Packaging
-Milk,0.1,Packaging
-Palm Oil,0.9,Packaging
-Peas,0.0,Packaging
-Pig Meat,0.3,Packaging
-Poultry Meat,0.2,Packaging
-Rice,0.1,Packaging
-Shrimps (farmed),0.3,Packaging
-Tofu,0.2,Packaging
-Wheat & Rye,0.1,Packaging
+0.0,Bananas,Land Use
+16.3,Beef (beef herd),Land Use
+0.9,Beef (dairy herd),Land Use
+4.5,Cheese,Land Use
+3.7,Coffee,Land Use
+0.7,Eggs,Land Use
+0.5,Fish (farmed),Land Use
+0.5,Lamb & Mutton,Land Use
+0.3,Maize,Land Use
+0.5,Milk,Land Use
+3.1,Palm Oil,Land Use
+0.0,Peas,Land Use
+1.5,Pig Meat,Land Use
+2.5,Poultry Meat,Land Use
+0.0,Rice,Land Use
+0.2,Shrimps (farmed),Land Use
+1.0,Tofu,Land Use
+0.1,Wheat & Rye,Land Use
+0.3,Bananas,Farm
+39.4,Beef (beef herd),Farm
+15.7,Beef (dairy herd),Farm
+13.1,Cheese,Farm
+10.4,Coffee,Farm
+1.3,Eggs,Farm
+3.6,Fish (farmed),Farm
+19.5,Lamb & Mutton,Farm
+0.5,Maize,Farm
+1.5,Milk,Farm
+2.1,Palm Oil,Farm
+0.7,Peas,Farm
+1.7,Pig Meat,Farm
+0.7,Poultry Meat,Farm
+3.6,Rice,Farm
+8.4,Shrimps (farmed),Farm
+0.5,Tofu,Farm
+0.8,Wheat & Rye,Farm
+0.0,Bananas,Animal Feed
+1.9,Beef (beef herd),Animal Feed
+2.5,Beef (dairy herd),Animal Feed
+2.3,Cheese,Animal Feed
+0.0,Coffee,Animal Feed
+2.2,Eggs,Animal Feed
+0.8,Fish (farmed),Animal Feed
+2.4,Lamb & Mutton,Animal Feed
+0.0,Maize,Animal Feed
+0.2,Milk,Animal Feed
+0.0,Palm Oil,Animal Feed
+0.0,Peas,Animal Feed
+2.9,Pig Meat,Animal Feed
+1.8,Poultry Meat,Animal Feed
+0.0,Rice,Animal Feed
+2.5,Shrimps (farmed),Animal Feed
+0.0,Tofu,Animal Feed
+0.0,Wheat & Rye,Animal Feed
+0.1,Bananas,Processing
+1.3,Beef (beef herd),Processing
+1.1,Beef (dairy herd),Processing
+0.7,Cheese,Processing
+0.6,Coffee,Processing
+0.0,Eggs,Processing
+0.0,Fish (farmed),Processing
+1.1,Lamb & Mutton,Processing
+0.1,Maize,Processing
+0.1,Milk,Processing
+1.3,Palm Oil,Processing
+0.0,Peas,Processing
+0.3,Pig Meat,Processing
+0.4,Poultry Meat,Processing
+0.1,Rice,Processing
+0.0,Shrimps (farmed),Processing
+0.8,Tofu,Processing
+0.2,Wheat & Rye,Processing
+0.3,Bananas,Transport
+0.3,Beef (beef herd),Transport
+0.4,Beef (dairy herd),Transport
+0.1,Cheese,Transport
+0.1,Coffee,Transport
+0.1,Eggs,Transport
+0.1,Fish (farmed),Transport
+0.5,Lamb & Mutton,Transport
+0.1,Maize,Transport
+0.1,Milk,Transport
+0.2,Palm Oil,Transport
+0.1,Peas,Transport
+0.3,Pig Meat,Transport
+0.3,Poultry Meat,Transport
+0.1,Rice,Transport
+0.2,Shrimps (farmed),Transport
+0.2,Tofu,Transport
+0.1,Wheat & Rye,Transport
+0.0,Bananas,Retail
+0.2,Beef (beef herd),Retail
+0.2,Beef (dairy herd),Retail
+0.3,Cheese,Retail
+0.1,Coffee,Retail
+0.0,Eggs,Retail
+0.0,Fish (farmed),Retail
+0.2,Lamb & Mutton,Retail
+0.0,Maize,Retail
+0.3,Milk,Retail
+0.0,Palm Oil,Retail
+0.0,Peas,Retail
+0.2,Pig Meat,Retail
+0.2,Poultry Meat,Retail
+0.1,Rice,Retail
+0.2,Shrimps (farmed),Retail
+0.3,Tofu,Retail
+0.1,Wheat & Rye,Retail
+0.1,Bananas,Packaging
+0.2,Beef (beef herd),Packaging
+0.3,Beef (dairy herd),Packaging
+0.2,Cheese,Packaging
+1.6,Coffee,Packaging
+0.2,Eggs,Packaging
+0.1,Fish (farmed),Packaging
+0.3,Lamb & Mutton,Packaging
+0.1,Maize,Packaging
+0.1,Milk,Packaging
+0.9,Palm Oil,Packaging
+0.0,Peas,Packaging
+0.3,Pig Meat,Packaging
+0.2,Poultry Meat,Packaging
+0.1,Rice,Packaging
+0.3,Shrimps (farmed),Packaging
+0.2,Tofu,Packaging
+0.1,Wheat & Rye,Packaging

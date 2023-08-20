@@ -1,17 +1,17 @@
-value,model,group,group,min,max,group
--0.016494845,Uncontrolled,White majority,White majority,-0.030412371,-0.0041237109999999995,White majority
--0.03814433,Uncontrolled,White other,White other,-0.109278351,0.042268041,White other
-0.015979381,Uncontrolled,Indian,Indian,-0.079896907,0.113402062,Indian
--0.19587628899999998,Uncontrolled,Pakistani & Bangladeshi,Pakistani & Bangladeshi,-0.359793814,-0.035051546,Pakistani & Bangladeshi
--0.117010309,Uncontrolled,South East Asian,South East Asian,-0.35360824700000004,0.114948454,South East Asian
--0.109278351,Uncontrolled,Black groups,Black groups,-0.219072165,-0.008762886999999999,Black groups
--0.01761658,Controlled,White majority,White majority,-0.026943005,0.001036269,White majority
--0.053367875999999995,Controlled,White other,White other,-0.12331606199999999,0.021243522999999997,White other
-0.02746114,Controlled,Indian,Indian,-0.075129534,0.13005181300000002,Indian
--0.14352331599999998,Controlled,Pakistani & Bangladeshi,Pakistani & Bangladeshi,-0.281865285,-0.003626943,Pakistani & Bangladeshi
--0.132642487,Controlled,South East Asian,South East Asian,-0.372020725,0.111398964,South East Asian
--0.12176165800000001,Controlled,Black groups,Black groups,-0.22590673600000002,-0.019170984,Black groups
--0.02,Uncontrolled,White majority,White majority,-0.03,-0.01,White majority
--0.02,Controlled,White majority,White majority,-0.03,0.0,White majority
--0.01,Uncontrolled,White majority,White majority,-0.02,-0.002,White majority
--0.01,Controlled,White majority,White majority,-0.02,-0.002,White majority
+max,value,min,model,group
+-0.0041237109999999995,-0.016494845,-0.030412371,Uncontrolled,White majority
+0.042268041,-0.03814433,-0.109278351,Uncontrolled,White other
+0.113402062,0.015979381,-0.079896907,Uncontrolled,Indian
+-0.035051546,-0.19587628899999998,-0.359793814,Uncontrolled,Pakistani & Bangladeshi
+0.114948454,-0.117010309,-0.35360824700000004,Uncontrolled,South East Asian
+-0.008762886999999999,-0.109278351,-0.219072165,Uncontrolled,Black groups
+0.001036269,-0.01761658,-0.026943005,Controlled,White majority
+0.021243522999999997,-0.053367875999999995,-0.12331606199999999,Controlled,White other
+0.13005181300000002,0.02746114,-0.075129534,Controlled,Indian
+-0.003626943,-0.14352331599999998,-0.281865285,Controlled,Pakistani & Bangladeshi
+0.111398964,-0.132642487,-0.372020725,Controlled,South East Asian
+-0.019170984,-0.12176165800000001,-0.22590673600000002,Controlled,Black groups
+-0.01,-0.02,-0.03,Uncontrolled,White majority
+0.0,-0.02,-0.03,Controlled,White majority
+-0.002,-0.01,-0.02,Uncontrolled,White majority
+-0.002,-0.01,-0.02,Controlled,White majority

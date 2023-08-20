@@ -12,7 +12,7 @@
   <style>
     body {
       font-family: Arial, sans-serif;
-      margin: 0;
+      margin: 0, 100px;
       padding: 20px;
       display: flex;
       flex-direction: column;
@@ -46,17 +46,18 @@
       color: #333;
     }
 
-    .show-csv {
+    .show-box {
       display: flex;
       align-items: center;
-      margin-left: 20px;
+      padding-left: 20px;
+      padding-right: 20px;
     }
 
-    .show-csv label {
+    .show-box label {
       margin-right: 10px;
     }
 
-    .show-csv input[type="checkbox"] {
+    .show-box input[type="checkbox"] {
       appearance: none;
       -webkit-appearance: none;
       -moz-appearance: none;
@@ -69,12 +70,12 @@
       transition: border-color 0.3s ease;
     }
 
-    .show-csv input[type="checkbox"]:checked {
+    .show-box input[type="checkbox"]:checked {
       border-color: #00b300;
       background-color: #00b300;
     }
 
-    .show-csv input[type="checkbox"]:checked::before {
+    .show-box input[type="checkbox"]:checked::before {
       content: "\2714";
       font-size: 16px;
       color: white;
@@ -88,14 +89,15 @@
       align-items: top;
       flex-wrap: wrap;
       width: 100%;
-      margin-top: 20px;
+      margin-top: 10px;
+      margin-bottom: 10px;
     }
 
     .chart-container {
       overflow-x: auto;
       overflow-y: auto;
-      /* flex: 1; */
-      min-width: 500px;
+      flex: 1;
+      min-width: 600px;
       /* max-height: 500px; */
     }
 
@@ -141,26 +143,26 @@
 <body>
   <h1>Vega-Lite Chart Annotation</h1>
   <div class="container">
-    <div>
+    <div class="show-box">
       <label for="chartSelector">Select Chart:</label>
       <select id="chartSelector"></select>
     </div>
-
-    <div class="show-csv">
-      <div>
-        <input type="checkbox" id="showCsvCheckbox" checked>
-        <label for="showCsvCheckbox">Show CSV Data</label>
-      </div>
-      <div>
-        <input type="checkbox" id="showDescCheckbox" checked>
-        <label for="showDescCheckbox">Show Desciption</label>
-      </div>
+    <div class="show-box">
+      <label for="showCsvCheckbox">Show CSV Data:</label>
+      <input type="checkbox" id="showCsvCheckbox" checked>
+    </div>
+    <div class="show-box">
+      <label for="showDescCheckbox">Show Desciption:</label>
+      <input type="checkbox" id="showDescCheckbox" checked>
     </div>
   </div>
 
   <div class="container">
-    <div class="chart-container" id="chartContainer"></div>
     <div class="description-container" id="descriptionContainer"></div>
+  </div>
+
+  <div class="container">
+    <div class="chart-container" id="chartContainer"></div>
     <div class="csv-container" id="csvContainer">
       <div class="data-info" id="dataInfoContainer"></div>
       <h2>CSV Data</h2>

@@ -1,2 +1,4 @@
 assets/data_raw*
-assets/chart_*
+.env
+task*
+tmp_*

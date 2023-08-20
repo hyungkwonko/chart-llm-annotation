@@ -1,24 +1,24 @@
-Country,Corporate Tax Rate
-Argentina,25.0
-Australia,30.0
-Brazil,34.0
-Canada,26.5
-China,25.0
-France,26.5
-Germany,30.0
-India,34.94
-Indonesia,22.0
-Italy,24.0
-Japan,30.62
-Mexico,30.0
-Netherlands,25.8
-Russia,20.0
-Saudi Arabia,20.0
-Singapore,17.0
-South Africa,28.0
-South Korea,27.5
-Spain,25.0
-Switzerland,14.93
-Turkey,23.0
-United Kingdom,19.0
-United States,21.0
+Corporate Tax Rate,Country
+25.0,Argentina
+30.0,Australia
+34.0,Brazil
+26.5,Canada
+25.0,China
+26.5,France
+30.0,Germany
+34.94,India
+22.0,Indonesia
+24.0,Italy
+30.62,Japan
+30.0,Mexico
+25.8,Netherlands
+20.0,Russia
+20.0,Saudi Arabia
+17.0,Singapore
+28.0,South Africa
+27.5,South Korea
+25.0,Spain
+14.93,Switzerland
+23.0,Turkey
+19.0,United Kingdom
+21.0,United States

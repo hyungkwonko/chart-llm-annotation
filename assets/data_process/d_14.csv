@@ -1,277 +1,277 @@
-period2,Industry
-1,z. Others
-1,Automotive
-1,Retail
-1,Construction
-1,Hospitality
-1,Recreation & culture
-1,Other service
-1,Transport
-1,Wholesale
-1,IT
-1,Manufacturing
-1,Other business
-1,Other business
-1,Construction
-1,Other service
-1,Recreation & culture
-1,Wholesale
-1,Transport
-1,Automotive
-1,Manufacturing
-1,Hospitality
-1,Retail
-1,IT
-1,z. Others
-1,Manufacturing
-1,Automotive
-1,Recreation & culture
-1,Retail
-1,Wholesale
-1,z. Others
-1,Construction
-1,Other business
-1,Hospitality
-1,Other service
-1,Transport
-1,IT
-1,Retail
-1,Manufacturing
-1,Other service
-1,Automotive
-1,Transport
-1,Construction
-1,Hospitality
-1,Wholesale
-1,IT
-1,Other business
-1,Recreation & culture
-1,z. Others
-1,Transport
-1,Manufacturing
-1,IT
-1,Other service
-1,Automotive
-1,z. Others
-1,Recreation & culture
-1,Retail
-1,Wholesale
-1,Construction
-1,Other business
-1,Hospitality
-1,Wholesale
-1,Other business
-1,IT
-1,Automotive
-1,Transport
-1,Hospitality
-1,Other service
-1,Retail
-1,Construction
-1,Recreation & culture
-1,z. Others
-1,Manufacturing
-1,Manufacturing
-1,IT
-1,Transport
-1,Construction
-1,Wholesale
-1,z. Others
-1,Other business
-1,Automotive
-1,Other service
-1,Recreation & culture
-1,Hospitality
-1,Retail
-1,Automotive
-1,z. Others
-1,Hospitality
-1,Recreation & culture
-1,Retail
-1,Other business
-1,Wholesale
-1,Construction
-1,Manufacturing
-1,Other service
-1,IT
-1,Transport
-1,Retail
-1,Wholesale
-1,Transport
-1,Other service
-1,Other business
-1,Manufacturing
-1,z. Others
-1,IT
-1,Automotive
-1,Construction
-1,Hospitality
-1,Recreation & culture
-1,Construction
-1,Hospitality
-1,Other service
-1,z. Others
-1,Transport
-1,IT
-1,Other business
-1,Manufacturing
-1,Retail
-1,Recreation & culture
-1,Automotive
-1,Wholesale
-1,Manufacturing
-1,Retail
-1,IT
-1,Transport
-1,z. Others
-1,Automotive
-1,Recreation & culture
-1,Construction
-1,Other service
-1,Other business
-1,Hospitality
-1,Wholesale
-1,Recreation & culture
-1,Manufacturing
-1,Other service
-1,Wholesale
-1,Other business
-1,z. Others
-1,Automotive
-1,Hospitality
-1,Transport
-1,Construction
-1,Retail
-1,IT
-1,IT
-1,Hospitality
-1,Recreation & culture
-1,Automotive
-1,Manufacturing
-1,Other business
-1,Construction
-1,Retail
-1,Transport
-1,Other service
-1,z. Others
-1,Wholesale
-2,Transport
-2,Hospitality
-2,Wholesale
-2,Construction
-2,Other service
-2,Manufacturing
-2,Retail
-2,z. Others
-2,Recreation & culture
-2,Automotive
-2,Other business
-2,IT
-2,Automotive
-2,z. Others
-2,Hospitality
-2,Other service
-2,Other business
-2,Retail
-2,Recreation & culture
-2,Manufacturing
-2,Construction
-2,IT
-2,Transport
-2,Wholesale
-2,Manufacturing
-2,z. Others
-2,Recreation & culture
-2,IT
-2,Hospitality
-2,Wholesale
-2,Retail
-2,Automotive
-2,Other service
-2,Construction
-2,Other business
-2,Transport
-2,Construction
-2,z. Others
-2,Other service
-2,Manufacturing
-2,Retail
-2,Transport
-2,Hospitality
-2,Automotive
-2,Other business
-2,Wholesale
-2,Recreation & culture
-2,IT
-2,Transport
-2,Other service
-2,z. Others
-2,IT
-2,Other business
-2,Construction
-2,Wholesale
-2,Manufacturing
-2,Recreation & culture
-2,Automotive
-2,Retail
-2,Hospitality
-2,Hospitality
-2,IT
-2,z. Others
-2,Other service
-2,Transport
-2,Construction
-2,Other business
-2,Retail
-2,Wholesale
-2,Manufacturing
-2,Recreation & culture
-2,Automotive
-2,Recreation & culture
-2,Other business
-2,Manufacturing
-2,Automotive
-2,z. Others
-2,Construction
-2,IT
-2,Wholesale
-2,Retail
-2,Other service
-2,Transport
-2,Hospitality
-2,Other service
-2,Retail
-2,Recreation & culture
-2,Transport
-2,Construction
-2,Other business
-2,Automotive
-2,IT
-2,z. Others
-2,Hospitality
-2,Wholesale
-2,Manufacturing
-2,Manufacturing
-2,Other business
-2,Other service
-2,Construction
-2,Wholesale
-2,Transport
-2,Recreation & culture
-2,Automotive
-2,IT
-2,z. Others
-2,Retail
-2,Hospitality
-2,Automotive
-2,Manufacturing
-2,Other service
-2,Hospitality
-2,Wholesale
-2,IT
-2,Recreation & culture
-2,Other business
-2,Transport
-2,Construction
-2,z. Others
-2,Retail
+Industry,period2
+z. Others,1
+Automotive,1
+Retail,1
+Construction,1
+Hospitality,1
+Recreation & culture,1
+Other service,1
+Transport,1
+Wholesale,1
+IT,1
+Manufacturing,1
+Other business,1
+Other business,1
+Construction,1
+Other service,1
+Recreation & culture,1
+Wholesale,1
+Transport,1
+Automotive,1
+Manufacturing,1
+Hospitality,1
+Retail,1
+IT,1
+z. Others,1
+Manufacturing,1
+Automotive,1
+Recreation & culture,1
+Retail,1
+Wholesale,1
+z. Others,1
+Construction,1
+Other business,1
+Hospitality,1
+Other service,1
+Transport,1
+IT,1
+Retail,1
+Manufacturing,1
+Other service,1
+Automotive,1
+Transport,1
+Construction,1
+Hospitality,1
+Wholesale,1
+IT,1
+Other business,1
+Recreation & culture,1
+z. Others,1
+Transport,1
+Manufacturing,1
+IT,1
+Other service,1
+Automotive,1
+z. Others,1
+Recreation & culture,1
+Retail,1
+Wholesale,1
+Construction,1
+Other business,1
+Hospitality,1
+Wholesale,1
+Other business,1
+IT,1
+Automotive,1
+Transport,1
+Hospitality,1
+Other service,1
+Retail,1
+Construction,1
+Recreation & culture,1
+z. Others,1
+Manufacturing,1
+Manufacturing,1
+IT,1
+Transport,1
+Construction,1
+Wholesale,1
+z. Others,1
+Other business,1
+Automotive,1
+Other service,1
+Recreation & culture,1
+Hospitality,1
+Retail,1
+Automotive,1
+z. Others,1
+Hospitality,1
+Recreation & culture,1
+Retail,1
+Other business,1
+Wholesale,1
+Construction,1
+Manufacturing,1
+Other service,1
+IT,1
+Transport,1
+Retail,1
+Wholesale,1
+Transport,1
+Other service,1
+Other business,1
+Manufacturing,1
+z. Others,1
+IT,1
+Automotive,1
+Construction,1
+Hospitality,1
+Recreation & culture,1
+Construction,1
+Hospitality,1
+Other service,1
+z. Others,1
+Transport,1
+IT,1
+Other business,1
+Manufacturing,1
+Retail,1
+Recreation & culture,1
+Automotive,1
+Wholesale,1
+Manufacturing,1
+Retail,1
+IT,1
+Transport,1
+z. Others,1
+Automotive,1
+Recreation & culture,1
+Construction,1
+Other service,1
+Other business,1
+Hospitality,1
+Wholesale,1
+Recreation & culture,1
+Manufacturing,1
+Other service,1
+Wholesale,1
+Other business,1
+z. Others,1
+Automotive,1
+Hospitality,1
+Transport,1
+Construction,1
+Retail,1
+IT,1
+IT,1
+Hospitality,1
+Recreation & culture,1
+Automotive,1
+Manufacturing,1
+Other business,1
+Construction,1
+Retail,1
+Transport,1
+Other service,1
+z. Others,1
+Wholesale,1
+Transport,2
+Hospitality,2
+Wholesale,2
+Construction,2
+Other service,2
+Manufacturing,2
+Retail,2
+z. Others,2
+Recreation & culture,2
+Automotive,2
+Other business,2
+IT,2
+Automotive,2
+z. Others,2
+Hospitality,2
+Other service,2
+Other business,2
+Retail,2
+Recreation & culture,2
+Manufacturing,2
+Construction,2
+IT,2
+Transport,2
+Wholesale,2
+Manufacturing,2
+z. Others,2
+Recreation & culture,2
+IT,2
+Hospitality,2
+Wholesale,2
+Retail,2
+Automotive,2
+Other service,2
+Construction,2
+Other business,2
+Transport,2
+Construction,2
+z. Others,2
+Other service,2
+Manufacturing,2
+Retail,2
+Transport,2
+Hospitality,2
+Automotive,2
+Other business,2
+Wholesale,2
+Recreation & culture,2
+IT,2
+Transport,2
+Other service,2
+z. Others,2
+IT,2
+Other business,2
+Construction,2
+Wholesale,2
+Manufacturing,2
+Recreation & culture,2
+Automotive,2
+Retail,2
+Hospitality,2
+Hospitality,2
+IT,2
+z. Others,2
+Other service,2
+Transport,2
+Construction,2
+Other business,2
+Retail,2
+Wholesale,2
+Manufacturing,2
+Recreation & culture,2
+Automotive,2
+Recreation & culture,2
+Other business,2
+Manufacturing,2
+Automotive,2
+z. Others,2
+Construction,2
+IT,2
+Wholesale,2
+Retail,2
+Other service,2
+Transport,2
+Hospitality,2
+Other service,2
+Retail,2
+Recreation & culture,2
+Transport,2
+Construction,2
+Other business,2
+Automotive,2
+IT,2
+z. Others,2
+Hospitality,2
+Wholesale,2
+Manufacturing,2
+Manufacturing,2
+Other business,2
+Other service,2
+Construction,2
+Wholesale,2
+Transport,2
+Recreation & culture,2
+Automotive,2
+IT,2
+z. Others,2
+Retail,2
+Hospitality,2
+Automotive,2
+Manufacturing,2
+Other service,2
+Hospitality,2
+Wholesale,2
+IT,2
+Recreation & culture,2
+Other business,2
+Transport,2
+Construction,2
+z. Others,2
+Retail,2
